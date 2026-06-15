@@ -19,22 +19,6 @@ In this project, I acted as a Lead BI Analyst to solve three critical business c
 * **Pareto Disruption:** **60% of SKUs** (15 items) generate **80% of revenue**. The remaining 40% (10 items) are identified as "Dead Weight" dragging down margin performance.
 * **Forecasted Q1 Recovery:** Modeled an upward recovery trend targeting `Rp 279M` (Jan), `Rp 289M` (Feb), and `Rp 299M` (Mar) in monthly sales.
 
----
-
-## 🛠️ Data Architecture & Workflow Pipeline
-
-The analytical framework follows a modern enterprise BI pipeline from raw transactional databases to boardroom-ready executive summaries:
-
-```mermaid
-graph TD
-    A[Raw Sales Data: 1,500 Transactions] -->|Preprocessing & EDA| B[Jupyter Notebook / Python]
-    B -->|Feature Engineering & Pareto Analysis| C[Analytical SQL Database Views]
-    C -->|Relational Queries & Channel Mix| D[Interactive Looker Studio Dashboard]
-    D -->|Executive Recommendations| E[Business Case Study Document]
-    B -->|Predictive Linear Regression| F[Q1 Revenue Forecasts]
-```
-
----
 
 ## 🔍 Core Insights & Strategic Impact
 
