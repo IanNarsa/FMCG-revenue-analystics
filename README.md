@@ -57,7 +57,6 @@ Navigate through the code files that power these insights:
 * **Data Wrangling & Descriptive Analytics:** `Python (Pandas, NumPy)` for dataset diagnostics, missing values audits, and multi-dimensional aggregations.
 * **Statistical Modeling & Forecasting:** `Scikit-Learn (LinearRegression)` for calculating trend-based seasonal revenues.
 * **Exploratory Data Visualization:** `Matplotlib` and `Seaborn` to plot margin distributions, customer segment charts, and SKU matrices.
-* **Structured Data Access:** Enterprise-compliant SQL queries optimized for indexing and scalable BI ingestion.
 * **Strategic Communication:** Translating deep technical data charts into business language (Pareto rule, BCG-style matrix classifications, operational recommendations).
 
 ---
