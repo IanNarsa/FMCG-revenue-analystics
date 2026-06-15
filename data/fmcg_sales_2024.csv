@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Region,City,Sales_Channel,Product_Category,Product_Name,Units_Sold,Selling_Price,Unit_Cost,Revenue,Cost,Profit,Customer_Type
+TXN-0001,2024-01-03,Banten,Tangerang,General Trade,Milk,Premium Whole Milk 1L,34,23000,20500,782000,697000,85000,Retail
+TXN-0002,2024-01-03,Banten,Tangerang,Modern Trade,Milk,Premium Whole Milk 1L,24,25000,22500,600000,540000,60000,Retail
+TXN-0003,2024-01-03,Jakarta,Jakarta Selatan,General Trade,Milk,Chocolate 1L,12,21500,18500,258000,222000,36000,Retail
+TXN-0004,2024-01-03,East Java,Malang,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,193,18500,15500,3570500,2991500,579000,Institution
+TXN-0005,2024-01-03,Sumatera,Padang,General Trade,Nugget,Fiesta Crispy Nugget 400g,37,39000,33000,1443000,1221000,222000,Retail
+TXN-0006,2024-01-03,Sumatera,Banda Aceh,Modern Trade,Milk,Cimory Chocolate 200ml,69,6000,5000,414000,345000,69000,HoReCa
+TXN-0007,2024-01-04,Sumatera,Padang,Modern Trade,Cheese,Prochiz Gold Slices 150g,25,27000,20500,675000,512500,162500,Retail
+TXN-0008,2024-01-04,Kalimantan,Banjarmasin,General Trade,Milk,Premium Whole Milk 1L,21,26500,23500,556500,493500,63000,Wholesale
+TXN-0009,2024-01-05,Banten,Serang,General Trade,Sausage,Farmhouse Sausage 250g,8,28000,22500,224000,180000,44000,Retail
+TXN-0010,2024-01-05,Central Java,Solo,Distributor,Cheese,Kiri Cream Cheese 80g,131,25500,20000,3340500,2620000,720500,HoReCa
+TXN-0011,2024-01-05,Banten,Serang,Modern Trade,Milk,Cimory Full Cream 1L,46,22500,20000,1035000,920000,115000,HoReCa
+TXN-0012,2024-01-05,East Java,Malang,Distributor,Milk,Cimory Full Cream 1L,195,22000,19000,4290000,3705000,585000,Wholesale
+TXN-0013,2024-01-06,Central Java,Tegal,General Trade,Yoghurt,Cimory Yoghurt 500g,16,34000,28000,544000,448000,96000,Retail
+TXN-0014,2024-01-06,Kalimantan,Banjarmasin,General Trade,Cheese,Kraft Cheddar Cheese 165g,11,30000,22000,330000,242000,88000,Retail
+TXN-0015,2024-01-06,Jakarta,Jakarta Utara,Distributor,Sausage,So Good Chicken Sausage 375g,154,36000,29500,5544000,4543000,1001000,Institution
+TXN-0016,2024-01-06,Jakarta,Jakarta Selatan,Modern Trade,Sausage,So Good Chicken Sausage 375g,43,36500,28000,1569500,1204000,365500,Retail
+TXN-0017,2024-01-07,East Java,Surabaya,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,26,8000,6500,208000,169000,39000,Retail
+TXN-0018,2024-01-07,Jakarta,Jakarta Pusat,Modern Trade,Yoghurt,Cimory Yoghurt 500g,57,28500,23000,1624500,1311000,313500,Retail
+TXN-0019,2024-01-07,Jakarta,Jakarta Timur,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,66,32000,22500,2112000,1485000,627000,Retail
+TXN-0020,2024-01-08,Yogyakarta,Bantul,General Trade,Sausage,Vida Beef Sausage 200g,23,19000,14500,437000,333500,103500,Retail
+TXN-0021,2024-01-08,West Java,Bandung,General Trade,Milk,Chocolate 1L,30,18000,16000,540000,480000,60000,Retail
+TXN-0022,2024-01-08,Kalimantan,Pontianak,Modern Trade,Milk,Cimory Milk Vanilla 200ml,20,5500,5000,110000,100000,10000,HoReCa
+TXN-0023,2024-01-08,Jakarta,Jakarta Barat,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,50,21000,18000,1050000,900000,150000,Retail
+TXN-0024,2024-01-08,Jakarta,Jakarta Pusat,General Trade,Nugget,So Good Chicken Nugget 500g,19,43500,37000,826500,703000,123500,Wholesale
+TXN-0025,2024-01-09,Central Java,Solo,General Trade,Milk,Premium Whole Milk 1L,39,23000,20000,897000,780000,117000,Retail
+TXN-0026,2024-01-09,Sumatera,Banda Aceh,Modern Trade,Sausage,So Good Chicken Sausage 375g,18,36500,30000,657000,540000,117000,Retail
+TXN-0027,2024-01-09,Central Java,Tegal,General Trade,Milk,Chocolate 1L,21,19000,17000,399000,357000,42000,Wholesale
+TXN-0028,2024-01-10,Central Java,Tegal,Modern Trade,Sausage,Bernardi Beef Sausage 500g,51,56000,43000,2856000,2193000,663000,Retail
+TXN-0029,2024-01-10,Central Java,Solo,Distributor,Cheese,Kiri Cream Cheese 80g,54,24500,18000,1323000,972000,351000,Institution
+TXN-0030,2024-01-10,Jakarta,Jakarta Timur,Modern Trade,Nugget,Belfoods Royal Nugget 500g,47,38000,33000,1786000,1551000,235000,Retail
+TXN-0031,2024-01-11,Central Java,Semarang,Distributor,Cheese,Anchor Cheddar Block 500g,58,76500,61000,4437000,3538000,899000,Institution
+TXN-0032,2024-01-11,Jakarta,Jakarta Utara,Distributor,Milk,Premium Whole Milk 1L,113,26500,23500,2994500,2655500,339000,Institution
+TXN-0033,2024-01-11,East Java,Kediri,Distributor,Nugget,Champ Chicken Nugget 250g,143,20000,17000,2860000,2431000,429000,Wholesale
+TXN-0034,2024-01-11,Jakarta,Jakarta Timur,Modern Trade,Nugget,So Good Chicken Nugget 500g,34,53500,44500,1819000,1513000,306000,Retail
+TXN-0035,2024-01-12,Sumatera,Pekanbaru,General Trade,Nugget,Fiesta Crispy Nugget 400g,37,42000,37000,1554000,1369000,185000,Retail
+TXN-0036,2024-01-12,Yogyakarta,Sleman,Modern Trade,Nugget,So Good Chicken Nugget 500g,29,51500,45000,1493500,1305000,188500,Retail
+TXN-0037,2024-01-12,East Java,Kediri,General Trade,Milk,Chocolate 1L,30,21500,19500,645000,585000,60000,Wholesale
+TXN-0038,2024-01-12,West Java,Bogor,Distributor,Cheese,Kiri Cream Cheese 80g,141,22000,16000,3102000,2256000,846000,Wholesale
+TXN-0039,2024-01-12,West Java,Bandung,Distributor,Sausage,So Good Chicken Sausage 375g,108,32000,26000,3456000,2808000,648000,Institution
+TXN-0040,2024-01-12,Jakarta,Jakarta Pusat,Modern Trade,Nugget,Belfoods Royal Nugget 500g,64,47500,39500,3040000,2528000,512000,Retail
+TXN-0041,2024-01-12,Central Java,Semarang,General Trade,Cheese,Kiri Cream Cheese 80g,34,27000,19000,918000,646000,272000,Wholesale
+TXN-0042,2024-01-13,Central Java,Solo,Distributor,Sausage,So Good Chicken Sausage 375g,173,40500,33000,7006500,5709000,1297500,Wholesale
+TXN-0043,2024-01-13,Kalimantan,Balikpapan,Modern Trade,Sausage,Farmhouse Sausage 250g,62,21000,16000,1302000,992000,310000,Retail
+TXN-0044,2024-01-14,Sumatera,Padang,Modern Trade,Sausage,So Good Chicken Sausage 375g,50,40500,32500,2025000,1625000,400000,Retail
+TXN-0045,2024-01-14,East Java,Surabaya,Distributor,Milk,Cimory Milk Vanilla 200ml,216,5500,5000,1188000,1080000,108000,Wholesale
+TXN-0046,2024-01-14,Kalimantan,Banjarmasin,Distributor,Milk,Premium Whole Milk 1L,50,25500,21500,1275000,1075000,200000,Institution
+TXN-0047,2024-01-14,East Java,Kediri,General Trade,Nugget,Champ Chicken Nugget 250g,14,21000,17500,294000,245000,49000,Retail
+TXN-0048,2024-01-14,Jakarta,Jakarta Timur,Distributor,Cheese,Prochiz Gold Slices 150g,162,30000,22000,4860000,3564000,1296000,Wholesale
+TXN-0049,2024-01-14,West Java,Tasikmalaya,Distributor,Cheese,Kraft Cheddar Cheese 165g,202,32500,25500,6565000,5151000,1414000,Wholesale
+TXN-0050,2024-01-14,Yogyakarta,Bantul,General Trade,Milk,Premium Whole Milk 1L,41,23000,20000,943000,820000,123000,Wholesale
+TXN-0051,2024-01-14,Kalimantan,Pontianak,General Trade,Sausage,Vida Beef Sausage 200g,36,18500,15000,666000,540000,126000,Retail
+TXN-0052,2024-01-15,East Java,Jember,General Trade,Milk,Premium Whole Milk 1L,36,25000,21500,900000,774000,126000,Retail
+TXN-0053,2024-01-15,West Java,Cimahi,General Trade,Cheese,Kiri Cream Cheese 80g,15,20500,14500,307500,217500,90000,Retail
+TXN-0054,2024-01-15,Sumatera,Palembang,Modern Trade,Milk,Cimory Milk Vanilla 200ml,17,5000,4500,85000,76500,8500,Retail
+TXN-0055,2024-01-15,Banten,Serang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,32,10500,9000,336000,288000,48000,Wholesale
+TXN-0056,2024-01-15,Sumatera,Medan,Distributor,Milk,Chocolate 1L,125,21000,18000,2625000,2250000,375000,Institution
+TXN-0057,2024-01-16,Kalimantan,Banjarmasin,General Trade,Sausage,Farmhouse Sausage 250g,29,26500,20000,768500,580000,188500,Wholesale
+TXN-0058,2024-01-16,Kalimantan,Samarinda,Distributor,Cheese,Anchor Cheddar Block 500g,127,83000,60000,10541000,7620000,2921000,Wholesale
+TXN-0059,2024-01-16,Central Java,Pekalongan,Distributor,Cheese,Laughing Cow Creamy 8pcs,57,21500,16500,1225500,940500,285000,Wholesale
+TXN-0060,2024-01-16,East Java,Kediri,Distributor,Milk,Cimory Milk Vanilla 200ml,70,4500,4000,315000,280000,35000,Wholesale
+TXN-0061,2024-01-17,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,40,19500,16000,780000,640000,140000,Retail
+TXN-0062,2024-01-17,Yogyakarta,Wonosari,General Trade,Nugget,So Good Chicken Nugget 500g,39,46000,39500,1794000,1540500,253500,Wholesale
+TXN-0063,2024-01-17,Jakarta,Jakarta Timur,Distributor,Nugget,Champ Chicken Nugget 250g,129,24500,21000,3160500,2709000,451500,Wholesale
+TXN-0064,2024-01-18,Yogyakarta,Wonosari,General Trade,Sausage,So Good Chicken Sausage 375g,26,41000,31000,1066000,806000,260000,Wholesale
+TXN-0065,2024-01-18,Banten,Tangerang,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,28,11500,9500,322000,266000,56000,Retail
+TXN-0066,2024-01-18,Jakarta,Jakarta Utara,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,88,23500,19000,2068000,1672000,396000,Wholesale
+TXN-0067,2024-01-18,West Java,Cimahi,Modern Trade,Nugget,Champ Chicken Nugget 250g,67,22000,19500,1474000,1306500,167500,Retail
+TXN-0068,2024-01-18,West Java,Bekasi,Modern Trade,Milk,Chocolate 1L,51,18000,16000,918000,816000,102000,Retail
+TXN-0069,2024-01-18,Central Java,Pekalongan,Distributor,Milk,Premium Whole Milk 1L,64,25500,22000,1632000,1408000,224000,Institution
+TXN-0070,2024-01-18,Sulawesi,Makassar,General Trade,Nugget,Fiesta Crispy Nugget 400g,20,41500,34500,830000,690000,140000,Wholesale
+TXN-0071,2024-01-18,Central Java,Magelang,General Trade,Cheese,Prochiz Gold Slices 150g,38,25000,18000,950000,684000,266000,Retail
+TXN-0072,2024-01-19,West Java,Cimahi,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,133,10500,8500,1396500,1130500,266000,Wholesale
+TXN-0073,2024-01-19,Sumatera,Padang,Modern Trade,Nugget,Champ Chicken Nugget 250g,53,25500,21000,1351500,1113000,238500,Retail
+TXN-0074,2024-01-19,Bali,Singaraja,General Trade,Nugget,Contadina Crispy Nugget 250g,37,25000,21500,925000,795500,129500,Retail
+TXN-0075,2024-01-20,East Java,Malang,Distributor,Milk,Chocolate 1L,125,21500,19000,2687500,2375000,312500,Institution
+TXN-0076,2024-01-20,East Java,Surabaya,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,16,11000,9000,176000,144000,32000,Retail
+TXN-0077,2024-01-20,Banten,Cilegon,General Trade,Cheese,Kraft Cheddar Cheese 165g,22,29500,23000,649000,506000,143000,Retail
+TXN-0078,2024-01-20,Central Java,Tegal,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,15,7500,6500,112500,97500,15000,Wholesale
+TXN-0079,2024-01-20,East Java,Blitar,General Trade,Cheese,Prochiz Gold Slices 150g,27,27000,19000,729000,513000,216000,Retail
+TXN-0080,2024-01-21,Jakarta,Jakarta Utara,Modern Trade,Milk,Premium Whole Milk 1L,43,23000,20500,989000,881500,107500,Retail
+TXN-0081,2024-01-21,Central Java,Solo,General Trade,Milk,Chocolate 1L,29,20000,17000,580000,493000,87000,Wholesale
+TXN-0082,2024-01-21,Sumatera,Pekanbaru,Modern Trade,Milk,Cimory Chocolate 200ml,28,4500,4000,126000,112000,14000,HoReCa
+TXN-0083,2024-01-21,Jakarta,Jakarta Selatan,General Trade,Sausage,Farmhouse Sausage 250g,17,21000,17000,357000,289000,68000,Retail
+TXN-0084,2024-01-23,East Java,Surabaya,Modern Trade,Nugget,Belfoods Royal Nugget 500g,41,38500,33500,1578500,1373500,205000,Retail
+TXN-0085,2024-01-23,Yogyakarta,Sleman,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,19,19000,13500,361000,256500,104500,Retail
+TXN-0086,2024-01-23,Banten,Serang,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,147,12500,10500,1837500,1543500,294000,Wholesale
+TXN-0087,2024-01-23,Jakarta,Jakarta Pusat,General Trade,Sausage,Kimbo Beef Sausage 375g,14,36500,29500,511000,413000,98000,Wholesale
+TXN-0088,2024-01-23,Central Java,Solo,General Trade,Milk,Cimory Chocolate 200ml,24,5500,5000,132000,120000,12000,Retail
+TXN-0089,2024-01-24,East Java,Kediri,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,36,23000,18500,828000,666000,162000,Retail
+TXN-0090,2024-01-25,Yogyakarta,Sleman,General Trade,Cheese,Kiri Cream Cheese 80g,37,25000,17500,925000,647500,277500,Retail
+TXN-0091,2024-01-25,Central Java,Pekalongan,General Trade,Sausage,Kimbo Beef Sausage 375g,24,36000,28500,864000,684000,180000,Retail
+TXN-0092,2024-01-25,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt 500g,23,29000,24500,667000,563500,103500,Retail
+TXN-0093,2024-01-26,Central Java,Semarang,Modern Trade,Sausage,So Good Chicken Sausage 375g,14,40500,31500,567000,441000,126000,Retail
+TXN-0094,2024-01-26,Sumatera,Banda Aceh,Modern Trade,Sausage,So Good Chicken Sausage 375g,65,35500,27500,2307500,1787500,520000,Retail
+TXN-0095,2024-01-26,Banten,South Tangerang,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,62,9500,8000,589000,496000,93000,Wholesale
+TXN-0096,2024-01-27,Jakarta,Jakarta Barat,Modern Trade,Nugget,Belfoods Royal Nugget 500g,39,47500,40000,1852500,1560000,292500,Retail
+TXN-0097,2024-01-27,East Java,Jember,Distributor,Sausage,So Good Chicken Sausage 375g,125,30000,23000,3750000,2875000,875000,Wholesale
+TXN-0098,2024-01-28,Jakarta,Jakarta Timur,Distributor,Cheese,Kraft Cheddar Cheese 165g,140,33500,26000,4690000,3640000,1050000,HoReCa
+TXN-0099,2024-01-28,Jakarta,Jakarta Barat,Modern Trade,Nugget,So Good Chicken Nugget 500g,22,50000,43500,1100000,957000,143000,Retail
+TXN-0100,2024-01-28,Jakarta,Jakarta Pusat,Modern Trade,Sausage,Vida Beef Sausage 200g,50,17000,13000,850000,650000,200000,Retail
+TXN-0101,2024-01-29,Kalimantan,Pontianak,General Trade,Milk,Chocolate 1L,16,21000,18000,336000,288000,48000,Retail
+TXN-0102,2024-01-29,East Java,Blitar,General Trade,Nugget,Fiesta Crispy Nugget 400g,36,44500,38500,1602000,1386000,216000,Retail
+TXN-0103,2024-01-29,Kalimantan,Pontianak,Distributor,Milk,Chocolate 1L,219,18500,16000,4051500,3504000,547500,Wholesale
+TXN-0104,2024-01-29,West Java,Cimahi,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,41,23500,19500,963500,799500,164000,Wholesale
+TXN-0105,2024-01-30,Sulawesi,Manado,General Trade,Milk,Chocolate 1L,34,21000,19000,714000,646000,68000,Wholesale
+TXN-0106,2024-01-30,Sumatera,Padang,Distributor,Sausage,Farmhouse Sausage 250g,213,26500,21500,5644500,4579500,1065000,Wholesale
+TXN-0107,2024-01-30,Sulawesi,Kendari,Distributor,Nugget,So Good Chicken Nugget 500g,124,47500,40500,5890000,5022000,868000,Institution
+TXN-0108,2024-01-31,Jakarta,Jakarta Selatan,Modern Trade,Sausage,Kimbo Beef Sausage 375g,35,29500,23000,1032500,805000,227500,Retail
+TXN-0109,2024-01-31,East Java,Blitar,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,39,12000,9500,468000,370500,97500,Retail
+TXN-0110,2024-01-31,West Java,Tasikmalaya,General Trade,Milk,Premium Whole Milk 1L,43,23500,21000,1010500,903000,107500,Wholesale
+TXN-0111,2024-02-01,Yogyakarta,Yogyakarta,General Trade,Sausage,Vida Beef Sausage 200g,33,23000,19000,759000,627000,132000,Retail
+TXN-0112,2024-02-01,East Java,Malang,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,21,10500,9000,220500,189000,31500,Retail
+TXN-0113,2024-02-01,East Java,Malang,General Trade,Cheese,Prochiz Gold Slices 150g,22,26000,19000,572000,418000,154000,Wholesale
+TXN-0114,2024-02-01,Kalimantan,Samarinda,Distributor,Sausage,Bernardi Beef Sausage 500g,97,47500,37500,4607500,3637500,970000,Institution
+TXN-0115,2024-02-02,Banten,South Tangerang,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,35,20000,16000,700000,560000,140000,Retail
+TXN-0116,2024-02-02,East Java,Kediri,General Trade,Nugget,Champ Chicken Nugget 250g,29,22500,18500,652500,536500,116000,Retail
+TXN-0117,2024-02-02,Jakarta,Jakarta Pusat,Distributor,Sausage,Vida Beef Sausage 200g,168,22500,17000,3780000,2856000,924000,Wholesale
+TXN-0118,2024-02-02,Sumatera,Palembang,General Trade,Cheese,Kiri Cream Cheese 80g,29,25500,18500,739500,536500,203000,Wholesale
+TXN-0119,2024-02-02,Banten,Tangerang,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,17,6500,5500,110500,93500,17000,Retail
+TXN-0120,2024-02-03,Bali,Kuta,Modern Trade,Sausage,Kimbo Beef Sausage 375g,39,36000,28500,1404000,1111500,292500,Retail
+TXN-0121,2024-02-03,Central Java,Tegal,Distributor,Milk,Cimory Chocolate 200ml,117,6000,5000,702000,585000,117000,Wholesale
+TXN-0122,2024-02-03,Bali,Kuta,Distributor,Sausage,So Good Chicken Sausage 375g,172,42000,31500,7224000,5418000,1806000,Wholesale
+TXN-0123,2024-02-03,Sumatera,Medan,Modern Trade,Milk,Premium Whole Milk 1L,26,24000,20500,624000,533000,91000,Retail
+TXN-0124,2024-02-04,Banten,Cilegon,Modern Trade,Milk,Cimory Milk Vanilla 200ml,42,4000,3500,168000,147000,21000,HoReCa
+TXN-0125,2024-02-04,Central Java,Semarang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,10,12000,10000,120000,100000,20000,Retail
+TXN-0126,2024-02-04,West Java,Depok,Modern Trade,Milk,Cimory Full Cream 1L,32,22000,19500,704000,624000,80000,HoReCa
+TXN-0127,2024-02-05,Yogyakarta,Wonosari,General Trade,Sausage,So Good Chicken Sausage 375g,35,40500,31500,1417500,1102500,315000,Retail
+TXN-0128,2024-02-05,Kalimantan,Pontianak,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,57,6500,5000,370500,285000,85500,Retail
+TXN-0129,2024-02-05,Yogyakarta,Bantul,Modern Trade,Milk,Chocolate 1L,56,22000,19000,1232000,1064000,168000,Retail
+TXN-0130,2024-02-05,Central Java,Magelang,Distributor,Milk,Cimory Chocolate 200ml,170,5000,4500,850000,765000,85000,Wholesale
+TXN-0131,2024-02-05,Sumatera,Banda Aceh,Modern Trade,Milk,Cimory Full Cream 1L,20,24000,21000,480000,420000,60000,HoReCa
+TXN-0132,2024-02-05,West Java,Bekasi,Distributor,Cheese,Anchor Cheddar Block 500g,183,81000,64000,14823000,11712000,3111000,Wholesale
+TXN-0133,2024-02-06,East Java,Malang,General Trade,Milk,Cimory Full Cream 1L,21,20500,18500,430500,388500,42000,Retail
+TXN-0134,2024-02-06,West Java,Depok,Distributor,Cheese,Kiri Cream Cheese 80g,196,21000,15500,4116000,3038000,1078000,Wholesale
+TXN-0135,2024-02-06,Sumatera,Banda Aceh,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,57,17000,12000,969000,684000,285000,Retail
+TXN-0136,2024-02-06,West Java,Tasikmalaya,Distributor,Milk,Chocolate 1L,51,17500,15000,892500,765000,127500,Wholesale
+TXN-0137,2024-02-06,Banten,Cilegon,General Trade,Cheese,Anchor Cheddar Block 500g,21,71000,53000,1491000,1113000,378000,Wholesale
+TXN-0138,2024-02-07,West Java,Tasikmalaya,General Trade,Sausage,So Good Chicken Sausage 375g,22,38500,31000,847000,682000,165000,Retail
+TXN-0139,2024-02-07,East Java,Jember,General Trade,Sausage,Vida Beef Sausage 200g,15,18500,15000,277500,225000,52500,Wholesale
+TXN-0140,2024-02-07,Yogyakarta,Wonosari,Modern Trade,Sausage,Vida Beef Sausage 200g,51,16500,13500,841500,688500,153000,HoReCa
+TXN-0141,2024-02-07,Jakarta,Jakarta Timur,Distributor,Cheese,Prochiz Gold Slices 150g,184,29500,22500,5428000,4140000,1288000,HoReCa
+TXN-0142,2024-02-08,Jakarta,Jakarta Pusat,Distributor,Cheese,Laughing Cow Creamy 8pcs,75,19500,14500,1462500,1087500,375000,Institution
+TXN-0143,2024-02-08,Central Java,Semarang,General Trade,Cheese,Prochiz Gold Slices 150g,14,25000,19500,350000,273000,77000,Retail
+TXN-0144,2024-02-08,Jakarta,Jakarta Timur,General Trade,Cheese,Prochiz Gold Slices 150g,35,24000,17000,840000,595000,245000,Retail
+TXN-0145,2024-02-09,Central Java,Pekalongan,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,148,9500,8000,1406000,1184000,222000,Wholesale
+TXN-0146,2024-02-09,Bali,Denpasar,Modern Trade,Cheese,Kiri Cream Cheese 80g,20,23000,17500,460000,350000,110000,Retail
+TXN-0147,2024-02-09,East Java,Blitar,General Trade,Nugget,So Good Chicken Nugget 500g,8,44000,36500,352000,292000,60000,Retail
+TXN-0148,2024-02-09,Jakarta,Jakarta Barat,General Trade,Yoghurt,Cimory Yoghurt 500g,10,30500,25000,305000,250000,55000,Retail
+TXN-0149,2024-02-10,East Java,Blitar,General Trade,Sausage,Kimbo Beef Sausage 375g,27,27500,22000,742500,594000,148500,Retail
+TXN-0150,2024-02-10,East Java,Malang,Distributor,Sausage,Kimbo Beef Sausage 375g,122,30000,24500,3660000,2989000,671000,Wholesale
+TXN-0151,2024-02-10,West Java,Cimahi,General Trade,Cheese,Kraft Cheddar Cheese 165g,9,34000,24500,306000,220500,85500,Wholesale
+TXN-0152,2024-02-10,West Java,Bandung,General Trade,Milk,Cimory Chocolate 200ml,20,5000,4500,100000,90000,10000,Retail
+TXN-0153,2024-02-11,East Java,Jember,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,56,12000,10000,672000,560000,112000,HoReCa
+TXN-0154,2024-02-11,West Java,Bandung,Modern Trade,Cheese,Anchor Cheddar Block 500g,28,75500,57500,2114000,1610000,504000,Retail
+TXN-0155,2024-02-11,East Java,Malang,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,53,31500,24500,1669500,1298500,371000,Retail
+TXN-0156,2024-02-11,Sulawesi,Manado,Modern Trade,Milk,Cimory Milk Vanilla 200ml,52,4500,4000,234000,208000,26000,Retail
+TXN-0157,2024-02-11,Central Java,Tegal,General Trade,Cheese,Prochiz Gold Slices 150g,36,28500,21000,1026000,756000,270000,Retail
+TXN-0158,2024-02-13,Sulawesi,Kendari,Distributor,Cheese,Anchor Cheddar Block 500g,113,68000,54000,7684000,6102000,1582000,Wholesale
+TXN-0159,2024-02-13,East Java,Surabaya,General Trade,Milk,Cimory Chocolate 200ml,19,5500,5000,104500,95000,9500,Retail
+TXN-0160,2024-02-13,Banten,Tangerang,General Trade,Cheese,Anchor Cheddar Block 500g,33,74500,55500,2458500,1831500,627000,Wholesale
+TXN-0161,2024-02-14,Jakarta,Jakarta Timur,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,8,6500,5500,52000,44000,8000,Retail
+TXN-0162,2024-02-14,Kalimantan,Pontianak,Distributor,Milk,Premium Whole Milk 1L,157,26000,23500,4082000,3689500,392500,HoReCa
+TXN-0163,2024-02-14,Jakarta,Jakarta Timur,Modern Trade,Yoghurt,Cimory Yoghurt 500g,30,31000,25500,930000,765000,165000,Retail
+TXN-0164,2024-02-15,Sumatera,Pekanbaru,Modern Trade,Milk,Premium Whole Milk 1L,50,26000,23000,1300000,1150000,150000,Retail
+TXN-0165,2024-02-15,Kalimantan,Balikpapan,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,63,18000,14000,1134000,882000,252000,Retail
+TXN-0166,2024-02-15,East Java,Blitar,General Trade,Milk,Cimory Milk Vanilla 200ml,17,5000,4500,85000,76500,8500,Retail
+TXN-0167,2024-02-15,Yogyakarta,Yogyakarta,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,12,10500,8500,126000,102000,24000,Retail
+TXN-0168,2024-02-16,Kalimantan,Samarinda,Modern Trade,Nugget,Contadina Crispy Nugget 250g,54,20000,17000,1080000,918000,162000,Retail
+TXN-0169,2024-02-16,Jakarta,Jakarta Timur,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,32,12000,10000,384000,320000,64000,Retail
+TXN-0170,2024-02-16,Sumatera,Banda Aceh,Distributor,Milk,Cimory Full Cream 1L,151,21500,19000,3246500,2869000,377500,Wholesale
+TXN-0171,2024-02-17,Jakarta,Jakarta Utara,Distributor,Sausage,Bernardi Beef Sausage 500g,199,48500,39000,9651500,7761000,1890500,Institution
+TXN-0172,2024-02-17,Kalimantan,Balikpapan,General Trade,Nugget,Contadina Crispy Nugget 250g,16,27000,23000,432000,368000,64000,Retail
+TXN-0173,2024-02-17,Jakarta,Jakarta Selatan,Distributor,Sausage,Vida Beef Sausage 200g,146,17000,13500,2482000,1971000,511000,HoReCa
+TXN-0174,2024-02-17,Jakarta,Jakarta Pusat,General Trade,Cheese,Kiri Cream Cheese 80g,12,21000,16500,252000,198000,54000,Retail
+TXN-0175,2024-02-18,Jakarta,Jakarta Barat,Modern Trade,Nugget,Champ Chicken Nugget 250g,61,27500,22500,1677500,1372500,305000,Retail
+TXN-0176,2024-02-19,East Java,Kediri,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,61,39000,34500,2379000,2104500,274500,HoReCa
+TXN-0177,2024-02-19,Banten,Serang,Modern Trade,Milk,Chocolate 1L,19,21000,18000,399000,342000,57000,Retail
+TXN-0178,2024-02-19,Jakarta,Jakarta Pusat,Distributor,Milk,Cimory Chocolate 200ml,195,5000,4500,975000,877500,97500,Institution
+TXN-0179,2024-02-19,Jakarta,Jakarta Utara,Modern Trade,Milk,Chocolate 1L,45,18000,15500,810000,697500,112500,Retail
+TXN-0180,2024-02-19,Sumatera,Padang,General Trade,Milk,Cimory Full Cream 1L,11,22000,19500,242000,214500,27500,Retail
+TXN-0181,2024-02-20,Banten,Serang,General Trade,Milk,Cimory Chocolate 200ml,18,6000,5000,108000,90000,18000,Wholesale
+TXN-0182,2024-02-20,Jakarta,Jakarta Timur,General Trade,Yoghurt,Cimory Yoghurt 500g,40,32500,26500,1300000,1060000,240000,Retail
+TXN-0183,2024-02-20,West Java,Bandung,Modern Trade,Sausage,Farmhouse Sausage 250g,51,26500,20500,1351500,1045500,306000,Retail
+TXN-0184,2024-02-20,West Java,Cimahi,Modern Trade,Cheese,Kiri Cream Cheese 80g,64,26500,19500,1696000,1248000,448000,Retail
+TXN-0185,2024-02-21,Central Java,Solo,Modern Trade,Sausage,So Good Chicken Sausage 375g,14,35500,28500,497000,399000,98000,Retail
+TXN-0186,2024-02-21,West Java,Bogor,General Trade,Nugget,Contadina Crispy Nugget 250g,32,23500,20500,752000,656000,96000,Retail
+TXN-0187,2024-02-21,East Java,Surabaya,Distributor,Yoghurt,Cimory Yoghurt 500g,186,29000,24000,5394000,4464000,930000,Institution
+TXN-0188,2024-02-22,Kalimantan,Samarinda,Modern Trade,Milk,Premium Whole Milk 1L,54,26000,23000,1404000,1242000,162000,Retail
+TXN-0189,2024-02-22,West Java,Depok,Modern Trade,Cheese,Prochiz Gold Slices 150g,29,30500,22500,884500,652500,232000,Retail
+TXN-0190,2024-02-22,Yogyakarta,Bantul,General Trade,Sausage,Kimbo Beef Sausage 375g,21,28500,22500,598500,472500,126000,Wholesale
+TXN-0191,2024-02-22,Kalimantan,Samarinda,Modern Trade,Nugget,So Good Chicken Nugget 500g,46,54500,47500,2507000,2185000,322000,Retail
+TXN-0192,2024-02-22,Sumatera,Palembang,Distributor,Milk,Premium Whole Milk 1L,46,25500,22000,1173000,1012000,161000,Wholesale
+TXN-0193,2024-02-22,Bali,Singaraja,General Trade,Nugget,Fiesta Crispy Nugget 400g,22,35500,31000,781000,682000,99000,Retail
+TXN-0194,2024-02-23,Jakarta,Jakarta Pusat,General Trade,Cheese,Kraft Cheddar Cheese 165g,15,31000,23000,465000,345000,120000,Retail
+TXN-0195,2024-02-23,Bali,Ubud,General Trade,Nugget,Fiesta Crispy Nugget 400g,30,36500,30500,1095000,915000,180000,Retail
+TXN-0196,2024-02-23,Banten,South Tangerang,Modern Trade,Milk,Chocolate 1L,50,17500,15500,875000,775000,100000,HoReCa
+TXN-0197,2024-02-23,Sumatera,Pekanbaru,General Trade,Sausage,So Good Chicken Sausage 375g,16,36500,29000,584000,464000,120000,Retail
+TXN-0198,2024-02-23,Yogyakarta,Sleman,Distributor,Cheese,Kraft Cheddar Cheese 165g,63,29000,22500,1827000,1417500,409500,Institution
+TXN-0199,2024-02-23,West Java,Cimahi,General Trade,Yoghurt,Cimory Yoghurt 500g,37,38000,32000,1406000,1184000,222000,Retail
+TXN-0200,2024-02-24,East Java,Jember,General Trade,Sausage,Farmhouse Sausage 250g,40,28000,23000,1120000,920000,200000,Retail
+TXN-0201,2024-02-24,Jakarta,Jakarta Timur,Modern Trade,Nugget,Contadina Crispy Nugget 250g,21,25000,21000,525000,441000,84000,HoReCa
+TXN-0202,2024-02-24,Jakarta,Jakarta Pusat,Distributor,Cheese,Anchor Cheddar Block 500g,194,71000,55500,13774000,10767000,3007000,Wholesale
+TXN-0203,2024-02-25,Kalimantan,Pontianak,Distributor,Milk,Cimory Chocolate 200ml,61,6000,5000,366000,305000,61000,Wholesale
+TXN-0204,2024-02-25,Jakarta,Jakarta Timur,General Trade,Cheese,Prochiz Gold Slices 150g,28,28500,22500,798000,630000,168000,Wholesale
+TXN-0205,2024-02-26,East Java,Blitar,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,53,36000,29500,1908000,1563500,344500,Retail
+TXN-0206,2024-02-27,Central Java,Magelang,General Trade,Cheese,Kraft Cheddar Cheese 165g,16,31500,23000,504000,368000,136000,Wholesale
+TXN-0207,2024-02-27,Jakarta,Jakarta Barat,Modern Trade,Milk,Premium Whole Milk 1L,38,22500,20000,855000,760000,95000,Retail
+TXN-0208,2024-02-27,Banten,Cilegon,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,106,13000,11000,1378000,1166000,212000,Institution
+TXN-0209,2024-02-27,Jakarta,Jakarta Pusat,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,17,6000,5000,102000,85000,17000,Retail
+TXN-0210,2024-02-27,East Java,Blitar,General Trade,Nugget,Champ Chicken Nugget 250g,38,28000,23500,1064000,893000,171000,Wholesale
+TXN-0211,2024-02-27,Central Java,Solo,General Trade,Cheese,Kraft Cheddar Cheese 165g,7,31500,24000,220500,168000,52500,Wholesale
+TXN-0212,2024-02-27,Jakarta,Jakarta Selatan,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,59,9000,7500,531000,442500,88500,Retail
+TXN-0213,2024-02-28,Jakarta,Jakarta Timur,Modern Trade,Milk,Cimory Full Cream 1L,31,20000,17500,620000,542500,77500,Retail
+TXN-0214,2024-02-28,West Java,Bandung,General Trade,Milk,Cimory Chocolate 200ml,23,5500,5000,126500,115000,11500,Wholesale
+TXN-0215,2024-02-28,East Java,Blitar,General Trade,Milk,Chocolate 1L,33,22000,19500,726000,643500,82500,Retail
+TXN-0216,2024-02-28,Kalimantan,Balikpapan,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,19,20500,16500,389500,313500,76000,Retail
+TXN-0217,2024-02-29,Jakarta,Jakarta Barat,Modern Trade,Nugget,So Good Chicken Nugget 500g,29,44000,36500,1276000,1058500,217500,Retail
+TXN-0218,2024-02-29,Banten,Cilegon,General Trade,Cheese,Kiri Cream Cheese 80g,25,24000,18000,600000,450000,150000,Retail
+TXN-0219,2024-03-01,West Java,Bogor,General Trade,Nugget,Contadina Crispy Nugget 250g,34,23500,19500,799000,663000,136000,Wholesale
+TXN-0220,2024-03-01,West Java,Depok,Modern Trade,Sausage,So Good Chicken Sausage 375g,26,41500,32500,1079000,845000,234000,Retail
+TXN-0221,2024-03-02,Jakarta,Jakarta Timur,General Trade,Cheese,Kraft Cheddar Cheese 165g,32,34000,26500,1088000,848000,240000,Retail
+TXN-0222,2024-03-02,Kalimantan,Banjarmasin,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,25,10500,8500,262500,212500,50000,Retail
+TXN-0223,2024-03-02,Banten,South Tangerang,Distributor,Sausage,Bernardi Beef Sausage 500g,82,46000,37500,3772000,3075000,697000,Wholesale
+TXN-0224,2024-03-02,Yogyakarta,Wonosari,Modern Trade,Milk,Chocolate 1L,34,21500,19000,731000,646000,85000,Retail
+TXN-0225,2024-03-03,Bali,Singaraja,General Trade,Milk,Cimory Full Cream 1L,15,20500,18000,307500,270000,37500,Wholesale
+TXN-0226,2024-03-03,East Java,Kediri,General Trade,Sausage,So Good Chicken Sausage 375g,28,36000,28500,1008000,798000,210000,Wholesale
+TXN-0227,2024-03-03,Bali,Singaraja,Modern Trade,Sausage,Farmhouse Sausage 250g,61,24000,18000,1464000,1098000,366000,HoReCa
+TXN-0228,2024-03-03,Sumatera,Pekanbaru,Modern Trade,Nugget,Contadina Crispy Nugget 250g,51,19500,16000,994500,816000,178500,Retail
+TXN-0229,2024-03-03,Central Java,Magelang,Modern Trade,Cheese,Kiri Cream Cheese 80g,56,22000,17500,1232000,980000,252000,Retail
+TXN-0230,2024-03-03,West Java,Cimahi,Modern Trade,Milk,Premium Whole Milk 1L,41,22500,20000,922500,820000,102500,Retail
+TXN-0231,2024-03-03,West Java,Cimahi,Distributor,Milk,Cimory Chocolate 200ml,130,6000,5000,780000,650000,130000,Institution
+TXN-0232,2024-03-03,Bali,Singaraja,Modern Trade,Cheese,Prochiz Gold Slices 150g,47,31500,25000,1480500,1175000,305500,Retail
+TXN-0233,2024-03-04,Bali,Denpasar,Distributor,Milk,Premium Whole Milk 1L,210,27500,24500,5775000,5145000,630000,HoReCa
+TXN-0234,2024-03-04,East Java,Jember,Modern Trade,Sausage,Bernardi Beef Sausage 500g,15,58000,46500,870000,697500,172500,Retail
+TXN-0235,2024-03-04,Banten,Cilegon,Modern Trade,Nugget,So Good Chicken Nugget 500g,68,49000,41500,3332000,2822000,510000,HoReCa
+TXN-0236,2024-03-05,Jakarta,Jakarta Selatan,Distributor,Yoghurt,Cimory Yoghurt 500g,174,35500,29000,6177000,5046000,1131000,Wholesale
+TXN-0237,2024-03-05,East Java,Kediri,General Trade,Sausage,Bernardi Beef Sausage 500g,41,47500,36000,1947500,1476000,471500,Wholesale
+TXN-0238,2024-03-06,Jakarta,Jakarta Pusat,General Trade,Milk,Chocolate 1L,42,22000,19500,924000,819000,105000,Retail
+TXN-0239,2024-03-07,East Java,Jember,Distributor,Nugget,Fiesta Crispy Nugget 400g,47,38500,32000,1809500,1504000,305500,Institution
+TXN-0240,2024-03-07,Yogyakarta,Yogyakarta,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,42,19000,15500,798000,651000,147000,Wholesale
+TXN-0241,2024-03-07,Bali,Denpasar,General Trade,Nugget,Contadina Crispy Nugget 250g,43,22000,19000,946000,817000,129000,Retail
+TXN-0242,2024-03-08,Jakarta,Jakarta Timur,General Trade,Sausage,Kimbo Beef Sausage 375g,37,36000,27500,1332000,1017500,314500,Wholesale
+TXN-0243,2024-03-08,Bali,Denpasar,General Trade,Cheese,Kiri Cream Cheese 80g,11,23000,16500,253000,181500,71500,Wholesale
+TXN-0244,2024-03-08,Kalimantan,Balikpapan,General Trade,Milk,Chocolate 1L,11,18500,16000,203500,176000,27500,Retail
+TXN-0245,2024-03-08,Banten,Tangerang,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,119,18500,15500,2201500,1844500,357000,Institution
+TXN-0246,2024-03-09,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,29,7500,6000,217500,174000,43500,Retail
+TXN-0247,2024-03-09,East Java,Surabaya,General Trade,Milk,Chocolate 1L,25,21500,18500,537500,462500,75000,Retail
+TXN-0248,2024-03-09,Central Java,Solo,Distributor,Nugget,So Good Chicken Nugget 500g,223,50500,43000,11261500,9589000,1672500,Wholesale
+TXN-0249,2024-03-09,Sumatera,Padang,General Trade,Sausage,Kimbo Beef Sausage 375g,31,33500,26000,1038500,806000,232500,Retail
+TXN-0250,2024-03-09,Central Java,Magelang,General Trade,Milk,Chocolate 1L,35,22000,19000,770000,665000,105000,Wholesale
+TXN-0251,2024-03-10,Jakarta,Jakarta Timur,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,13,5500,4500,71500,58500,13000,Retail
+TXN-0252,2024-03-10,Sumatera,Medan,Modern Trade,Sausage,So Good Chicken Sausage 375g,65,37500,28500,2437500,1852500,585000,Retail
+TXN-0253,2024-03-10,West Java,Cimahi,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,56,33000,26000,1848000,1456000,392000,Retail
+TXN-0254,2024-03-10,Central Java,Solo,Distributor,Sausage,So Good Chicken Sausage 375g,87,31500,23500,2740500,2044500,696000,HoReCa
+TXN-0255,2024-03-10,Jakarta,Jakarta Timur,General Trade,Sausage,Vida Beef Sausage 200g,12,18500,15000,222000,180000,42000,Wholesale
+TXN-0256,2024-03-11,Central Java,Pekalongan,Modern Trade,Cheese,Kiri Cream Cheese 80g,23,24500,18000,563500,414000,149500,Retail
+TXN-0257,2024-03-12,Jakarta,Jakarta Pusat,Distributor,Nugget,Contadina Crispy Nugget 250g,102,24500,20500,2499000,2091000,408000,Wholesale
+TXN-0258,2024-03-12,West Java,Depok,Modern Trade,Cheese,Prochiz Gold Slices 150g,63,26000,20000,1638000,1260000,378000,Retail
+TXN-0259,2024-03-12,Jakarta,Jakarta Pusat,General Trade,Nugget,So Good Chicken Nugget 500g,16,49000,42500,784000,680000,104000,Retail
+TXN-0260,2024-03-12,Banten,South Tangerang,Distributor,Milk,Premium Whole Milk 1L,93,26500,23500,2464500,2185500,279000,Institution
+TXN-0261,2024-03-12,Banten,Tangerang,Modern Trade,Sausage,Bernardi Beef Sausage 500g,41,56000,43500,2296000,1783500,512500,HoReCa
+TXN-0262,2024-03-12,East Java,Surabaya,Modern Trade,Milk,Cimory Milk Vanilla 200ml,57,5500,4500,313500,256500,57000,HoReCa
+TXN-0263,2024-03-13,Yogyakarta,Sleman,General Trade,Milk,Chocolate 1L,24,18500,16500,444000,396000,48000,Retail
+TXN-0264,2024-03-13,East Java,Kediri,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,24,5500,4500,132000,108000,24000,Wholesale
+TXN-0265,2024-03-13,Kalimantan,Pontianak,Modern Trade,Milk,Chocolate 1L,14,21500,18500,301000,259000,42000,Retail
+TXN-0266,2024-03-13,Banten,South Tangerang,Modern Trade,Milk,Cimory Chocolate 200ml,27,5000,4500,135000,121500,13500,Retail
+TXN-0267,2024-03-13,Kalimantan,Pontianak,Modern Trade,Sausage,Kimbo Beef Sausage 375g,42,36500,28500,1533000,1197000,336000,Retail
+TXN-0268,2024-03-14,Sumatera,Palembang,Modern Trade,Cheese,Prochiz Gold Slices 150g,71,25500,18000,1810500,1278000,532500,HoReCa
+TXN-0269,2024-03-14,Jakarta,Jakarta Pusat,Distributor,Sausage,Bernardi Beef Sausage 500g,196,56500,44500,11074000,8722000,2352000,Wholesale
+TXN-0270,2024-03-15,Yogyakarta,Yogyakarta,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,68,18500,15000,1258000,1020000,238000,HoReCa
+TXN-0271,2024-03-15,Banten,Tangerang,Modern Trade,Cheese,Anchor Cheddar Block 500g,29,65000,48500,1885000,1406500,478500,HoReCa
+TXN-0272,2024-03-15,West Java,Tasikmalaya,General Trade,Sausage,Kimbo Beef Sausage 375g,10,36000,29500,360000,295000,65000,Retail
+TXN-0273,2024-03-15,Central Java,Magelang,Modern Trade,Yoghurt,Cimory Yoghurt 500g,69,36000,30500,2484000,2104500,379500,Retail
+TXN-0274,2024-03-16,Central Java,Solo,Modern Trade,Sausage,Vida Beef Sausage 200g,51,16500,12500,841500,637500,204000,Retail
+TXN-0275,2024-03-16,Jakarta,Jakarta Barat,General Trade,Milk,Cimory Full Cream 1L,26,19000,17000,494000,442000,52000,Retail
+TXN-0276,2024-03-16,Sumatera,Banda Aceh,Distributor,Nugget,Fiesta Crispy Nugget 400g,86,45000,37000,3870000,3182000,688000,HoReCa
+TXN-0277,2024-03-16,Yogyakarta,Wonosari,Modern Trade,Nugget,Champ Chicken Nugget 250g,45,26000,22500,1170000,1012500,157500,Retail
+TXN-0278,2024-03-16,Central Java,Pekalongan,Modern Trade,Milk,Cimory Chocolate 200ml,61,5000,4500,305000,274500,30500,HoReCa
+TXN-0279,2024-03-17,East Java,Blitar,Modern Trade,Sausage,So Good Chicken Sausage 375g,32,34500,26000,1104000,832000,272000,Retail
+TXN-0280,2024-03-17,West Java,Tasikmalaya,General Trade,Cheese,Laughing Cow Creamy 8pcs,23,24000,19000,552000,437000,115000,Wholesale
+TXN-0281,2024-03-17,East Java,Blitar,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,94,12000,10000,1128000,940000,188000,HoReCa
+TXN-0282,2024-03-17,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt 500g,21,30000,24500,630000,514500,115500,Wholesale
+TXN-0283,2024-03-17,East Java,Malang,General Trade,Milk,Cimory Chocolate 200ml,31,5000,4500,155000,139500,15500,Wholesale
+TXN-0284,2024-03-18,East Java,Surabaya,Modern Trade,Nugget,Belfoods Royal Nugget 500g,19,43000,36000,817000,684000,133000,Retail
+TXN-0285,2024-03-18,Jakarta,Jakarta Timur,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,10,8000,6500,80000,65000,15000,Retail
+TXN-0286,2024-03-18,East Java,Jember,Modern Trade,Yoghurt,Cimory Yoghurt 500g,46,36000,29500,1656000,1357000,299000,HoReCa
+TXN-0287,2024-03-19,Central Java,Magelang,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,42,5500,4500,231000,189000,42000,Retail
+TXN-0288,2024-03-19,Jakarta,Jakarta Barat,Modern Trade,Sausage,Farmhouse Sausage 250g,55,23500,17500,1292500,962500,330000,Retail
+TXN-0289,2024-03-19,Banten,South Tangerang,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,49,13000,11000,637000,539000,98000,HoReCa
+TXN-0290,2024-03-19,East Java,Kediri,General Trade,Sausage,Farmhouse Sausage 250g,18,26500,20500,477000,369000,108000,Retail
+TXN-0291,2024-03-19,Yogyakarta,Wonosari,Modern Trade,Nugget,So Good Chicken Nugget 500g,54,54500,47000,2943000,2538000,405000,Retail
+TXN-0292,2024-03-19,Jakarta,Jakarta Selatan,Modern Trade,Milk,Cimory Full Cream 1L,68,23500,20500,1598000,1394000,204000,Retail
+TXN-0293,2024-03-19,Sulawesi,Manado,General Trade,Cheese,Prochiz Gold Slices 150g,33,31500,23500,1039500,775500,264000,Retail
+TXN-0294,2024-03-20,East Java,Surabaya,Distributor,Sausage,Kimbo Beef Sausage 375g,159,31000,24500,4929000,3895500,1033500,Wholesale
+TXN-0295,2024-03-20,Banten,South Tangerang,Distributor,Milk,Chocolate 1L,117,22000,19500,2574000,2281500,292500,Wholesale
+TXN-0296,2024-03-21,Kalimantan,Samarinda,General Trade,Sausage,So Good Chicken Sausage 375g,27,34500,26000,931500,702000,229500,Retail
+TXN-0297,2024-03-21,West Java,Bekasi,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,44,10500,9000,462000,396000,66000,Wholesale
+TXN-0298,2024-03-21,East Java,Kediri,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,136,9000,7500,1224000,1020000,204000,Wholesale
+TXN-0299,2024-03-21,Banten,Serang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,26,12000,10000,312000,260000,52000,Retail
+TXN-0300,2024-03-21,West Java,Bandung,Modern Trade,Nugget,So Good Chicken Nugget 500g,56,43000,35500,2408000,1988000,420000,Retail
+TXN-0301,2024-03-21,East Java,Malang,General Trade,Yoghurt,Cimory Yoghurt 500g,24,29000,23500,696000,564000,132000,Retail
+TXN-0302,2024-03-21,West Java,Tasikmalaya,Modern Trade,Sausage,Kimbo Beef Sausage 375g,23,33500,26000,770500,598000,172500,HoReCa
+TXN-0303,2024-03-21,Central Java,Solo,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,37,21000,17500,777000,647500,129500,Retail
+TXN-0304,2024-03-21,Central Java,Tegal,General Trade,Sausage,So Good Chicken Sausage 375g,23,40500,32000,931500,736000,195500,Retail
+TXN-0305,2024-03-22,Central Java,Pekalongan,Distributor,Sausage,Bernardi Beef Sausage 500g,201,46000,37500,9246000,7537500,1708500,Wholesale
+TXN-0306,2024-03-22,East Java,Jember,Modern Trade,Sausage,Kimbo Beef Sausage 375g,31,32000,24000,992000,744000,248000,Retail
+TXN-0307,2024-03-22,East Java,Surabaya,Modern Trade,Sausage,Kimbo Beef Sausage 375g,54,33000,25000,1782000,1350000,432000,Retail
+TXN-0308,2024-03-22,Banten,Tangerang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,21,10000,8500,210000,178500,31500,Retail
+TXN-0309,2024-03-23,East Java,Blitar,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,54,9500,8000,513000,432000,81000,Retail
+TXN-0310,2024-03-23,Sulawesi,Manado,General Trade,Milk,Chocolate 1L,9,18500,16000,166500,144000,22500,Retail
+TXN-0311,2024-03-23,West Java,Bekasi,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,37,10000,8000,370000,296000,74000,Retail
+TXN-0312,2024-03-23,Bali,Ubud,General Trade,Milk,Cimory Full Cream 1L,18,19000,16500,342000,297000,45000,Retail
+TXN-0313,2024-03-23,Jakarta,Jakarta Selatan,Distributor,Cheese,Kraft Cheddar Cheese 165g,136,33500,25000,4556000,3400000,1156000,Institution
+TXN-0314,2024-03-23,Central Java,Magelang,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,174,12500,10500,2175000,1827000,348000,Wholesale
+TXN-0315,2024-03-24,Sulawesi,Makassar,General Trade,Sausage,So Good Chicken Sausage 375g,8,33000,25000,264000,200000,64000,Retail
+TXN-0316,2024-03-25,Sumatera,Medan,General Trade,Nugget,Contadina Crispy Nugget 250g,37,25000,21500,925000,795500,129500,Retail
+TXN-0317,2024-03-26,East Java,Blitar,General Trade,Milk,Chocolate 1L,15,17500,15500,262500,232500,30000,Retail
+TXN-0318,2024-03-27,East Java,Kediri,General Trade,Milk,Cimory Full Cream 1L,28,25000,22000,700000,616000,84000,Wholesale
+TXN-0319,2024-03-27,Jakarta,Jakarta Pusat,Modern Trade,Sausage,Farmhouse Sausage 250g,29,24000,19500,696000,565500,130500,Retail
+TXN-0320,2024-03-27,Yogyakarta,Sleman,Modern Trade,Sausage,Bernardi Beef Sausage 500g,53,57500,44000,3047500,2332000,715500,Retail
+TXN-0321,2024-03-28,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,36,9500,7500,342000,270000,72000,Retail
+TXN-0322,2024-03-29,Bali,Singaraja,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,39,11500,9500,448500,370500,78000,Retail
+TXN-0323,2024-03-29,Sulawesi,Kendari,Distributor,Sausage,Farmhouse Sausage 250g,193,24000,18000,4632000,3474000,1158000,Wholesale
+TXN-0324,2024-03-29,East Java,Kediri,Modern Trade,Cheese,Kiri Cream Cheese 80g,33,24500,18500,808500,610500,198000,Retail
+TXN-0325,2024-03-29,West Java,Bandung,General Trade,Sausage,Farmhouse Sausage 250g,13,20000,15000,260000,195000,65000,Retail
+TXN-0326,2024-03-29,Sulawesi,Palu,Modern Trade,Sausage,Farmhouse Sausage 250g,22,21500,16500,473000,363000,110000,HoReCa
+TXN-0327,2024-03-30,East Java,Kediri,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,36,12500,10500,450000,378000,72000,Retail
+TXN-0328,2024-03-31,Yogyakarta,Sleman,General Trade,Milk,Cimory Milk Vanilla 200ml,10,4000,3500,40000,35000,5000,Retail
+TXN-0329,2024-03-31,Jakarta,Jakarta Barat,Modern Trade,Sausage,Kimbo Beef Sausage 375g,38,35000,26500,1330000,1007000,323000,Retail
+TXN-0330,2024-03-31,West Java,Depok,Modern Trade,Sausage,So Good Chicken Sausage 375g,31,31000,24500,961000,759500,201500,Retail
+TXN-0331,2024-03-31,Sumatera,Palembang,General Trade,Sausage,Vida Beef Sausage 200g,30,16500,13000,495000,390000,105000,Retail
+TXN-0332,2024-04-01,East Java,Malang,General Trade,Milk,Premium Whole Milk 1L,40,24500,21000,980000,840000,140000,Retail
+TXN-0333,2024-04-01,West Java,Bandung,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,12,8000,6500,96000,78000,18000,Retail
+TXN-0334,2024-04-02,West Java,Cimahi,General Trade,Sausage,Kimbo Beef Sausage 375g,8,30000,22500,240000,180000,60000,Wholesale
+TXN-0335,2024-04-02,Sumatera,Palembang,General Trade,Cheese,Kiri Cream Cheese 80g,9,26000,20000,234000,180000,54000,Wholesale
+TXN-0336,2024-04-02,Sulawesi,Palu,General Trade,Milk,Cimory Full Cream 1L,41,23000,20500,943000,840500,102500,Retail
+TXN-0337,2024-04-03,East Java,Kediri,Modern Trade,Nugget,So Good Chicken Nugget 500g,54,49500,42500,2673000,2295000,378000,Retail
+TXN-0338,2024-04-03,Sulawesi,Makassar,Modern Trade,Milk,Cimory Chocolate 200ml,17,5000,4500,85000,76500,8500,Retail
+TXN-0339,2024-04-03,Jakarta,Jakarta Timur,Distributor,Yoghurt,Cimory Yoghurt 500g,144,32000,26000,4608000,3744000,864000,Wholesale
+TXN-0340,2024-04-03,West Java,Bandung,General Trade,Milk,Chocolate 1L,22,21000,18500,462000,407000,55000,Retail
+TXN-0341,2024-04-04,Sumatera,Medan,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,28,24500,20500,686000,574000,112000,HoReCa
+TXN-0342,2024-04-04,West Java,Cimahi,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,11,23000,18500,253000,203500,49500,Wholesale
+TXN-0343,2024-04-04,Yogyakarta,Sleman,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,17,21500,17500,365500,297500,68000,Retail
+TXN-0344,2024-04-05,Bali,Singaraja,General Trade,Milk,Premium Whole Milk 1L,23,27500,24500,632500,563500,69000,Retail
+TXN-0345,2024-04-06,Central Java,Magelang,General Trade,Yoghurt,Cimory Yoghurt 500g,40,33000,28000,1320000,1120000,200000,Retail
+TXN-0346,2024-04-06,Central Java,Semarang,Distributor,Sausage,So Good Chicken Sausage 375g,46,31500,24000,1449000,1104000,345000,HoReCa
+TXN-0347,2024-04-06,West Java,Bandung,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,40,9500,7500,380000,300000,80000,Retail
+TXN-0348,2024-04-06,Kalimantan,Samarinda,Modern Trade,Milk,Chocolate 1L,63,21500,19000,1354500,1197000,157500,Retail
+TXN-0349,2024-04-07,West Java,Tasikmalaya,Distributor,Milk,Cimory Milk Vanilla 200ml,221,5500,4500,1215500,994500,221000,Wholesale
+TXN-0350,2024-04-07,Jakarta,Jakarta Utara,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,113,5500,4500,621500,508500,113000,Wholesale
+TXN-0351,2024-04-07,Sumatera,Banda Aceh,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,60,13000,10500,780000,630000,150000,Retail
+TXN-0352,2024-04-08,Jakarta,Jakarta Selatan,Modern Trade,Nugget,Champ Chicken Nugget 250g,51,20000,17000,1020000,867000,153000,Retail
+TXN-0353,2024-04-08,West Java,Bogor,Modern Trade,Sausage,Vida Beef Sausage 200g,20,23000,17500,460000,350000,110000,Retail
+TXN-0354,2024-04-08,Central Java,Tegal,Distributor,Nugget,Contadina Crispy Nugget 250g,54,20000,17500,1080000,945000,135000,Wholesale
+TXN-0355,2024-04-08,Sumatera,Padang,General Trade,Yoghurt,Cimory Yoghurt 500g,11,37500,31500,412500,346500,66000,Retail
+TXN-0356,2024-04-08,Sumatera,Medan,General Trade,Milk,Chocolate 1L,18,20500,18500,369000,333000,36000,Wholesale
+TXN-0357,2024-04-09,Kalimantan,Samarinda,General Trade,Sausage,Kimbo Beef Sausage 375g,10,30000,24000,300000,240000,60000,Retail
+TXN-0358,2024-04-09,Bali,Denpasar,Modern Trade,Milk,Cimory Chocolate 200ml,45,5500,5000,247500,225000,22500,HoReCa
+TXN-0359,2024-04-09,Central Java,Pekalongan,General Trade,Nugget,Contadina Crispy Nugget 250g,19,19500,16000,370500,304000,66500,Wholesale
+TXN-0360,2024-04-10,Banten,Serang,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,111,8500,7000,943500,777000,166500,Wholesale
+TXN-0361,2024-04-10,Yogyakarta,Bantul,Distributor,Milk,Cimory Full Cream 1L,148,24500,21000,3626000,3108000,518000,Institution
+TXN-0362,2024-04-10,West Java,Bandung,Distributor,Milk,Cimory Full Cream 1L,226,19000,16500,4294000,3729000,565000,Wholesale
+TXN-0363,2024-04-10,Sumatera,Pekanbaru,General Trade,Nugget,So Good Chicken Nugget 500g,42,43000,36500,1806000,1533000,273000,Retail
+TXN-0364,2024-04-10,Sulawesi,Manado,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,198,5500,4500,1089000,891000,198000,Wholesale
+TXN-0365,2024-04-10,West Java,Depok,Modern Trade,Nugget,Contadina Crispy Nugget 250g,43,22500,19000,967500,817000,150500,Retail
+TXN-0366,2024-04-11,Jakarta,Jakarta Utara,Modern Trade,Milk,Cimory Milk Vanilla 200ml,15,4500,4000,67500,60000,7500,Retail
+TXN-0367,2024-04-11,Central Java,Pekalongan,General Trade,Nugget,So Good Chicken Nugget 500g,22,48000,42000,1056000,924000,132000,Retail
+TXN-0368,2024-04-11,Banten,Serang,General Trade,Sausage,So Good Chicken Sausage 375g,37,39500,29500,1461500,1091500,370000,Retail
+TXN-0369,2024-04-11,Jakarta,Jakarta Barat,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,15,30500,23500,457500,352500,105000,Retail
+TXN-0370,2024-04-12,West Java,Bogor,Modern Trade,Nugget,Champ Chicken Nugget 250g,73,25000,21000,1825000,1533000,292000,HoReCa
+TXN-0371,2024-04-12,West Java,Tasikmalaya,Modern Trade,Cheese,Kiri Cream Cheese 80g,59,26500,19000,1563500,1121000,442500,HoReCa
+TXN-0372,2024-04-13,Jakarta,Jakarta Barat,General Trade,Sausage,So Good Chicken Sausage 375g,30,40000,32500,1200000,975000,225000,Wholesale
+TXN-0373,2024-04-13,Yogyakarta,Yogyakarta,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,44,6500,5500,286000,242000,44000,Wholesale
+TXN-0374,2024-04-13,Sumatera,Padang,General Trade,Milk,Cimory Milk Vanilla 200ml,30,4000,3500,120000,105000,15000,Retail
+TXN-0375,2024-04-13,Jakarta,Jakarta Utara,Distributor,Milk,Cimory Full Cream 1L,215,20000,17500,4300000,3762500,537500,Institution
+TXN-0376,2024-04-13,East Java,Surabaya,Modern Trade,Sausage,Farmhouse Sausage 250g,45,21500,17500,967500,787500,180000,Retail
+TXN-0377,2024-04-14,West Java,Tasikmalaya,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,71,5500,4500,390500,319500,71000,Wholesale
+TXN-0378,2024-04-14,Kalimantan,Samarinda,General Trade,Milk,Premium Whole Milk 1L,43,28000,24000,1204000,1032000,172000,Wholesale
+TXN-0379,2024-04-14,Central Java,Magelang,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,78,12000,10000,936000,780000,156000,Wholesale
+TXN-0380,2024-04-14,Yogyakarta,Wonosari,Distributor,Sausage,Farmhouse Sausage 250g,104,25500,20500,2652000,2132000,520000,Institution
+TXN-0381,2024-04-15,Banten,Tangerang,Distributor,Milk,Cimory Full Cream 1L,226,23500,21000,5311000,4746000,565000,Wholesale
+TXN-0382,2024-04-15,Kalimantan,Banjarmasin,Distributor,Sausage,Vida Beef Sausage 200g,48,22000,17500,1056000,840000,216000,Wholesale
+TXN-0383,2024-04-15,Yogyakarta,Bantul,Modern Trade,Milk,Premium Whole Milk 1L,57,22000,19500,1254000,1111500,142500,HoReCa
+TXN-0384,2024-04-15,Kalimantan,Samarinda,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,191,9500,7500,1814500,1432500,382000,Institution
+TXN-0385,2024-04-15,Bali,Kuta,Modern Trade,Milk,Chocolate 1L,32,21000,18500,672000,592000,80000,HoReCa
+TXN-0386,2024-04-16,West Java,Bekasi,Distributor,Milk,Cimory Chocolate 200ml,225,4500,4000,1012500,900000,112500,Wholesale
+TXN-0387,2024-04-16,Sulawesi,Palu,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,24,11500,9500,276000,228000,48000,Retail
+TXN-0388,2024-04-16,East Java,Malang,General Trade,Cheese,Kraft Cheddar Cheese 165g,32,34500,25500,1104000,816000,288000,Retail
+TXN-0389,2024-04-17,West Java,Depok,General Trade,Sausage,Kimbo Beef Sausage 375g,23,28500,22500,655500,517500,138000,Retail
+TXN-0390,2024-04-17,Yogyakarta,Wonosari,Modern Trade,Milk,Cimory Milk Vanilla 200ml,18,4500,4000,81000,72000,9000,HoReCa
+TXN-0391,2024-04-17,East Java,Jember,General Trade,Nugget,So Good Chicken Nugget 500g,22,45500,38500,1001000,847000,154000,Retail
+TXN-0392,2024-04-17,East Java,Malang,General Trade,Milk,Cimory Chocolate 200ml,17,5500,5000,93500,85000,8500,Retail
+TXN-0393,2024-04-17,Bali,Denpasar,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,49,10000,8000,490000,392000,98000,Retail
+TXN-0394,2024-04-18,Sumatera,Banda Aceh,General Trade,Cheese,Kraft Cheddar Cheese 165g,41,34000,25500,1394000,1045500,348500,Retail
+TXN-0395,2024-04-18,West Java,Tasikmalaya,Modern Trade,Cheese,Prochiz Gold Slices 150g,72,28000,21000,2016000,1512000,504000,Retail
+TXN-0396,2024-04-18,Kalimantan,Samarinda,Modern Trade,Nugget,Champ Chicken Nugget 250g,21,28500,23500,598500,493500,105000,Retail
+TXN-0397,2024-04-18,Sulawesi,Palu,Modern Trade,Sausage,Farmhouse Sausage 250g,32,21500,16500,688000,528000,160000,Retail
+TXN-0398,2024-04-18,Sumatera,Medan,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,25,10500,9000,262500,225000,37500,Wholesale
+TXN-0399,2024-04-19,Sumatera,Banda Aceh,General Trade,Sausage,Bernardi Beef Sausage 500g,29,46500,37500,1348500,1087500,261000,Retail
+TXN-0400,2024-04-19,Sulawesi,Makassar,Distributor,Cheese,Kiri Cream Cheese 80g,144,21000,16000,3024000,2304000,720000,Wholesale
+TXN-0401,2024-04-19,Jakarta,Jakarta Barat,General Trade,Cheese,Prochiz Gold Slices 150g,22,28000,22000,616000,484000,132000,Retail
+TXN-0402,2024-04-19,Yogyakarta,Wonosari,Modern Trade,Nugget,So Good Chicken Nugget 500g,58,46500,40500,2697000,2349000,348000,HoReCa
+TXN-0403,2024-04-20,Kalimantan,Banjarmasin,Modern Trade,Sausage,Kimbo Beef Sausage 375g,65,30000,23000,1950000,1495000,455000,Retail
+TXN-0404,2024-04-21,Sulawesi,Manado,Modern Trade,Nugget,So Good Chicken Nugget 500g,29,48000,40000,1392000,1160000,232000,Retail
+TXN-0405,2024-04-22,Banten,Serang,General Trade,Nugget,Champ Chicken Nugget 250g,27,23500,20000,634500,540000,94500,Retail
+TXN-0406,2024-04-22,West Java,Bekasi,Modern Trade,Sausage,So Good Chicken Sausage 375g,45,35000,27000,1575000,1215000,360000,Retail
+TXN-0407,2024-04-22,Central Java,Solo,Distributor,Milk,Cimory Milk Vanilla 200ml,175,5000,4500,875000,787500,87500,Wholesale
+TXN-0408,2024-04-22,Sumatera,Banda Aceh,General Trade,Nugget,Fiesta Crispy Nugget 400g,26,42500,37000,1105000,962000,143000,Retail
+TXN-0409,2024-04-22,Sulawesi,Palu,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,36,19000,15500,684000,558000,126000,Wholesale
+TXN-0410,2024-04-22,East Java,Jember,Modern Trade,Nugget,So Good Chicken Nugget 500g,27,52000,45000,1404000,1215000,189000,Retail
+TXN-0411,2024-04-22,Central Java,Tegal,General Trade,Nugget,Fiesta Crispy Nugget 400g,25,45500,38000,1137500,950000,187500,Retail
+TXN-0412,2024-04-23,Central Java,Semarang,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,56,23500,17000,1316000,952000,364000,Retail
+TXN-0413,2024-04-23,Kalimantan,Pontianak,General Trade,Milk,Cimory Milk Vanilla 200ml,31,4500,4000,139500,124000,15500,Retail
+TXN-0414,2024-04-23,West Java,Tasikmalaya,Distributor,Sausage,Bernardi Beef Sausage 500g,98,53500,41500,5243000,4067000,1176000,Institution
+TXN-0415,2024-04-24,Jakarta,Jakarta Utara,Distributor,Cheese,Anchor Cheddar Block 500g,176,82000,63500,14432000,11176000,3256000,HoReCa
+TXN-0416,2024-04-25,East Java,Malang,General Trade,Milk,Cimory Full Cream 1L,38,19500,16500,741000,627000,114000,Retail
+TXN-0417,2024-04-25,East Java,Malang,General Trade,Sausage,Vida Beef Sausage 200g,23,24000,19000,552000,437000,115000,Retail
+TXN-0418,2024-04-26,West Java,Tasikmalaya,Distributor,Sausage,Farmhouse Sausage 250g,172,23500,18000,4042000,3096000,946000,Institution
+TXN-0419,2024-04-26,Jakarta,Jakarta Utara,General Trade,Sausage,Bernardi Beef Sausage 500g,14,57500,43500,805000,609000,196000,Retail
+TXN-0420,2024-04-26,West Java,Bogor,General Trade,Cheese,Anchor Cheddar Block 500g,42,83500,59000,3507000,2478000,1029000,Wholesale
+TXN-0421,2024-04-27,Central Java,Solo,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,17,11000,9000,187000,153000,34000,Retail
+TXN-0422,2024-04-27,Sumatera,Padang,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,42,32000,23500,1344000,987000,357000,Retail
+TXN-0423,2024-04-27,West Java,Tasikmalaya,General Trade,Milk,Premium Whole Milk 1L,12,22500,19500,270000,234000,36000,Retail
+TXN-0424,2024-04-27,Jakarta,Jakarta Timur,Distributor,Nugget,Fiesta Crispy Nugget 400g,79,36500,30000,2883500,2370000,513500,Wholesale
+TXN-0425,2024-04-27,East Java,Malang,Modern Trade,Milk,Cimory Full Cream 1L,60,21500,19000,1290000,1140000,150000,Retail
+TXN-0426,2024-04-28,Central Java,Semarang,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,42,10500,8500,441000,357000,84000,Retail
+TXN-0427,2024-04-28,Jakarta,Jakarta Utara,Distributor,Nugget,Belfoods Royal Nugget 500g,49,47000,40000,2303000,1960000,343000,Wholesale
+TXN-0428,2024-04-28,Bali,Kuta,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,30,5500,4500,165000,135000,30000,Retail
+TXN-0429,2024-04-28,Sumatera,Pekanbaru,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,125,6500,5500,812500,687500,125000,Institution
+TXN-0430,2024-04-28,West Java,Depok,General Trade,Milk,Chocolate 1L,22,21500,18500,473000,407000,66000,Retail
+TXN-0431,2024-04-28,Bali,Kuta,Modern Trade,Milk,Premium Whole Milk 1L,56,25000,22500,1400000,1260000,140000,Retail
+TXN-0432,2024-04-29,East Java,Kediri,Distributor,Cheese,Prochiz Gold Slices 150g,65,29000,23000,1885000,1495000,390000,Institution
+TXN-0433,2024-04-29,West Java,Bandung,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,13,6500,5500,84500,71500,13000,Wholesale
+TXN-0434,2024-04-30,Banten,Cilegon,General Trade,Milk,Premium Whole Milk 1L,34,25000,21500,850000,731000,119000,Retail
+TXN-0435,2024-04-30,Kalimantan,Banjarmasin,Modern Trade,Sausage,Kimbo Beef Sausage 375g,60,32000,25000,1920000,1500000,420000,HoReCa
+TXN-0436,2024-04-30,Sulawesi,Kendari,General Trade,Milk,Cimory Full Cream 1L,15,19000,16500,285000,247500,37500,Wholesale
+TXN-0437,2024-05-01,East Java,Surabaya,Modern Trade,Milk,Chocolate 1L,47,17500,15000,822500,705000,117500,HoReCa
+TXN-0438,2024-05-01,Bali,Denpasar,General Trade,Milk,Cimory Milk Vanilla 200ml,49,4500,4000,220500,196000,24500,Retail
+TXN-0439,2024-05-01,Jakarta,Jakarta Pusat,Distributor,Nugget,Belfoods Royal Nugget 500g,185,48000,41000,8880000,7585000,1295000,Wholesale
+TXN-0440,2024-05-01,West Java,Bandung,Modern Trade,Milk,Chocolate 1L,73,20000,17500,1460000,1277500,182500,HoReCa
+TXN-0441,2024-05-01,Central Java,Semarang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,27,9500,8000,256500,216000,40500,Wholesale
+TXN-0442,2024-05-01,Yogyakarta,Wonosari,Distributor,Cheese,Anchor Cheddar Block 500g,189,81000,64000,15309000,12096000,3213000,Wholesale
+TXN-0443,2024-05-01,Kalimantan,Balikpapan,Modern Trade,Nugget,Champ Chicken Nugget 250g,43,24500,20500,1053500,881500,172000,Retail
+TXN-0444,2024-05-02,Bali,Denpasar,Distributor,Nugget,Champ Chicken Nugget 250g,146,26500,22000,3869000,3212000,657000,Wholesale
+TXN-0445,2024-05-02,Kalimantan,Samarinda,Modern Trade,Milk,Cimory Full Cream 1L,59,21000,18000,1239000,1062000,177000,Retail
+TXN-0446,2024-05-03,Jakarta,Jakarta Timur,Modern Trade,Nugget,Belfoods Royal Nugget 500g,59,48500,41000,2861500,2419000,442500,Retail
+TXN-0447,2024-05-03,Jakarta,Jakarta Selatan,General Trade,Sausage,Bernardi Beef Sausage 500g,42,54500,44000,2289000,1848000,441000,Wholesale
+TXN-0448,2024-05-03,Banten,Tangerang,General Trade,Milk,Chocolate 1L,44,21000,18000,924000,792000,132000,Retail
+TXN-0449,2024-05-03,Jakarta,Jakarta Selatan,Modern Trade,Milk,Cimory Chocolate 200ml,39,5500,5000,214500,195000,19500,HoReCa
+TXN-0450,2024-05-04,West Java,Depok,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,73,24000,20000,1752000,1460000,292000,Wholesale
+TXN-0451,2024-05-04,Banten,Tangerang,General Trade,Milk,Chocolate 1L,41,19500,16500,799500,676500,123000,Wholesale
+TXN-0452,2024-05-04,Banten,Serang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,42,10500,8500,441000,357000,84000,Wholesale
+TXN-0453,2024-05-04,East Java,Blitar,General Trade,Sausage,Farmhouse Sausage 250g,12,23500,18500,282000,222000,60000,Wholesale
+TXN-0454,2024-05-04,West Java,Bogor,Distributor,Nugget,Champ Chicken Nugget 250g,190,22500,19000,4275000,3610000,665000,Wholesale
+TXN-0455,2024-05-05,Central Java,Solo,Distributor,Sausage,Vida Beef Sausage 200g,89,19500,15500,1735500,1379500,356000,Wholesale
+TXN-0456,2024-05-05,Sumatera,Palembang,General Trade,Sausage,Vida Beef Sausage 200g,25,21500,17500,537500,437500,100000,Wholesale
+TXN-0457,2024-05-06,Sumatera,Banda Aceh,Modern Trade,Nugget,Belfoods Royal Nugget 500g,47,43000,36500,2021000,1715500,305500,HoReCa
+TXN-0458,2024-05-06,West Java,Tasikmalaya,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,48,44000,37500,2112000,1800000,312000,HoReCa
+TXN-0459,2024-05-06,Central Java,Magelang,Modern Trade,Sausage,Farmhouse Sausage 250g,54,21000,16500,1134000,891000,243000,Retail
+TXN-0460,2024-05-06,Kalimantan,Samarinda,Distributor,Nugget,Champ Chicken Nugget 250g,242,27000,23500,6534000,5687000,847000,HoReCa
+TXN-0461,2024-05-06,Jakarta,Jakarta Selatan,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,69,34000,25500,2346000,1759500,586500,Retail
+TXN-0462,2024-05-07,East Java,Blitar,General Trade,Milk,Cimory Chocolate 200ml,22,5500,5000,121000,110000,11000,Wholesale
+TXN-0463,2024-05-07,Sulawesi,Manado,General Trade,Sausage,Vida Beef Sausage 200g,22,18500,15000,407000,330000,77000,Retail
+TXN-0464,2024-05-07,Jakarta,Jakarta Barat,General Trade,Nugget,Fiesta Crispy Nugget 400g,25,41000,34000,1025000,850000,175000,Retail
+TXN-0465,2024-05-08,West Java,Depok,Modern Trade,Sausage,Farmhouse Sausage 250g,25,22000,17000,550000,425000,125000,Retail
+TXN-0466,2024-05-08,Central Java,Semarang,General Trade,Milk,Premium Whole Milk 1L,42,26500,24000,1113000,1008000,105000,Retail
+TXN-0467,2024-05-09,Sumatera,Banda Aceh,Distributor,Sausage,So Good Chicken Sausage 375g,206,36500,29500,7519000,6077000,1442000,Institution
+TXN-0468,2024-05-09,East Java,Surabaya,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,112,24500,19500,2744000,2184000,560000,Institution
+TXN-0469,2024-05-09,West Java,Bogor,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,29,44500,38000,1290500,1102000,188500,Retail
+TXN-0470,2024-05-10,Yogyakarta,Bantul,Distributor,Cheese,Kraft Cheddar Cheese 165g,242,32000,23000,7744000,5566000,2178000,Wholesale
+TXN-0471,2024-05-10,Central Java,Semarang,Modern Trade,Milk,Chocolate 1L,42,19500,17000,819000,714000,105000,Retail
+TXN-0472,2024-05-12,West Java,Cimahi,Distributor,Milk,Cimory Milk Vanilla 200ml,57,5000,4500,285000,256500,28500,HoReCa
+TXN-0473,2024-05-12,Banten,Cilegon,General Trade,Cheese,Kraft Cheddar Cheese 165g,21,30500,22000,640500,462000,178500,Retail
+TXN-0474,2024-05-13,Central Java,Semarang,Distributor,Milk,Premium Whole Milk 1L,119,25500,22500,3034500,2677500,357000,HoReCa
+TXN-0475,2024-05-13,Yogyakarta,Bantul,General Trade,Milk,Cimory Chocolate 200ml,49,6000,5000,294000,245000,49000,Wholesale
+TXN-0476,2024-05-13,Sulawesi,Makassar,Modern Trade,Yoghurt,Cimory Yoghurt 500g,74,30500,25000,2257000,1850000,407000,Retail
+TXN-0477,2024-05-13,West Java,Bogor,General Trade,Sausage,So Good Chicken Sausage 375g,38,31500,25500,1197000,969000,228000,Retail
+TXN-0478,2024-05-14,Jakarta,Jakarta Utara,General Trade,Cheese,Anchor Cheddar Block 500g,35,74500,57500,2607500,2012500,595000,Retail
+TXN-0479,2024-05-15,West Java,Bandung,Modern Trade,Nugget,Contadina Crispy Nugget 250g,19,23500,20500,446500,389500,57000,Retail
+TXN-0480,2024-05-15,Bali,Ubud,Distributor,Milk,Cimory Milk Vanilla 200ml,198,5500,4500,1089000,891000,198000,Wholesale
+TXN-0481,2024-05-15,Sumatera,Medan,General Trade,Milk,Chocolate 1L,11,19500,17000,214500,187000,27500,Retail
+TXN-0482,2024-05-16,Sumatera,Banda Aceh,Modern Trade,Sausage,Kimbo Beef Sausage 375g,44,36000,28500,1584000,1254000,330000,Retail
+TXN-0483,2024-05-16,East Java,Jember,General Trade,Cheese,Anchor Cheddar Block 500g,39,78000,57500,3042000,2242500,799500,Retail
+TXN-0484,2024-05-16,Yogyakarta,Yogyakarta,General Trade,Cheese,Prochiz Gold Slices 150g,33,26500,19500,874500,643500,231000,Retail
+TXN-0485,2024-05-16,Kalimantan,Samarinda,General Trade,Sausage,So Good Chicken Sausage 375g,13,35500,28000,461500,364000,97500,Retail
+TXN-0486,2024-05-16,Sumatera,Banda Aceh,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,77,30000,21500,2310000,1655500,654500,HoReCa
+TXN-0487,2024-05-16,Banten,Tangerang,General Trade,Cheese,Kiri Cream Cheese 80g,33,21000,17000,693000,561000,132000,Retail
+TXN-0488,2024-05-17,Kalimantan,Pontianak,Modern Trade,Sausage,Farmhouse Sausage 250g,73,27500,22000,2007500,1606000,401500,HoReCa
+TXN-0489,2024-05-17,West Java,Bekasi,Modern Trade,Sausage,Bernardi Beef Sausage 500g,66,48000,39000,3168000,2574000,594000,HoReCa
+TXN-0490,2024-05-17,Sumatera,Banda Aceh,General Trade,Cheese,Kiri Cream Cheese 80g,12,22500,18000,270000,216000,54000,Wholesale
+TXN-0491,2024-05-18,Jakarta,Jakarta Utara,General Trade,Sausage,Kimbo Beef Sausage 375g,10,29500,23500,295000,235000,60000,Retail
+TXN-0492,2024-05-18,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,23,11500,9500,264500,218500,46000,Retail
+TXN-0493,2024-05-18,Jakarta,Jakarta Pusat,Modern Trade,Sausage,Farmhouse Sausage 250g,32,27000,21000,864000,672000,192000,Retail
+TXN-0494,2024-05-18,Yogyakarta,Bantul,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,160,10500,9000,1680000,1440000,240000,Wholesale
+TXN-0495,2024-05-18,Banten,Cilegon,Distributor,Milk,Cimory Full Cream 1L,227,22000,19500,4994000,4426500,567500,Wholesale
+TXN-0496,2024-05-18,West Java,Bandung,Distributor,Cheese,Kiri Cream Cheese 80g,203,26500,19500,5379500,3958500,1421000,Wholesale
+TXN-0497,2024-05-18,West Java,Bogor,General Trade,Nugget,Contadina Crispy Nugget 250g,23,23000,19000,529000,437000,92000,Retail
+TXN-0498,2024-05-18,Bali,Singaraja,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,15,28500,22000,427500,330000,97500,Retail
+TXN-0499,2024-05-18,Sulawesi,Manado,Distributor,Milk,Chocolate 1L,163,18000,15500,2934000,2526500,407500,HoReCa
+TXN-0500,2024-05-19,West Java,Tasikmalaya,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,10,10000,8500,100000,85000,15000,Retail
+TXN-0501,2024-05-19,West Java,Bekasi,General Trade,Sausage,So Good Chicken Sausage 375g,45,34500,26000,1552500,1170000,382500,Retail
+TXN-0502,2024-05-19,Banten,Tangerang,General Trade,Cheese,Kraft Cheddar Cheese 165g,19,34000,24500,646000,465500,180500,Retail
+TXN-0503,2024-05-20,Central Java,Tegal,General Trade,Sausage,Vida Beef Sausage 200g,23,22500,17500,517500,402500,115000,Wholesale
+TXN-0504,2024-05-20,Jakarta,Jakarta Utara,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,51,12000,9500,612000,484500,127500,HoReCa
+TXN-0505,2024-05-21,Jakarta,Jakarta Selatan,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,38,29500,23000,1121000,874000,247000,Retail
+TXN-0506,2024-05-22,West Java,Bekasi,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,28,8500,7000,238000,196000,42000,Retail
+TXN-0507,2024-05-22,Banten,South Tangerang,Modern Trade,Milk,Cimory Chocolate 200ml,55,5500,5000,302500,275000,27500,Retail
+TXN-0508,2024-05-22,Jakarta,Jakarta Pusat,Modern Trade,Nugget,Champ Chicken Nugget 250g,78,24500,21000,1911000,1638000,273000,Retail
+TXN-0509,2024-05-22,Sumatera,Pekanbaru,Distributor,Milk,Chocolate 1L,146,20000,17500,2920000,2555000,365000,Wholesale
+TXN-0510,2024-05-22,Jakarta,Jakarta Selatan,Distributor,Sausage,Farmhouse Sausage 250g,102,22000,17000,2244000,1734000,510000,Institution
+TXN-0511,2024-05-23,East Java,Jember,General Trade,Milk,Chocolate 1L,8,19000,17000,152000,136000,16000,Retail
+TXN-0512,2024-05-23,Kalimantan,Samarinda,Distributor,Cheese,Kraft Cheddar Cheese 165g,169,29000,20500,4901000,3464500,1436500,HoReCa
+TXN-0513,2024-05-23,Jakarta,Jakarta Pusat,Modern Trade,Sausage,Vida Beef Sausage 200g,15,23000,18000,345000,270000,75000,HoReCa
+TXN-0514,2024-05-23,Yogyakarta,Wonosari,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,17,9000,7500,153000,127500,25500,Wholesale
+TXN-0515,2024-05-23,Sumatera,Padang,General Trade,Sausage,Farmhouse Sausage 250g,32,29000,22000,928000,704000,224000,Retail
+TXN-0516,2024-05-24,Central Java,Solo,Distributor,Milk,Cimory Chocolate 200ml,101,5500,5000,555500,505000,50500,Wholesale
+TXN-0517,2024-05-24,Bali,Denpasar,General Trade,Milk,Cimory Chocolate 200ml,36,4500,4000,162000,144000,18000,Retail
+TXN-0518,2024-05-24,East Java,Malang,General Trade,Cheese,Laughing Cow Creamy 8pcs,31,19000,14000,589000,434000,155000,Retail
+TXN-0519,2024-05-24,Sulawesi,Palu,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,124,12000,10000,1488000,1240000,248000,Institution
+TXN-0520,2024-05-24,Central Java,Pekalongan,General Trade,Sausage,Kimbo Beef Sausage 375g,44,31000,25000,1364000,1100000,264000,Retail
+TXN-0521,2024-05-25,Central Java,Solo,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,54,22500,16000,1215000,864000,351000,Retail
+TXN-0522,2024-05-25,West Java,Depok,Distributor,Milk,Premium Whole Milk 1L,235,22500,20000,5287500,4700000,587500,Wholesale
+TXN-0523,2024-05-25,West Java,Bekasi,General Trade,Cheese,Laughing Cow Creamy 8pcs,24,22000,15500,528000,372000,156000,Wholesale
+TXN-0524,2024-05-26,East Java,Blitar,Modern Trade,Sausage,So Good Chicken Sausage 375g,15,32000,25000,480000,375000,105000,HoReCa
+TXN-0525,2024-05-26,Kalimantan,Pontianak,Modern Trade,Sausage,Bernardi Beef Sausage 500g,54,52500,40500,2835000,2187000,648000,Retail
+TXN-0526,2024-05-26,East Java,Surabaya,Distributor,Milk,Chocolate 1L,183,18500,16500,3385500,3019500,366000,Wholesale
+TXN-0527,2024-05-26,Central Java,Semarang,General Trade,Milk,Cimory Full Cream 1L,42,19500,17500,819000,735000,84000,Wholesale
+TXN-0528,2024-05-26,East Java,Kediri,Modern Trade,Nugget,Contadina Crispy Nugget 250g,15,22500,19500,337500,292500,45000,Retail
+TXN-0529,2024-05-27,Jakarta,Jakarta Timur,Modern Trade,Milk,Chocolate 1L,77,21500,18500,1655500,1424500,231000,HoReCa
+TXN-0530,2024-05-27,Sumatera,Banda Aceh,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,30,9500,8000,285000,240000,45000,Retail
+TXN-0531,2024-05-27,Bali,Ubud,Distributor,Nugget,So Good Chicken Nugget 500g,126,48500,42000,6111000,5292000,819000,Institution
+TXN-0532,2024-05-27,Central Java,Solo,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,190,6000,5000,1140000,950000,190000,Wholesale
+TXN-0533,2024-05-28,East Java,Jember,General Trade,Sausage,Bernardi Beef Sausage 500g,28,46000,34500,1288000,966000,322000,Retail
+TXN-0534,2024-05-28,Kalimantan,Pontianak,Modern Trade,Sausage,Vida Beef Sausage 200g,62,23500,19000,1457000,1178000,279000,Retail
+TXN-0535,2024-05-28,Central Java,Pekalongan,Modern Trade,Milk,Premium Whole Milk 1L,25,23500,20500,587500,512500,75000,Retail
+TXN-0536,2024-05-28,Kalimantan,Samarinda,General Trade,Sausage,Bernardi Beef Sausage 500g,28,53000,43500,1484000,1218000,266000,Retail
+TXN-0537,2024-05-28,Jakarta,Jakarta Timur,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,106,13000,10500,1378000,1113000,265000,Wholesale
+TXN-0538,2024-05-28,Jakarta,Jakarta Pusat,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,22,13000,11000,286000,242000,44000,Wholesale
+TXN-0539,2024-05-29,Bali,Ubud,Distributor,Sausage,So Good Chicken Sausage 375g,52,35500,27500,1846000,1430000,416000,Wholesale
+TXN-0540,2024-05-30,Banten,Cilegon,General Trade,Nugget,So Good Chicken Nugget 500g,19,44500,38500,845500,731500,114000,Wholesale
+TXN-0541,2024-05-30,East Java,Malang,General Trade,Milk,Cimory Milk Vanilla 200ml,43,5500,5000,236500,215000,21500,Retail
+TXN-0542,2024-05-30,Central Java,Solo,Distributor,Sausage,Farmhouse Sausage 250g,210,28000,21500,5880000,4515000,1365000,Institution
+TXN-0543,2024-05-30,Sumatera,Palembang,Modern Trade,Nugget,Belfoods Royal Nugget 500g,26,39000,32500,1014000,845000,169000,Retail
+TXN-0544,2024-05-30,Sulawesi,Kendari,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,129,11000,9000,1419000,1161000,258000,Institution
+TXN-0545,2024-05-31,West Java,Bogor,General Trade,Cheese,Laughing Cow Creamy 8pcs,23,20000,15500,460000,356500,103500,Retail
+TXN-0546,2024-05-31,Kalimantan,Pontianak,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,54,9500,8000,513000,432000,81000,Retail
+TXN-0547,2024-05-31,Banten,Serang,Distributor,Milk,Chocolate 1L,204,18500,16000,3774000,3264000,510000,Wholesale
+TXN-0548,2024-05-31,West Java,Cimahi,Modern Trade,Cheese,Kiri Cream Cheese 80g,67,21000,16500,1407000,1105500,301500,Retail
+TXN-0549,2024-05-31,Banten,South Tangerang,Distributor,Milk,Premium Whole Milk 1L,113,23000,20500,2599000,2316500,282500,Wholesale
+TXN-0550,2024-06-01,Central Java,Tegal,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,70,12500,10500,875000,735000,140000,HoReCa
+TXN-0551,2024-06-01,Jakarta,Jakarta Selatan,Distributor,Milk,Cimory Chocolate 200ml,262,5000,4500,1310000,1179000,131000,Institution
+TXN-0552,2024-06-01,Central Java,Tegal,Modern Trade,Milk,Premium Whole Milk 1L,22,27500,24000,605000,528000,77000,Retail
+TXN-0553,2024-06-02,Bali,Denpasar,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,53,28500,20000,1510500,1060000,450500,Retail
+TXN-0554,2024-06-02,Bali,Ubud,General Trade,Milk,Cimory Milk Vanilla 200ml,47,5500,5000,258500,235000,23500,Wholesale
+TXN-0555,2024-06-02,East Java,Jember,General Trade,Nugget,Contadina Crispy Nugget 250g,18,26500,22500,477000,405000,72000,Wholesale
+TXN-0556,2024-06-02,Jakarta,Jakarta Timur,General Trade,Cheese,Kiri Cream Cheese 80g,39,25000,18500,975000,721500,253500,Retail
+TXN-0557,2024-06-03,East Java,Kediri,General Trade,Milk,Cimory Chocolate 200ml,33,4500,4000,148500,132000,16500,Retail
+TXN-0558,2024-06-03,West Java,Cimahi,Distributor,Sausage,Bernardi Beef Sausage 500g,68,50000,39500,3400000,2686000,714000,HoReCa
+TXN-0559,2024-06-03,Kalimantan,Samarinda,Modern Trade,Sausage,Kimbo Beef Sausage 375g,88,35000,27000,3080000,2376000,704000,Retail
+TXN-0560,2024-06-03,Central Java,Magelang,General Trade,Milk,Premium Whole Milk 1L,56,26500,23000,1484000,1288000,196000,Retail
+TXN-0561,2024-06-03,West Java,Tasikmalaya,Modern Trade,Sausage,So Good Chicken Sausage 375g,78,41000,31500,3198000,2457000,741000,Retail
+TXN-0562,2024-06-04,Bali,Singaraja,General Trade,Nugget,Belfoods Royal Nugget 500g,45,39500,34000,1777500,1530000,247500,Retail
+TXN-0563,2024-06-04,East Java,Blitar,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,11,8500,7000,93500,77000,16500,Wholesale
+TXN-0564,2024-06-04,East Java,Malang,General Trade,Sausage,Bernardi Beef Sausage 500g,37,48500,39500,1794500,1461500,333000,Retail
+TXN-0565,2024-06-04,East Java,Jember,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,288,12000,10000,3456000,2880000,576000,HoReCa
+TXN-0566,2024-06-04,West Java,Depok,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,89,9000,7500,801000,667500,133500,HoReCa
+TXN-0567,2024-06-04,West Java,Tasikmalaya,Modern Trade,Sausage,So Good Chicken Sausage 375g,22,35500,27500,781000,605000,176000,Retail
+TXN-0568,2024-06-04,Bali,Kuta,General Trade,Sausage,So Good Chicken Sausage 375g,45,33500,26500,1507500,1192500,315000,Retail
+TXN-0569,2024-06-04,Kalimantan,Banjarmasin,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,93,29500,21000,2743500,1953000,790500,Retail
+TXN-0570,2024-06-05,West Java,Tasikmalaya,General Trade,Milk,Cimory Chocolate 200ml,32,6000,5000,192000,160000,32000,Retail
+TXN-0571,2024-06-05,Sulawesi,Palu,General Trade,Milk,Cimory Full Cream 1L,38,23500,21000,893000,798000,95000,Wholesale
+TXN-0572,2024-06-05,East Java,Surabaya,Modern Trade,Cheese,Prochiz Gold Slices 150g,30,29500,21500,885000,645000,240000,Retail
+TXN-0573,2024-06-05,Sulawesi,Kendari,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,160,10000,8000,1600000,1280000,320000,Wholesale
+TXN-0574,2024-06-05,Kalimantan,Samarinda,General Trade,Cheese,Laughing Cow Creamy 8pcs,41,21000,16000,861000,656000,205000,Retail
+TXN-0575,2024-06-05,East Java,Jember,Modern Trade,Sausage,Vida Beef Sausage 200g,25,23500,18500,587500,462500,125000,Retail
+TXN-0576,2024-06-05,East Java,Kediri,General Trade,Yoghurt,Cimory Yoghurt 500g,51,36000,29500,1836000,1504500,331500,Wholesale
+TXN-0577,2024-06-06,Banten,Cilegon,Distributor,Milk,Chocolate 1L,208,20500,18000,4264000,3744000,520000,Wholesale
+TXN-0578,2024-06-06,Jakarta,Jakarta Barat,Distributor,Milk,Cimory Chocolate 200ml,151,5000,4500,755000,679500,75500,Wholesale
+TXN-0579,2024-06-06,Banten,Tangerang,Distributor,Milk,Cimory Milk Vanilla 200ml,194,5500,5000,1067000,970000,97000,Wholesale
+TXN-0580,2024-06-06,Jakarta,Jakarta Barat,General Trade,Cheese,Kiri Cream Cheese 80g,30,25500,19500,765000,585000,180000,Retail
+TXN-0581,2024-06-07,West Java,Bekasi,General Trade,Nugget,So Good Chicken Nugget 500g,45,53000,45000,2385000,2025000,360000,Retail
+TXN-0582,2024-06-07,Bali,Ubud,Distributor,Sausage,So Good Chicken Sausage 375g,205,30500,23500,6252500,4817500,1435000,Institution
+TXN-0583,2024-06-08,Sumatera,Medan,Distributor,Nugget,Fiesta Crispy Nugget 400g,206,36000,30000,7416000,6180000,1236000,Wholesale
+TXN-0584,2024-06-08,Jakarta,Jakarta Selatan,General Trade,Nugget,Contadina Crispy Nugget 250g,51,23500,20000,1198500,1020000,178500,Wholesale
+TXN-0585,2024-06-08,Jakarta,Jakarta Barat,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,41,5500,4500,225500,184500,41000,Retail
+TXN-0586,2024-06-08,Banten,South Tangerang,Distributor,Nugget,Belfoods Royal Nugget 500g,289,44000,36000,12716000,10404000,2312000,Wholesale
+TXN-0587,2024-06-08,Banten,Cilegon,General Trade,Cheese,Kraft Cheddar Cheese 165g,61,29500,21500,1799500,1311500,488000,Retail
+TXN-0588,2024-06-09,Sulawesi,Palu,Distributor,Milk,Cimory Full Cream 1L,70,19000,17000,1330000,1190000,140000,Wholesale
+TXN-0589,2024-06-09,Kalimantan,Banjarmasin,Modern Trade,Milk,Cimory Full Cream 1L,90,24000,21500,2160000,1935000,225000,Retail
+TXN-0590,2024-06-09,East Java,Blitar,General Trade,Cheese,Anchor Cheddar Block 500g,36,76500,60500,2754000,2178000,576000,Retail
+TXN-0591,2024-06-09,Central Java,Magelang,Modern Trade,Milk,Cimory Full Cream 1L,68,21000,18500,1428000,1258000,170000,Retail
+TXN-0592,2024-06-09,West Java,Bogor,Distributor,Milk,Cimory Milk Vanilla 200ml,218,5500,5000,1199000,1090000,109000,HoReCa
+TXN-0593,2024-06-10,Banten,Cilegon,Modern Trade,Sausage,So Good Chicken Sausage 375g,98,34500,26500,3381000,2597000,784000,Retail
+TXN-0594,2024-06-10,Sumatera,Padang,General Trade,Nugget,Belfoods Royal Nugget 500g,46,48500,42000,2231000,1932000,299000,Retail
+TXN-0595,2024-06-10,West Java,Tasikmalaya,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,18,9000,7500,162000,135000,27000,Retail
+TXN-0596,2024-06-10,Central Java,Semarang,General Trade,Nugget,Champ Chicken Nugget 250g,42,28500,24000,1197000,1008000,189000,Retail
+TXN-0597,2024-06-10,Jakarta,Jakarta Barat,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,66,6500,5500,429000,363000,66000,Retail
+TXN-0598,2024-06-10,East Java,Jember,Distributor,Milk,Premium Whole Milk 1L,194,23000,20000,4462000,3880000,582000,Institution
+TXN-0599,2024-06-11,Central Java,Magelang,Distributor,Cheese,Kiri Cream Cheese 80g,179,22000,17000,3938000,3043000,895000,Institution
+TXN-0600,2024-06-11,Jakarta,Jakarta Pusat,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,43,20500,17000,881500,731000,150500,Retail
+TXN-0601,2024-06-11,East Java,Kediri,General Trade,Nugget,Contadina Crispy Nugget 250g,13,22500,19500,292500,253500,39000,Wholesale
+TXN-0602,2024-06-11,Central Java,Pekalongan,Modern Trade,Sausage,Farmhouse Sausage 250g,40,21000,16000,840000,640000,200000,Retail
+TXN-0603,2024-06-11,West Java,Bogor,Modern Trade,Sausage,So Good Chicken Sausage 375g,21,31500,25000,661500,525000,136500,Retail
+TXN-0604,2024-06-11,Jakarta,Jakarta Selatan,General Trade,Sausage,Kimbo Beef Sausage 375g,65,32500,25000,2112500,1625000,487500,Wholesale
+TXN-0605,2024-06-12,Yogyakarta,Wonosari,General Trade,Sausage,Kimbo Beef Sausage 375g,26,27500,22000,715000,572000,143000,Wholesale
+TXN-0606,2024-06-12,Banten,Tangerang,General Trade,Nugget,Fiesta Crispy Nugget 400g,47,35500,30000,1668500,1410000,258500,Wholesale
+TXN-0607,2024-06-12,East Java,Surabaya,Modern Trade,Nugget,Contadina Crispy Nugget 250g,52,24000,21000,1248000,1092000,156000,HoReCa
+TXN-0608,2024-06-12,West Java,Bogor,General Trade,Cheese,Laughing Cow Creamy 8pcs,64,17500,13500,1120000,864000,256000,Retail
+TXN-0609,2024-06-12,Bali,Denpasar,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,33,30500,23000,1006500,759000,247500,Retail
+TXN-0610,2024-06-12,East Java,Kediri,Modern Trade,Nugget,Contadina Crispy Nugget 250g,73,23000,19000,1679000,1387000,292000,HoReCa
+TXN-0611,2024-06-12,Kalimantan,Banjarmasin,Distributor,Nugget,So Good Chicken Nugget 500g,169,45000,38500,7605000,6506500,1098500,Wholesale
+TXN-0612,2024-06-13,Bali,Kuta,General Trade,Cheese,Kraft Cheddar Cheese 165g,44,31000,24000,1364000,1056000,308000,Retail
+TXN-0613,2024-06-13,West Java,Tasikmalaya,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,46,33500,24000,1541000,1104000,437000,Retail
+TXN-0614,2024-06-13,Jakarta,Jakarta Selatan,General Trade,Nugget,Contadina Crispy Nugget 250g,41,25000,21000,1025000,861000,164000,Retail
+TXN-0615,2024-06-14,West Java,Cimahi,Distributor,Milk,Cimory Full Cream 1L,257,21000,18000,5397000,4626000,771000,Institution
+TXN-0616,2024-06-15,Kalimantan,Samarinda,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,234,12000,9500,2808000,2223000,585000,Institution
+TXN-0617,2024-06-15,Central Java,Solo,Modern Trade,Milk,Cimory Chocolate 200ml,42,6000,5000,252000,210000,42000,Retail
+TXN-0618,2024-06-15,Central Java,Solo,Modern Trade,Milk,Premium Whole Milk 1L,31,22500,19500,697500,604500,93000,HoReCa
+TXN-0619,2024-06-15,Jakarta,Jakarta Utara,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,39,11000,9500,429000,370500,58500,Retail
+TXN-0620,2024-06-15,Sulawesi,Kendari,Distributor,Milk,Cimory Milk Vanilla 200ml,120,5500,5000,660000,600000,60000,Wholesale
+TXN-0621,2024-06-15,Sulawesi,Palu,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,131,9500,8000,1244500,1048000,196500,Wholesale
+TXN-0622,2024-06-15,West Java,Tasikmalaya,Distributor,Sausage,Farmhouse Sausage 250g,216,24000,18000,5184000,3888000,1296000,Wholesale
+TXN-0623,2024-06-16,Banten,Tangerang,General Trade,Yoghurt,Cimory Yoghurt 500g,65,36500,31000,2372500,2015000,357500,Retail
+TXN-0624,2024-06-16,East Java,Surabaya,General Trade,Cheese,Anchor Cheddar Block 500g,26,77500,61500,2015000,1599000,416000,Retail
+TXN-0625,2024-06-16,East Java,Kediri,General Trade,Yoghurt,Cimory Yoghurt 500g,39,34000,29000,1326000,1131000,195000,Retail
+TXN-0626,2024-06-17,Sumatera,Padang,Modern Trade,Cheese,Kiri Cream Cheese 80g,96,21500,16000,2064000,1536000,528000,Retail
+TXN-0627,2024-06-17,East Java,Kediri,General Trade,Milk,Premium Whole Milk 1L,21,25500,22000,535500,462000,73500,Retail
+TXN-0628,2024-06-17,Central Java,Solo,General Trade,Milk,Chocolate 1L,30,17500,15500,525000,465000,60000,Retail
+TXN-0629,2024-06-17,East Java,Blitar,General Trade,Milk,Cimory Milk Vanilla 200ml,20,5000,4500,100000,90000,10000,Retail
+TXN-0630,2024-06-18,Sumatera,Palembang,Modern Trade,Milk,Cimory Chocolate 200ml,46,6000,5500,276000,253000,23000,Retail
+TXN-0631,2024-06-18,Sulawesi,Kendari,General Trade,Milk,Chocolate 1L,45,17500,15500,787500,697500,90000,Retail
+TXN-0632,2024-06-18,Jakarta,Jakarta Barat,General Trade,Milk,Chocolate 1L,43,21500,19000,924500,817000,107500,Retail
+TXN-0633,2024-06-18,Jakarta,Jakarta Pusat,General Trade,Milk,Premium Whole Milk 1L,45,27500,24500,1237500,1102500,135000,Wholesale
+TXN-0634,2024-06-18,Central Java,Solo,Modern Trade,Sausage,Farmhouse Sausage 250g,77,20500,15500,1578500,1193500,385000,HoReCa
+TXN-0635,2024-06-18,East Java,Surabaya,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,72,8500,7000,612000,504000,108000,Retail
+TXN-0636,2024-06-18,Banten,Serang,Distributor,Sausage,Vida Beef Sausage 200g,268,19000,15500,5092000,4154000,938000,Wholesale
+TXN-0637,2024-06-19,Kalimantan,Banjarmasin,Distributor,Sausage,So Good Chicken Sausage 375g,98,31000,24500,3038000,2401000,637000,HoReCa
+TXN-0638,2024-06-19,East Java,Jember,General Trade,Sausage,Kimbo Beef Sausage 375g,51,33000,27000,1683000,1377000,306000,Retail
+TXN-0639,2024-06-19,Sulawesi,Palu,General Trade,Cheese,Kraft Cheddar Cheese 165g,34,33500,24500,1139000,833000,306000,Wholesale
+TXN-0640,2024-06-20,Central Java,Magelang,Distributor,Yoghurt,Cimory Yoghurt 500g,203,29500,24000,5988500,4872000,1116500,Institution
+TXN-0641,2024-06-20,Jakarta,Jakarta Selatan,Distributor,Milk,Cimory Full Cream 1L,97,20500,18500,1988500,1794500,194000,Wholesale
+TXN-0642,2024-06-20,Sumatera,Palembang,Distributor,Nugget,Belfoods Royal Nugget 500g,213,42500,36500,9052500,7774500,1278000,Institution
+TXN-0643,2024-06-20,West Java,Bekasi,General Trade,Milk,Cimory Full Cream 1L,41,19500,17500,799500,717500,82000,Wholesale
+TXN-0644,2024-06-20,West Java,Bogor,Modern Trade,Sausage,Bernardi Beef Sausage 500g,34,54000,44000,1836000,1496000,340000,Retail
+TXN-0645,2024-06-20,East Java,Jember,Distributor,Sausage,Bernardi Beef Sausage 500g,231,54500,43000,12589500,9933000,2656500,HoReCa
+TXN-0646,2024-06-20,Jakarta,Jakarta Utara,General Trade,Sausage,Kimbo Beef Sausage 375g,39,36500,30000,1423500,1170000,253500,Retail
+TXN-0647,2024-06-20,Yogyakarta,Yogyakarta,Modern Trade,Sausage,Bernardi Beef Sausage 500g,50,57000,43000,2850000,2150000,700000,HoReCa
+TXN-0648,2024-06-21,East Java,Surabaya,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,71,21500,18000,1526500,1278000,248500,Retail
+TXN-0649,2024-06-21,West Java,Bogor,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,38,5000,4000,190000,152000,38000,Retail
+TXN-0650,2024-06-21,Jakarta,Jakarta Utara,Modern Trade,Yoghurt,Cimory Yoghurt 500g,86,29000,23500,2494000,2021000,473000,HoReCa
+TXN-0651,2024-06-21,Jakarta,Jakarta Pusat,Distributor,Nugget,Fiesta Crispy Nugget 400g,193,36500,31500,7044500,6079500,965000,HoReCa
+TXN-0652,2024-06-21,East Java,Kediri,Modern Trade,Nugget,So Good Chicken Nugget 500g,77,52500,43000,4042500,3311000,731500,Retail
+TXN-0653,2024-06-22,Bali,Ubud,General Trade,Nugget,Champ Chicken Nugget 250g,13,21000,18000,273000,234000,39000,Wholesale
+TXN-0654,2024-06-22,Sumatera,Pekanbaru,General Trade,Milk,Cimory Milk Vanilla 200ml,27,5000,4500,135000,121500,13500,Retail
+TXN-0655,2024-06-22,East Java,Malang,Modern Trade,Milk,Chocolate 1L,57,18500,16500,1054500,940500,114000,Retail
+TXN-0656,2024-06-23,West Java,Bogor,Modern Trade,Nugget,So Good Chicken Nugget 500g,66,49500,43500,3267000,2871000,396000,Retail
+TXN-0657,2024-06-23,East Java,Kediri,General Trade,Milk,Chocolate 1L,40,18500,16000,740000,640000,100000,Retail
+TXN-0658,2024-06-23,West Java,Tasikmalaya,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,80,18500,15500,1480000,1240000,240000,HoReCa
+TXN-0659,2024-06-23,Banten,South Tangerang,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,47,23500,19000,1104500,893000,211500,Retail
+TXN-0660,2024-06-24,Sulawesi,Palu,General Trade,Milk,Cimory Full Cream 1L,15,24000,21000,360000,315000,45000,Retail
+TXN-0661,2024-06-24,Banten,South Tangerang,General Trade,Nugget,Champ Chicken Nugget 250g,24,21500,18000,516000,432000,84000,Retail
+TXN-0662,2024-06-24,Central Java,Pekalongan,Distributor,Nugget,Belfoods Royal Nugget 500g,191,43000,38000,8213000,7258000,955000,Wholesale
+TXN-0663,2024-06-24,Jakarta,Jakarta Selatan,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,54,22000,18000,1188000,972000,216000,Retail
+TXN-0664,2024-06-24,West Java,Cimahi,General Trade,Sausage,Vida Beef Sausage 200g,33,20500,16000,676500,528000,148500,Retail
+TXN-0665,2024-06-25,Jakarta,Jakarta Barat,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,54,23500,19500,1269000,1053000,216000,Retail
+TXN-0666,2024-06-25,Sumatera,Banda Aceh,General Trade,Milk,Cimory Milk Vanilla 200ml,50,5500,4500,275000,225000,50000,Wholesale
+TXN-0667,2024-06-26,West Java,Cimahi,General Trade,Cheese,Prochiz Gold Slices 150g,63,30500,24000,1921500,1512000,409500,Retail
+TXN-0668,2024-06-26,West Java,Cimahi,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,89,11000,9000,979000,801000,178000,Institution
+TXN-0669,2024-06-26,Kalimantan,Banjarmasin,Distributor,Sausage,Kimbo Beef Sausage 375g,228,31500,25000,7182000,5700000,1482000,Wholesale
+TXN-0670,2024-06-26,Central Java,Pekalongan,Modern Trade,Sausage,Bernardi Beef Sausage 500g,100,55000,41500,5500000,4150000,1350000,Retail
+TXN-0671,2024-06-26,Kalimantan,Banjarmasin,General Trade,Cheese,Kiri Cream Cheese 80g,57,24000,17000,1368000,969000,399000,Retail
+TXN-0672,2024-06-27,Kalimantan,Banjarmasin,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,44,35000,27500,1540000,1210000,330000,Retail
+TXN-0673,2024-06-27,Jakarta,Jakarta Timur,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,40,10500,8500,420000,340000,80000,Wholesale
+TXN-0674,2024-06-27,Jakarta,Jakarta Selatan,General Trade,Sausage,Vida Beef Sausage 200g,26,19000,15000,494000,390000,104000,Wholesale
+TXN-0675,2024-06-27,West Java,Bandung,Modern Trade,Milk,Chocolate 1L,57,20500,18000,1168500,1026000,142500,HoReCa
+TXN-0676,2024-06-27,West Java,Tasikmalaya,Distributor,Nugget,Contadina Crispy Nugget 250g,311,26000,22000,8086000,6842000,1244000,Institution
+TXN-0677,2024-06-27,Jakarta,Jakarta Barat,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,44,10500,9000,462000,396000,66000,Retail
+TXN-0678,2024-06-27,Sumatera,Palembang,General Trade,Milk,Premium Whole Milk 1L,12,27500,24000,330000,288000,42000,Retail
+TXN-0679,2024-06-28,Jakarta,Jakarta Utara,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,82,11000,9500,902000,779000,123000,HoReCa
+TXN-0680,2024-06-28,Sulawesi,Kendari,General Trade,Milk,Premium Whole Milk 1L,36,27500,24500,990000,882000,108000,Wholesale
+TXN-0681,2024-06-28,Sulawesi,Makassar,General Trade,Cheese,Anchor Cheddar Block 500g,60,76500,56500,4590000,3390000,1200000,Retail
+TXN-0682,2024-06-28,West Java,Depok,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,63,12000,10000,756000,630000,126000,Wholesale
+TXN-0683,2024-06-28,East Java,Surabaya,General Trade,Cheese,Kraft Cheddar Cheese 165g,24,30000,21500,720000,516000,204000,Retail
+TXN-0684,2024-06-28,Jakarta,Jakarta Timur,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,44,44000,37000,1936000,1628000,308000,Retail
+TXN-0685,2024-06-28,Jakarta,Jakarta Utara,Modern Trade,Cheese,Kiri Cream Cheese 80g,83,22000,17000,1826000,1411000,415000,Retail
+TXN-0686,2024-06-29,Kalimantan,Balikpapan,General Trade,Yoghurt,Cimory Yoghurt 500g,23,30000,24500,690000,563500,126500,Retail
+TXN-0687,2024-06-29,Jakarta,Jakarta Pusat,Modern Trade,Milk,Cimory Milk Vanilla 200ml,33,4500,4000,148500,132000,16500,Retail
+TXN-0688,2024-06-30,Sulawesi,Palu,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,82,10500,9000,861000,738000,123000,Retail
+TXN-0689,2024-06-30,Banten,Tangerang,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,101,10000,8500,1010000,858500,151500,HoReCa
+TXN-0690,2024-06-30,Central Java,Tegal,General Trade,Milk,Cimory Full Cream 1L,61,24000,21500,1464000,1311500,152500,Retail
+TXN-0691,2024-06-30,Yogyakarta,Yogyakarta,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,72,30500,22000,2196000,1584000,612000,Retail
+TXN-0692,2024-06-30,East Java,Kediri,Modern Trade,Milk,Cimory Milk Vanilla 200ml,86,5500,5000,473000,430000,43000,Retail
+TXN-0693,2024-07-01,Bali,Kuta,General Trade,Sausage,Kimbo Beef Sausage 375g,11,37000,29500,407000,324500,82500,Retail
+TXN-0694,2024-07-01,West Java,Depok,Modern Trade,Milk,Premium Whole Milk 1L,46,24500,22000,1127000,1012000,115000,Retail
+TXN-0695,2024-07-01,West Java,Bandung,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,74,34500,27000,2553000,1998000,555000,Retail
+TXN-0696,2024-07-02,Sulawesi,Makassar,Distributor,Milk,Cimory Chocolate 200ml,225,6000,5000,1350000,1125000,225000,HoReCa
+TXN-0697,2024-07-02,Kalimantan,Balikpapan,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,103,24500,20000,2523500,2060000,463500,Retail
+TXN-0698,2024-07-02,Jakarta,Jakarta Utara,Modern Trade,Sausage,Vida Beef Sausage 200g,55,18000,14500,990000,797500,192500,HoReCa
+TXN-0699,2024-07-03,Central Java,Pekalongan,Modern Trade,Milk,Premium Whole Milk 1L,55,28000,25000,1540000,1375000,165000,Retail
+TXN-0700,2024-07-03,West Java,Cimahi,Distributor,Milk,Cimory Chocolate 200ml,266,6000,5000,1596000,1330000,266000,Wholesale
+TXN-0701,2024-07-03,West Java,Cimahi,General Trade,Sausage,Vida Beef Sausage 200g,48,16000,12500,768000,600000,168000,Retail
+TXN-0702,2024-07-03,West Java,Depok,Modern Trade,Sausage,So Good Chicken Sausage 375g,66,41000,32000,2706000,2112000,594000,HoReCa
+TXN-0703,2024-07-03,Jakarta,Jakarta Barat,General Trade,Sausage,Bernardi Beef Sausage 500g,24,57000,46500,1368000,1116000,252000,Retail
+TXN-0704,2024-07-04,Yogyakarta,Wonosari,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,47,35000,27000,1645000,1269000,376000,Retail
+TXN-0705,2024-07-04,Sulawesi,Makassar,General Trade,Nugget,Champ Chicken Nugget 250g,55,23000,19000,1265000,1045000,220000,Retail
+TXN-0706,2024-07-04,Central Java,Magelang,Modern Trade,Yoghurt,Cimory Yoghurt 500g,101,30000,24500,3030000,2474500,555500,Retail
+TXN-0707,2024-07-04,East Java,Surabaya,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,76,10000,8500,760000,646000,114000,HoReCa
+TXN-0708,2024-07-04,Central Java,Tegal,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,95,19000,14000,1805000,1330000,475000,Retail
+TXN-0709,2024-07-05,Sulawesi,Makassar,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,39,12000,10000,468000,390000,78000,Retail
+TXN-0710,2024-07-05,Jakarta,Jakarta Timur,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,33,23500,18500,775500,610500,165000,Retail
+TXN-0711,2024-07-05,Jakarta,Jakarta Timur,Modern Trade,Sausage,Kimbo Beef Sausage 375g,25,28500,23000,712500,575000,137500,Retail
+TXN-0712,2024-07-05,Sumatera,Padang,General Trade,Sausage,Kimbo Beef Sausage 375g,17,27500,21000,467500,357000,110500,Retail
+TXN-0713,2024-07-06,Banten,Tangerang,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,256,12000,9500,3072000,2432000,640000,Wholesale
+TXN-0714,2024-07-06,Sulawesi,Manado,Modern Trade,Nugget,Contadina Crispy Nugget 250g,36,20500,18000,738000,648000,90000,Retail
+TXN-0715,2024-07-06,East Java,Jember,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,72,8500,7000,612000,504000,108000,Retail
+TXN-0716,2024-07-07,Sumatera,Banda Aceh,General Trade,Milk,Cimory Chocolate 200ml,11,6500,6000,71500,66000,5500,Wholesale
+TXN-0717,2024-07-07,Yogyakarta,Bantul,General Trade,Sausage,Vida Beef Sausage 200g,22,22000,17000,484000,374000,110000,Retail
+TXN-0718,2024-07-08,Jakarta,Jakarta Barat,Modern Trade,Milk,Chocolate 1L,85,20500,18000,1742500,1530000,212500,Retail
+TXN-0719,2024-07-08,West Java,Bogor,Modern Trade,Milk,Cimory Milk Vanilla 200ml,68,4500,4000,306000,272000,34000,Retail
+TXN-0720,2024-07-08,East Java,Blitar,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,14,11500,9500,161000,133000,28000,Retail
+TXN-0721,2024-07-08,West Java,Depok,General Trade,Milk,Cimory Full Cream 1L,32,24500,22000,784000,704000,80000,Retail
+TXN-0722,2024-07-08,Central Java,Magelang,Distributor,Sausage,Farmhouse Sausage 250g,324,20500,15500,6642000,5022000,1620000,Wholesale
+TXN-0723,2024-07-08,Sumatera,Padang,General Trade,Milk,Chocolate 1L,44,18000,16000,792000,704000,88000,Retail
+TXN-0724,2024-07-09,Bali,Singaraja,Modern Trade,Milk,Chocolate 1L,57,18000,16000,1026000,912000,114000,Retail
+TXN-0725,2024-07-09,Kalimantan,Banjarmasin,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,64,12500,10500,800000,672000,128000,Retail
+TXN-0726,2024-07-09,East Java,Malang,General Trade,Milk,Cimory Chocolate 200ml,30,5000,4500,150000,135000,15000,Retail
+TXN-0727,2024-07-09,Jakarta,Jakarta Utara,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,51,40000,35000,2040000,1785000,255000,HoReCa
+TXN-0728,2024-07-09,Banten,Serang,General Trade,Cheese,Prochiz Gold Slices 150g,41,26000,19500,1066000,799500,266500,Wholesale
+TXN-0729,2024-07-09,Central Java,Tegal,Distributor,Milk,Chocolate 1L,137,20500,17500,2808500,2397500,411000,Wholesale
+TXN-0730,2024-07-09,Jakarta,Jakarta Timur,Distributor,Nugget,Fiesta Crispy Nugget 400g,81,45000,38500,3645000,3118500,526500,HoReCa
+TXN-0731,2024-07-09,Bali,Denpasar,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,16,11000,9000,176000,144000,32000,Retail
+TXN-0732,2024-07-09,West Java,Bandung,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,24,10000,8500,240000,204000,36000,Wholesale
+TXN-0733,2024-07-09,West Java,Tasikmalaya,Modern Trade,Sausage,Vida Beef Sausage 200g,22,23000,17500,506000,385000,121000,Retail
+TXN-0734,2024-07-10,Bali,Ubud,Modern Trade,Nugget,Contadina Crispy Nugget 250g,20,24000,20000,480000,400000,80000,Retail
+TXN-0735,2024-07-10,East Java,Kediri,General Trade,Milk,Cimory Full Cream 1L,46,23500,20500,1081000,943000,138000,Retail
+TXN-0736,2024-07-10,Central Java,Semarang,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,63,8000,6500,504000,409500,94500,Retail
+TXN-0737,2024-07-10,West Java,Depok,General Trade,Cheese,Laughing Cow Creamy 8pcs,43,19500,15500,838500,666500,172000,Retail
+TXN-0738,2024-07-10,Yogyakarta,Sleman,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,86,11000,9000,946000,774000,172000,Retail
+TXN-0739,2024-07-10,Sumatera,Palembang,Distributor,Sausage,So Good Chicken Sausage 375g,207,34000,25500,7038000,5278500,1759500,Wholesale
+TXN-0740,2024-07-10,West Java,Bogor,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,84,11000,9500,924000,798000,126000,Retail
+TXN-0741,2024-07-10,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,67,10500,8500,703500,569500,134000,Wholesale
+TXN-0742,2024-07-11,Central Java,Tegal,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,27,9500,7500,256500,202500,54000,Retail
+TXN-0743,2024-07-11,West Java,Bekasi,General Trade,Nugget,Belfoods Royal Nugget 500g,28,44000,37000,1232000,1036000,196000,Wholesale
+TXN-0744,2024-07-11,Jakarta,Jakarta Selatan,General Trade,Yoghurt,Cimory Yoghurt 500g,21,35500,30000,745500,630000,115500,Retail
+TXN-0745,2024-07-11,Sumatera,Banda Aceh,General Trade,Yoghurt,Cimory Yoghurt 500g,29,31500,26000,913500,754000,159500,Retail
+TXN-0746,2024-07-12,Yogyakarta,Wonosari,General Trade,Cheese,Prochiz Gold Slices 150g,56,31000,24000,1736000,1344000,392000,Retail
+TXN-0747,2024-07-12,East Java,Kediri,Distributor,Milk,Chocolate 1L,114,19000,16500,2166000,1881000,285000,HoReCa
+TXN-0748,2024-07-12,Bali,Singaraja,Modern Trade,Milk,Cimory Milk Vanilla 200ml,91,5500,4500,500500,409500,91000,Retail
+TXN-0749,2024-07-12,West Java,Bogor,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,52,6000,5000,312000,260000,52000,Wholesale
+TXN-0750,2024-07-12,Sulawesi,Manado,General Trade,Cheese,Kraft Cheddar Cheese 165g,64,29000,22500,1856000,1440000,416000,Retail
+TXN-0751,2024-07-13,Jakarta,Jakarta Selatan,Distributor,Nugget,So Good Chicken Nugget 500g,219,44000,36000,9636000,7884000,1752000,Wholesale
+TXN-0752,2024-07-13,Banten,Cilegon,General Trade,Milk,Cimory Milk Vanilla 200ml,44,6000,5000,264000,220000,44000,Retail
+TXN-0753,2024-07-13,Jakarta,Jakarta Barat,Modern Trade,Milk,Cimory Full Cream 1L,81,22000,20000,1782000,1620000,162000,Retail
+TXN-0754,2024-07-13,West Java,Cimahi,Distributor,Yoghurt,Cimory Yoghurt 500g,246,29000,24500,7134000,6027000,1107000,Institution
+TXN-0755,2024-07-14,Central Java,Pekalongan,Modern Trade,Milk,Cimory Milk Vanilla 200ml,106,5500,5000,583000,530000,53000,HoReCa
+TXN-0756,2024-07-14,East Java,Jember,Modern Trade,Cheese,Prochiz Gold Slices 150g,53,31500,22500,1669500,1192500,477000,Retail
+TXN-0757,2024-07-14,Sumatera,Pekanbaru,General Trade,Milk,Premium Whole Milk 1L,36,24000,21000,864000,756000,108000,Retail
+TXN-0758,2024-07-14,Central Java,Tegal,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,53,21000,17500,1113000,927500,185500,Wholesale
+TXN-0759,2024-07-14,Bali,Ubud,Modern Trade,Cheese,Anchor Cheddar Block 500g,63,66500,52000,4189500,3276000,913500,HoReCa
+TXN-0760,2024-07-15,Sulawesi,Makassar,Distributor,Cheese,Anchor Cheddar Block 500g,245,72500,58000,17762500,14210000,3552500,Wholesale
+TXN-0761,2024-07-15,Central Java,Tegal,General Trade,Sausage,Kimbo Beef Sausage 375g,33,28500,23000,940500,759000,181500,Retail
+TXN-0762,2024-07-15,West Java,Bogor,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,76,6500,5500,494000,418000,76000,Wholesale
+TXN-0763,2024-07-15,Central Java,Tegal,Modern Trade,Sausage,Vida Beef Sausage 200g,102,18500,15000,1887000,1530000,357000,Retail
+TXN-0764,2024-07-15,West Java,Bogor,General Trade,Nugget,Fiesta Crispy Nugget 400g,38,41500,35500,1577000,1349000,228000,Retail
+TXN-0765,2024-07-16,Central Java,Tegal,Distributor,Sausage,Farmhouse Sausage 250g,73,23500,18000,1715500,1314000,401500,Wholesale
+TXN-0766,2024-07-16,Banten,Serang,Modern Trade,Nugget,Belfoods Royal Nugget 500g,45,39000,34000,1755000,1530000,225000,Retail
+TXN-0767,2024-07-16,Kalimantan,Pontianak,Modern Trade,Milk,Premium Whole Milk 1L,38,26000,23500,988000,893000,95000,Retail
+TXN-0768,2024-07-16,Bali,Kuta,General Trade,Nugget,Champ Chicken Nugget 250g,28,27500,23000,770000,644000,126000,Wholesale
+TXN-0769,2024-07-16,Yogyakarta,Yogyakarta,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,27,9500,8000,256500,216000,40500,Wholesale
+TXN-0770,2024-07-16,Jakarta,Jakarta Selatan,Modern Trade,Milk,Premium Whole Milk 1L,101,23500,21000,2373500,2121000,252500,Retail
+TXN-0771,2024-07-16,Sumatera,Banda Aceh,Distributor,Sausage,So Good Chicken Sausage 375g,184,38500,29500,7084000,5428000,1656000,HoReCa
+TXN-0772,2024-07-16,West Java,Bekasi,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,294,20000,16500,5880000,4851000,1029000,HoReCa
+TXN-0773,2024-07-16,Banten,Cilegon,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,32,7000,6000,224000,192000,32000,Retail
+TXN-0774,2024-07-17,Yogyakarta,Bantul,Modern Trade,Milk,Cimory Full Cream 1L,91,19500,17000,1774500,1547000,227500,Retail
+TXN-0775,2024-07-17,Bali,Ubud,Modern Trade,Milk,Cimory Milk Vanilla 200ml,26,5500,5000,143000,130000,13000,Retail
+TXN-0776,2024-07-17,Central Java,Semarang,Modern Trade,Milk,Premium Whole Milk 1L,74,22500,20000,1665000,1480000,185000,Retail
+TXN-0777,2024-07-17,Central Java,Pekalongan,Modern Trade,Milk,Cimory Full Cream 1L,72,23500,21000,1692000,1512000,180000,Retail
+TXN-0778,2024-07-18,Sumatera,Banda Aceh,Modern Trade,Cheese,Prochiz Gold Slices 150g,21,25000,18500,525000,388500,136500,Retail
+TXN-0779,2024-07-18,Central Java,Pekalongan,Modern Trade,Sausage,Farmhouse Sausage 250g,103,20000,15500,2060000,1596500,463500,HoReCa
+TXN-0780,2024-07-18,Sumatera,Padang,General Trade,Cheese,Kraft Cheddar Cheese 165g,21,31000,22000,651000,462000,189000,Retail
+TXN-0781,2024-07-18,East Java,Malang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,38,12000,10000,456000,380000,76000,Retail
+TXN-0782,2024-07-18,Jakarta,Jakarta Utara,General Trade,Cheese,Anchor Cheddar Block 500g,17,66000,50500,1122000,858500,263500,Retail
+TXN-0783,2024-07-18,Banten,Cilegon,General Trade,Sausage,Bernardi Beef Sausage 500g,68,48500,38500,3298000,2618000,680000,Retail
+TXN-0784,2024-07-19,Sumatera,Padang,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,254,9000,7500,2286000,1905000,381000,Wholesale
+TXN-0785,2024-07-19,Jakarta,Jakarta Pusat,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,87,12000,9500,1044000,826500,217500,HoReCa
+TXN-0786,2024-07-19,Central Java,Pekalongan,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,102,11500,9000,1173000,918000,255000,Institution
+TXN-0787,2024-07-19,Bali,Singaraja,Distributor,Sausage,Vida Beef Sausage 200g,290,20500,15500,5945000,4495000,1450000,HoReCa
+TXN-0788,2024-07-20,East Java,Blitar,Distributor,Nugget,Fiesta Crispy Nugget 400g,194,40500,35500,7857000,6887000,970000,Wholesale
+TXN-0789,2024-07-20,Jakarta,Jakarta Selatan,General Trade,Milk,Premium Whole Milk 1L,14,22500,20000,315000,280000,35000,Wholesale
+TXN-0790,2024-07-20,Sulawesi,Palu,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,55,10000,8000,550000,440000,110000,Wholesale
+TXN-0791,2024-07-20,Jakarta,Jakarta Barat,Distributor,Milk,Premium Whole Milk 1L,141,26000,23000,3666000,3243000,423000,Wholesale
+TXN-0792,2024-07-21,Sumatera,Banda Aceh,Modern Trade,Sausage,So Good Chicken Sausage 375g,31,42000,32000,1302000,992000,310000,Retail
+TXN-0793,2024-07-21,Sumatera,Padang,General Trade,Milk,Chocolate 1L,28,20000,17000,560000,476000,84000,Wholesale
+TXN-0794,2024-07-21,Jakarta,Jakarta Selatan,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,64,7500,6000,480000,384000,96000,Retail
+TXN-0795,2024-07-21,Jakarta,Jakarta Barat,General Trade,Nugget,So Good Chicken Nugget 500g,39,48500,41500,1891500,1618500,273000,Wholesale
+TXN-0796,2024-07-21,Banten,Cilegon,Distributor,Milk,Chocolate 1L,104,17500,15000,1820000,1560000,260000,Wholesale
+TXN-0797,2024-07-22,Sumatera,Banda Aceh,Modern Trade,Nugget,So Good Chicken Nugget 500g,51,46500,40500,2371500,2065500,306000,Retail
+TXN-0798,2024-07-22,East Java,Malang,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,26,32000,22500,832000,585000,247000,Retail
+TXN-0799,2024-07-22,East Java,Surabaya,General Trade,Milk,Chocolate 1L,40,20500,18000,820000,720000,100000,Retail
+TXN-0800,2024-07-22,West Java,Depok,General Trade,Nugget,Fiesta Crispy Nugget 400g,44,39000,33500,1716000,1474000,242000,Wholesale
+TXN-0801,2024-07-22,West Java,Tasikmalaya,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,35,11000,9000,385000,315000,70000,Retail
+TXN-0802,2024-07-22,Sulawesi,Manado,General Trade,Sausage,Farmhouse Sausage 250g,42,28000,21500,1176000,903000,273000,Retail
+TXN-0803,2024-07-22,West Java,Cimahi,General Trade,Milk,Premium Whole Milk 1L,59,26500,23500,1563500,1386500,177000,Retail
+TXN-0804,2024-07-22,East Java,Surabaya,General Trade,Cheese,Kraft Cheddar Cheese 165g,15,31000,23500,465000,352500,112500,Wholesale
+TXN-0805,2024-07-23,Jakarta,Jakarta Utara,General Trade,Cheese,Laughing Cow Creamy 8pcs,47,18500,14000,869500,658000,211500,Retail
+TXN-0806,2024-07-23,Bali,Kuta,Distributor,Cheese,Anchor Cheddar Block 500g,206,75500,59000,15553000,12154000,3399000,Institution
+TXN-0807,2024-07-23,Sumatera,Padang,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,102,33500,24000,3417000,2448000,969000,HoReCa
+TXN-0808,2024-07-23,Bali,Denpasar,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,50,5500,4500,275000,225000,50000,Retail
+TXN-0809,2024-07-23,Jakarta,Jakarta Utara,Distributor,Nugget,So Good Chicken Nugget 500g,142,50000,41500,7100000,5893000,1207000,Wholesale
+TXN-0810,2024-07-23,Central Java,Magelang,Modern Trade,Milk,Cimory Chocolate 200ml,92,5000,4500,460000,414000,46000,Retail
+TXN-0811,2024-07-24,Jakarta,Jakarta Barat,General Trade,Nugget,Belfoods Royal Nugget 500g,12,39500,34000,474000,408000,66000,Wholesale
+TXN-0812,2024-07-24,East Java,Blitar,Modern Trade,Nugget,Contadina Crispy Nugget 250g,22,26500,22500,583000,495000,88000,HoReCa
+TXN-0813,2024-07-24,West Java,Cimahi,Modern Trade,Milk,Premium Whole Milk 1L,80,27500,23500,2200000,1880000,320000,HoReCa
+TXN-0814,2024-07-24,East Java,Malang,Modern Trade,Cheese,Kiri Cream Cheese 80g,80,24000,19000,1920000,1520000,400000,Retail
+TXN-0815,2024-07-24,Bali,Singaraja,General Trade,Milk,Cimory Milk Vanilla 200ml,29,5000,4500,145000,130500,14500,Wholesale
+TXN-0816,2024-07-25,Bali,Kuta,Distributor,Milk,Chocolate 1L,144,17500,15500,2520000,2232000,288000,Wholesale
+TXN-0817,2024-07-25,Sumatera,Medan,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,35,13000,11000,455000,385000,70000,Wholesale
+TXN-0818,2024-07-25,Sulawesi,Manado,General Trade,Sausage,Bernardi Beef Sausage 500g,67,57500,47000,3852500,3149000,703500,Retail
+TXN-0819,2024-07-26,Sumatera,Medan,General Trade,Sausage,Bernardi Beef Sausage 500g,28,48500,38000,1358000,1064000,294000,Wholesale
+TXN-0820,2024-07-26,East Java,Surabaya,General Trade,Milk,Cimory Chocolate 200ml,66,5500,5000,363000,330000,33000,Wholesale
+TXN-0821,2024-07-26,Kalimantan,Pontianak,Modern Trade,Sausage,Vida Beef Sausage 200g,100,18000,14500,1800000,1450000,350000,HoReCa
+TXN-0822,2024-07-26,Banten,South Tangerang,Distributor,Milk,Cimory Full Cream 1L,204,19500,17000,3978000,3468000,510000,Institution
+TXN-0823,2024-07-26,Kalimantan,Pontianak,General Trade,Nugget,Belfoods Royal Nugget 500g,51,47500,39500,2422500,2014500,408000,Retail
+TXN-0824,2024-07-26,East Java,Blitar,General Trade,Cheese,Anchor Cheddar Block 500g,55,71500,52000,3932500,2860000,1072500,Retail
+TXN-0825,2024-07-26,Central Java,Tegal,Distributor,Milk,Cimory Full Cream 1L,155,21500,18500,3332500,2867500,465000,Wholesale
+TXN-0826,2024-07-26,Central Java,Magelang,General Trade,Sausage,Vida Beef Sausage 200g,45,21000,17000,945000,765000,180000,Retail
+TXN-0827,2024-07-27,Kalimantan,Samarinda,General Trade,Sausage,Kimbo Beef Sausage 375g,58,29500,23000,1711000,1334000,377000,Wholesale
+TXN-0828,2024-07-27,Central Java,Tegal,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,44,10500,8500,462000,374000,88000,Retail
+TXN-0829,2024-07-27,West Java,Cimahi,General Trade,Cheese,Prochiz Gold Slices 150g,22,31500,22000,693000,484000,209000,Wholesale
+TXN-0830,2024-07-28,Central Java,Tegal,General Trade,Cheese,Kraft Cheddar Cheese 165g,20,29000,20500,580000,410000,170000,Retail
+TXN-0831,2024-07-28,West Java,Cimahi,General Trade,Nugget,So Good Chicken Nugget 500g,17,48000,40500,816000,688500,127500,Wholesale
+TXN-0832,2024-07-29,Central Java,Pekalongan,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,74,9500,7500,703000,555000,148000,HoReCa
+TXN-0833,2024-07-29,East Java,Malang,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,26,5500,4500,143000,117000,26000,Retail
+TXN-0834,2024-07-29,Kalimantan,Pontianak,General Trade,Cheese,Kiri Cream Cheese 80g,61,20500,15500,1250500,945500,305000,Wholesale
+TXN-0835,2024-07-29,East Java,Malang,General Trade,Sausage,So Good Chicken Sausage 375g,16,39000,31500,624000,504000,120000,Retail
+TXN-0836,2024-07-29,East Java,Malang,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,57,22000,18000,1254000,1026000,228000,Wholesale
+TXN-0837,2024-07-29,Sumatera,Medan,Modern Trade,Cheese,Anchor Cheddar Block 500g,53,71000,54000,3763000,2862000,901000,HoReCa
+TXN-0838,2024-07-30,Jakarta,Jakarta Timur,Modern Trade,Milk,Cimory Chocolate 200ml,62,5500,5000,341000,310000,31000,Retail
+TXN-0839,2024-07-30,Bali,Ubud,Modern Trade,Milk,Chocolate 1L,98,17000,15000,1666000,1470000,196000,HoReCa
+TXN-0840,2024-07-30,Bali,Ubud,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,44,41500,34500,1826000,1518000,308000,Retail
+TXN-0841,2024-07-30,Kalimantan,Pontianak,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,64,12000,10000,768000,640000,128000,Retail
+TXN-0842,2024-07-30,Jakarta,Jakarta Selatan,Modern Trade,Milk,Chocolate 1L,84,17000,15000,1428000,1260000,168000,Retail
+TXN-0843,2024-07-30,Sulawesi,Palu,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,64,12000,10000,768000,640000,128000,HoReCa
+TXN-0844,2024-07-31,Sumatera,Medan,Modern Trade,Milk,Cimory Chocolate 200ml,87,5000,4500,435000,391500,43500,HoReCa
+TXN-0845,2024-07-31,Jakarta,Jakarta Timur,Modern Trade,Nugget,Contadina Crispy Nugget 250g,36,19000,16000,684000,576000,108000,HoReCa
+TXN-0846,2024-07-31,Central Java,Tegal,General Trade,Nugget,Champ Chicken Nugget 250g,50,20000,17000,1000000,850000,150000,Retail
+TXN-0847,2024-08-01,Banten,Tangerang,Distributor,Milk,Cimory Full Cream 1L,185,19500,16500,3607500,3052500,555000,Wholesale
+TXN-0848,2024-08-01,Sulawesi,Makassar,Modern Trade,Milk,Cimory Chocolate 200ml,78,5500,5000,429000,390000,39000,HoReCa
+TXN-0849,2024-08-01,Kalimantan,Balikpapan,Modern Trade,Milk,Premium Whole Milk 1L,18,26000,23000,468000,414000,54000,Retail
+TXN-0850,2024-08-01,Sulawesi,Palu,Modern Trade,Milk,Chocolate 1L,41,18000,15500,738000,635500,102500,Retail
+TXN-0851,2024-08-02,Central Java,Tegal,Distributor,Milk,Premium Whole Milk 1L,75,26500,23000,1987500,1725000,262500,Wholesale
+TXN-0852,2024-08-02,Jakarta,Jakarta Utara,Distributor,Cheese,Laughing Cow Creamy 8pcs,125,19500,15500,2437500,1937500,500000,Wholesale
+TXN-0853,2024-08-02,Jakarta,Jakarta Barat,General Trade,Cheese,Prochiz Gold Slices 150g,42,27500,20000,1155000,840000,315000,Retail
+TXN-0854,2024-08-03,Jakarta,Jakarta Barat,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,58,24000,17500,1392000,1015000,377000,Retail
+TXN-0855,2024-08-03,Kalimantan,Banjarmasin,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,25,11500,9500,287500,237500,50000,Retail
+TXN-0856,2024-08-03,Kalimantan,Balikpapan,General Trade,Milk,Chocolate 1L,10,17000,15000,170000,150000,20000,Retail
+TXN-0857,2024-08-03,Jakarta,Jakarta Pusat,General Trade,Sausage,Vida Beef Sausage 200g,33,22500,18000,742500,594000,148500,Wholesale
+TXN-0858,2024-08-04,West Java,Tasikmalaya,General Trade,Milk,Chocolate 1L,11,18000,16000,198000,176000,22000,Wholesale
+TXN-0859,2024-08-04,East Java,Blitar,General Trade,Sausage,Farmhouse Sausage 250g,22,24500,18500,539000,407000,132000,Wholesale
+TXN-0860,2024-08-04,Sumatera,Palembang,Modern Trade,Sausage,So Good Chicken Sausage 375g,22,37000,28000,814000,616000,198000,Retail
+TXN-0861,2024-08-04,West Java,Bandung,Modern Trade,Sausage,So Good Chicken Sausage 375g,58,35500,28000,2059000,1624000,435000,Retail
+TXN-0862,2024-08-04,Bali,Singaraja,General Trade,Nugget,Fiesta Crispy Nugget 400g,37,39000,32500,1443000,1202500,240500,Retail
+TXN-0863,2024-08-04,East Java,Malang,Modern Trade,Milk,Chocolate 1L,27,21000,18000,567000,486000,81000,Retail
+TXN-0864,2024-08-05,Jakarta,Jakarta Selatan,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,16,7000,5500,112000,88000,24000,Retail
+TXN-0865,2024-08-05,Jakarta,Jakarta Barat,General Trade,Milk,Premium Whole Milk 1L,27,27500,23500,742500,634500,108000,Retail
+TXN-0866,2024-08-05,West Java,Depok,General Trade,Milk,Chocolate 1L,10,20000,17000,200000,170000,30000,Retail
+TXN-0867,2024-08-06,Banten,South Tangerang,Distributor,Sausage,So Good Chicken Sausage 375g,164,39000,30500,6396000,5002000,1394000,Wholesale
+TXN-0868,2024-08-06,Jakarta,Jakarta Barat,General Trade,Sausage,Farmhouse Sausage 250g,45,29500,22500,1327500,1012500,315000,Retail
+TXN-0869,2024-08-06,West Java,Bandung,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,26,18500,15000,481000,390000,91000,Retail
+TXN-0870,2024-08-06,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,28,8500,7000,238000,196000,42000,Retail
+TXN-0871,2024-08-07,Jakarta,Jakarta Timur,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,185,10500,8500,1942500,1572500,370000,Wholesale
+TXN-0872,2024-08-07,East Java,Jember,Distributor,Sausage,Vida Beef Sausage 200g,213,21500,16500,4579500,3514500,1065000,Institution
+TXN-0873,2024-08-07,Sumatera,Banda Aceh,Modern Trade,Sausage,Kimbo Beef Sausage 375g,26,28000,22000,728000,572000,156000,Retail
+TXN-0874,2024-08-07,Jakarta,Jakarta Barat,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,254,19500,16000,4953000,4064000,889000,Wholesale
+TXN-0875,2024-08-07,Central Java,Solo,Modern Trade,Nugget,Champ Chicken Nugget 250g,37,24500,20500,906500,758500,148000,Retail
+TXN-0876,2024-08-07,Central Java,Magelang,Modern Trade,Milk,Chocolate 1L,18,18500,16500,333000,297000,36000,HoReCa
+TXN-0877,2024-08-07,Central Java,Solo,Distributor,Nugget,Fiesta Crispy Nugget 400g,61,41500,36500,2531500,2226500,305000,HoReCa
+TXN-0878,2024-08-08,Sumatera,Medan,Distributor,Sausage,Kimbo Beef Sausage 375g,71,33000,25000,2343000,1775000,568000,Institution
+TXN-0879,2024-08-08,Jakarta,Jakarta Selatan,General Trade,Nugget,Fiesta Crispy Nugget 400g,20,45000,39000,900000,780000,120000,Retail
+TXN-0880,2024-08-08,Jakarta,Jakarta Pusat,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,28,11500,9500,322000,266000,56000,HoReCa
+TXN-0881,2024-08-08,Bali,Denpasar,Modern Trade,Sausage,Kimbo Beef Sausage 375g,20,30500,24000,610000,480000,130000,Retail
+TXN-0882,2024-08-08,Bali,Singaraja,General Trade,Milk,Cimory Milk Vanilla 200ml,41,5500,5000,225500,205000,20500,Retail
+TXN-0883,2024-08-09,Jakarta,Jakarta Barat,Distributor,Nugget,Contadina Crispy Nugget 250g,243,23000,19500,5589000,4738500,850500,Wholesale
+TXN-0884,2024-08-09,Bali,Denpasar,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,19,25000,21000,475000,399000,76000,Retail
+TXN-0885,2024-08-09,Yogyakarta,Sleman,Distributor,Milk,Cimory Chocolate 200ml,185,6000,5000,1110000,925000,185000,Wholesale
+TXN-0886,2024-08-09,East Java,Jember,Distributor,Sausage,Farmhouse Sausage 250g,114,28500,22000,3249000,2508000,741000,Wholesale
+TXN-0887,2024-08-09,Sumatera,Banda Aceh,General Trade,Milk,Cimory Chocolate 200ml,46,5500,5000,253000,230000,23000,Retail
+TXN-0888,2024-08-10,Banten,South Tangerang,General Trade,Nugget,Belfoods Royal Nugget 500g,16,47000,40000,752000,640000,112000,Retail
+TXN-0889,2024-08-10,West Java,Bogor,General Trade,Sausage,Kimbo Beef Sausage 375g,31,36000,28000,1116000,868000,248000,Retail
+TXN-0890,2024-08-10,Jakarta,Jakarta Utara,General Trade,Sausage,Kimbo Beef Sausage 375g,42,28500,23500,1197000,987000,210000,Retail
+TXN-0891,2024-08-11,Central Java,Pekalongan,General Trade,Nugget,Fiesta Crispy Nugget 400g,24,36000,31500,864000,756000,108000,Retail
+TXN-0892,2024-08-11,East Java,Surabaya,Distributor,Nugget,So Good Chicken Nugget 500g,52,48000,40500,2496000,2106000,390000,Wholesale
+TXN-0893,2024-08-12,Central Java,Magelang,General Trade,Nugget,Fiesta Crispy Nugget 400g,33,42000,35500,1386000,1171500,214500,Retail
+TXN-0894,2024-08-12,East Java,Blitar,General Trade,Sausage,So Good Chicken Sausage 375g,22,36000,29000,792000,638000,154000,Retail
+TXN-0895,2024-08-12,Sumatera,Pekanbaru,General Trade,Milk,Cimory Milk Vanilla 200ml,12,5000,4500,60000,54000,6000,Retail
+TXN-0896,2024-08-12,West Java,Bekasi,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,30,21500,17500,645000,525000,120000,Retail
+TXN-0897,2024-08-13,Central Java,Tegal,General Trade,Nugget,So Good Chicken Nugget 500g,39,51000,42000,1989000,1638000,351000,Retail
+TXN-0898,2024-08-13,Central Java,Magelang,Modern Trade,Sausage,So Good Chicken Sausage 375g,72,31500,24500,2268000,1764000,504000,Retail
+TXN-0899,2024-08-14,Central Java,Tegal,Modern Trade,Milk,Premium Whole Milk 1L,23,25500,22000,586500,506000,80500,HoReCa
+TXN-0900,2024-08-14,West Java,Bogor,General Trade,Milk,Premium Whole Milk 1L,50,23000,20500,1150000,1025000,125000,Retail
+TXN-0901,2024-08-14,Jakarta,Jakarta Selatan,Modern Trade,Cheese,Anchor Cheddar Block 500g,74,66000,47000,4884000,3478000,1406000,Retail
+TXN-0902,2024-08-14,Sumatera,Padang,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,47,28500,22500,1339500,1057500,282000,Retail
+TXN-0903,2024-08-14,Jakarta,Jakarta Utara,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,206,23000,19000,4738000,3914000,824000,Wholesale
+TXN-0904,2024-08-15,Jakarta,Jakarta Barat,General Trade,Milk,Cimory Chocolate 200ml,34,6000,5500,204000,187000,17000,Retail
+TXN-0905,2024-08-15,East Java,Jember,Modern Trade,Milk,Cimory Full Cream 1L,33,23000,20000,759000,660000,99000,Retail
+TXN-0906,2024-08-16,Central Java,Semarang,General Trade,Sausage,Farmhouse Sausage 250g,13,27000,21000,351000,273000,78000,Retail
+TXN-0907,2024-08-16,Central Java,Magelang,General Trade,Sausage,Bernardi Beef Sausage 500g,40,59500,46500,2380000,1860000,520000,Retail
+TXN-0908,2024-08-16,West Java,Tasikmalaya,Distributor,Milk,Chocolate 1L,101,17000,14500,1717000,1464500,252500,Institution
+TXN-0909,2024-08-16,Kalimantan,Samarinda,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,47,19000,14000,893000,658000,235000,HoReCa
+TXN-0910,2024-08-16,East Java,Malang,General Trade,Nugget,Fiesta Crispy Nugget 400g,13,38500,33500,500500,435500,65000,Retail
+TXN-0911,2024-08-16,Central Java,Solo,Modern Trade,Sausage,Kimbo Beef Sausage 375g,60,28500,21500,1710000,1290000,420000,Retail
+TXN-0912,2024-08-17,Sulawesi,Manado,Modern Trade,Milk,Chocolate 1L,42,19000,17000,798000,714000,84000,Retail
+TXN-0913,2024-08-17,East Java,Surabaya,Modern Trade,Milk,Premium Whole Milk 1L,49,25500,22500,1249500,1102500,147000,Retail
+TXN-0914,2024-08-17,Kalimantan,Pontianak,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,42,10500,8500,441000,357000,84000,Retail
+TXN-0915,2024-08-17,Kalimantan,Pontianak,General Trade,Cheese,Prochiz Gold Slices 150g,36,25000,18000,900000,648000,252000,Retail
+TXN-0916,2024-08-17,Jakarta,Jakarta Barat,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,40,18500,13000,740000,520000,220000,HoReCa
+TXN-0917,2024-08-17,Sumatera,Banda Aceh,Distributor,Nugget,Fiesta Crispy Nugget 400g,216,41000,36000,8856000,7776000,1080000,HoReCa
+TXN-0918,2024-08-17,Banten,Serang,Modern Trade,Nugget,So Good Chicken Nugget 500g,70,48500,41000,3395000,2870000,525000,Retail
+TXN-0919,2024-08-17,East Java,Malang,General Trade,Cheese,Kraft Cheddar Cheese 165g,32,28500,20500,912000,656000,256000,Retail
+TXN-0920,2024-08-17,East Java,Surabaya,Distributor,Sausage,Bernardi Beef Sausage 500g,94,60000,45500,5640000,4277000,1363000,Wholesale
+TXN-0921,2024-08-18,Sumatera,Pekanbaru,General Trade,Nugget,So Good Chicken Nugget 500g,36,51000,44000,1836000,1584000,252000,Retail
+TXN-0922,2024-08-18,Central Java,Magelang,Modern Trade,Nugget,So Good Chicken Nugget 500g,55,43500,36000,2392500,1980000,412500,Retail
+TXN-0923,2024-08-18,West Java,Bekasi,General Trade,Nugget,Champ Chicken Nugget 250g,31,26500,22000,821500,682000,139500,Wholesale
+TXN-0924,2024-08-19,Banten,Tangerang,General Trade,Nugget,Fiesta Crispy Nugget 400g,13,44000,37500,572000,487500,84500,Wholesale
+TXN-0925,2024-08-19,East Java,Blitar,General Trade,Milk,Chocolate 1L,8,21000,18000,168000,144000,24000,Retail
+TXN-0926,2024-08-19,Kalimantan,Samarinda,Modern Trade,Sausage,Vida Beef Sausage 200g,62,22000,17000,1364000,1054000,310000,Retail
+TXN-0927,2024-08-19,Sumatera,Pekanbaru,Distributor,Milk,Chocolate 1L,58,22000,18500,1276000,1073000,203000,Wholesale
+TXN-0928,2024-08-19,Yogyakarta,Sleman,Modern Trade,Nugget,Contadina Crispy Nugget 250g,33,24000,21000,792000,693000,99000,Retail
+TXN-0929,2024-08-20,Central Java,Solo,General Trade,Cheese,Anchor Cheddar Block 500g,10,78500,58500,785000,585000,200000,Retail
+TXN-0930,2024-08-20,West Java,Bogor,Distributor,Nugget,Contadina Crispy Nugget 250g,106,26000,21500,2756000,2279000,477000,Institution
+TXN-0931,2024-08-20,West Java,Tasikmalaya,General Trade,Cheese,Prochiz Gold Slices 150g,8,29500,21000,236000,168000,68000,Retail
+TXN-0932,2024-08-20,Yogyakarta,Yogyakarta,Distributor,Yoghurt,Cimory Yoghurt 500g,75,36500,30500,2737500,2287500,450000,Wholesale
+TXN-0933,2024-08-20,Jakarta,Jakarta Timur,Distributor,Nugget,Contadina Crispy Nugget 250g,136,21000,18000,2856000,2448000,408000,Wholesale
+TXN-0934,2024-08-20,West Java,Bekasi,Modern Trade,Nugget,So Good Chicken Nugget 500g,30,52500,43000,1575000,1290000,285000,Retail
+TXN-0935,2024-08-20,Sulawesi,Manado,Modern Trade,Yoghurt,Cimory Yoghurt 500g,17,28500,23500,484500,399500,85000,Retail
+TXN-0936,2024-08-21,West Java,Tasikmalaya,Distributor,Sausage,Bernardi Beef Sausage 500g,246,48500,38000,11931000,9348000,2583000,Institution
+TXN-0937,2024-08-21,Sumatera,Banda Aceh,Distributor,Nugget,Fiesta Crispy Nugget 400g,206,43500,36500,8961000,7519000,1442000,Institution
+TXN-0938,2024-08-22,Jakarta,Jakarta Pusat,Distributor,Nugget,Fiesta Crispy Nugget 400g,192,39000,32000,7488000,6144000,1344000,Institution
+TXN-0939,2024-08-22,West Java,Depok,Modern Trade,Cheese,Prochiz Gold Slices 150g,18,27500,21500,495000,387000,108000,Retail
+TXN-0940,2024-08-22,Sumatera,Padang,Modern Trade,Sausage,So Good Chicken Sausage 375g,59,33000,25500,1947000,1504500,442500,Retail
+TXN-0941,2024-08-22,East Java,Jember,Distributor,Cheese,Prochiz Gold Slices 150g,210,26500,18500,5565000,3885000,1680000,Wholesale
+TXN-0942,2024-08-22,East Java,Malang,Modern Trade,Milk,Premium Whole Milk 1L,71,26500,23000,1881500,1633000,248500,HoReCa
+TXN-0943,2024-08-22,West Java,Cimahi,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,31,11000,9000,341000,279000,62000,Retail
+TXN-0944,2024-08-22,West Java,Bogor,General Trade,Cheese,Laughing Cow Creamy 8pcs,33,21500,16500,709500,544500,165000,Retail
+TXN-0945,2024-08-22,West Java,Depok,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,54,20500,17500,1107000,945000,162000,Retail
+TXN-0946,2024-08-22,West Java,Cimahi,Distributor,Cheese,Anchor Cheddar Block 500g,250,66000,50500,16500000,12625000,3875000,Institution
+TXN-0947,2024-08-22,Central Java,Semarang,Modern Trade,Sausage,So Good Chicken Sausage 375g,55,38500,29000,2117500,1595000,522500,Retail
+TXN-0948,2024-08-22,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,41,9500,8000,389500,328000,61500,Retail
+TXN-0949,2024-08-23,Central Java,Semarang,General Trade,Sausage,So Good Chicken Sausage 375g,28,35500,28500,994000,798000,196000,Wholesale
+TXN-0950,2024-08-23,Sumatera,Padang,Modern Trade,Milk,Cimory Chocolate 200ml,20,6500,5500,130000,110000,20000,Retail
+TXN-0951,2024-08-23,West Java,Bogor,General Trade,Cheese,Kraft Cheddar Cheese 165g,49,34500,26500,1690500,1298500,392000,Retail
+TXN-0952,2024-08-24,East Java,Malang,Distributor,Sausage,Vida Beef Sausage 200g,87,18500,14500,1609500,1261500,348000,Wholesale
+TXN-0953,2024-08-24,Sumatera,Medan,Modern Trade,Sausage,Farmhouse Sausage 250g,22,24000,18500,528000,407000,121000,HoReCa
+TXN-0954,2024-08-24,East Java,Malang,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,42,19000,15500,798000,651000,147000,Retail
+TXN-0955,2024-08-24,Jakarta,Jakarta Pusat,Modern Trade,Nugget,Belfoods Royal Nugget 500g,50,38500,33500,1925000,1675000,250000,Retail
+TXN-0956,2024-08-24,East Java,Jember,Distributor,Milk,Chocolate 1L,89,17000,15000,1513000,1335000,178000,Wholesale
+TXN-0957,2024-08-25,Sumatera,Pekanbaru,Modern Trade,Cheese,Anchor Cheddar Block 500g,48,70500,55500,3384000,2664000,720000,Retail
+TXN-0958,2024-08-25,Jakarta,Jakarta Pusat,Distributor,Sausage,Farmhouse Sausage 250g,130,26000,21000,3380000,2730000,650000,HoReCa
+TXN-0959,2024-08-25,Bali,Singaraja,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,37,6000,5000,222000,185000,37000,Wholesale
+TXN-0960,2024-08-26,Jakarta,Jakarta Utara,General Trade,Cheese,Anchor Cheddar Block 500g,17,81000,59500,1377000,1011500,365500,Wholesale
+TXN-0961,2024-08-26,Jakarta,Jakarta Selatan,General Trade,Yoghurt,Cimory Yoghurt 500g,48,37000,30500,1776000,1464000,312000,Retail
+TXN-0962,2024-08-26,Jakarta,Jakarta Selatan,Distributor,Milk,Cimory Milk Vanilla 200ml,59,5000,4500,295000,265500,29500,Wholesale
+TXN-0963,2024-08-26,East Java,Jember,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,24,7500,6500,180000,156000,24000,Retail
+TXN-0964,2024-08-26,Central Java,Semarang,General Trade,Milk,Premium Whole Milk 1L,35,27000,23500,945000,822500,122500,Wholesale
+TXN-0965,2024-08-27,Kalimantan,Banjarmasin,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,60,6500,5500,390000,330000,60000,Retail
+TXN-0966,2024-08-27,Bali,Singaraja,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,62,29000,20500,1798000,1271000,527000,Retail
+TXN-0967,2024-08-27,Central Java,Pekalongan,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,69,25000,20000,1725000,1380000,345000,Retail
+TXN-0968,2024-08-28,West Java,Tasikmalaya,General Trade,Sausage,So Good Chicken Sausage 375g,17,32000,25500,544000,433500,110500,Wholesale
+TXN-0969,2024-08-29,Jakarta,Jakarta Timur,General Trade,Cheese,Prochiz Gold Slices 150g,22,27500,20000,605000,440000,165000,Retail
+TXN-0970,2024-08-29,Sumatera,Padang,Distributor,Sausage,Farmhouse Sausage 250g,164,22000,17500,3608000,2870000,738000,Wholesale
+TXN-0971,2024-08-29,Jakarta,Jakarta Selatan,Modern Trade,Sausage,So Good Chicken Sausage 375g,38,36000,28000,1368000,1064000,304000,Retail
+TXN-0972,2024-08-29,Jakarta,Jakarta Barat,Distributor,Sausage,Vida Beef Sausage 200g,166,18500,14500,3071000,2407000,664000,Wholesale
+TXN-0973,2024-08-29,West Java,Bogor,General Trade,Sausage,Vida Beef Sausage 200g,24,23500,18500,564000,444000,120000,Retail
+TXN-0974,2024-08-29,Kalimantan,Banjarmasin,General Trade,Milk,Cimory Full Cream 1L,27,19500,17000,526500,459000,67500,Wholesale
+TXN-0975,2024-08-29,West Java,Bandung,General Trade,Milk,Premium Whole Milk 1L,9,27000,23500,243000,211500,31500,Retail
+TXN-0976,2024-08-29,Kalimantan,Samarinda,Modern Trade,Milk,Cimory Milk Vanilla 200ml,19,5500,5000,104500,95000,9500,Retail
+TXN-0977,2024-08-30,Central Java,Tegal,General Trade,Nugget,So Good Chicken Nugget 500g,39,43500,37000,1696500,1443000,253500,Retail
+TXN-0978,2024-08-30,Kalimantan,Balikpapan,Modern Trade,Milk,Cimory Full Cream 1L,46,21500,18500,989000,851000,138000,Retail
+TXN-0979,2024-08-31,Kalimantan,Balikpapan,General Trade,Sausage,So Good Chicken Sausage 375g,14,33500,27500,469000,385000,84000,Retail
+TXN-0980,2024-08-31,East Java,Malang,General Trade,Nugget,Champ Chicken Nugget 250g,32,28000,24000,896000,768000,128000,Wholesale
+TXN-0981,2024-09-01,East Java,Jember,Modern Trade,Sausage,So Good Chicken Sausage 375g,64,39500,31500,2528000,2016000,512000,HoReCa
+TXN-0982,2024-09-01,Jakarta,Jakarta Selatan,Distributor,Sausage,Vida Beef Sausage 200g,81,19500,14500,1579500,1174500,405000,Institution
+TXN-0983,2024-09-01,East Java,Surabaya,Modern Trade,Nugget,Contadina Crispy Nugget 250g,31,21000,17500,651000,542500,108500,HoReCa
+TXN-0984,2024-09-01,Yogyakarta,Sleman,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,116,12000,10000,1392000,1160000,232000,Institution
+TXN-0985,2024-09-01,Jakarta,Jakarta Utara,General Trade,Milk,Cimory Chocolate 200ml,8,5000,4500,40000,36000,4000,Retail
+TXN-0986,2024-09-01,Yogyakarta,Wonosari,General Trade,Sausage,Vida Beef Sausage 200g,7,23000,18000,161000,126000,35000,Retail
+TXN-0987,2024-09-01,Kalimantan,Pontianak,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,33,6500,5500,214500,181500,33000,Wholesale
+TXN-0988,2024-09-01,Jakarta,Jakarta Barat,Distributor,Sausage,Vida Beef Sausage 200g,65,17500,14500,1137500,942500,195000,Wholesale
+TXN-0989,2024-09-02,Jakarta,Jakarta Barat,Modern Trade,Sausage,Farmhouse Sausage 250g,41,20000,16000,820000,656000,164000,Retail
+TXN-0990,2024-09-02,Bali,Kuta,General Trade,Milk,Cimory Chocolate 200ml,33,6000,5000,198000,165000,33000,Wholesale
+TXN-0991,2024-09-03,West Java,Tasikmalaya,Modern Trade,Milk,Chocolate 1L,60,17000,14500,1020000,870000,150000,HoReCa
+TXN-0992,2024-09-03,East Java,Malang,Modern Trade,Milk,Chocolate 1L,64,17000,15500,1088000,992000,96000,Retail
+TXN-0993,2024-09-03,West Java,Bandung,Distributor,Sausage,Kimbo Beef Sausage 375g,125,28500,23000,3562500,2875000,687500,Wholesale
+TXN-0994,2024-09-03,East Java,Blitar,General Trade,Cheese,Anchor Cheddar Block 500g,24,83500,63500,2004000,1524000,480000,Retail
+TXN-0995,2024-09-03,West Java,Bogor,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,42,6000,5000,252000,210000,42000,Retail
+TXN-0996,2024-09-04,Sumatera,Banda Aceh,General Trade,Milk,Premium Whole Milk 1L,31,23500,21000,728500,651000,77500,Wholesale
+TXN-0997,2024-09-04,West Java,Cimahi,Distributor,Nugget,Belfoods Royal Nugget 500g,64,44500,38500,2848000,2464000,384000,Wholesale
+TXN-0998,2024-09-04,Banten,South Tangerang,General Trade,Nugget,Contadina Crispy Nugget 250g,32,24500,21000,784000,672000,112000,Wholesale
+TXN-0999,2024-09-05,East Java,Jember,Modern Trade,Milk,Cimory Milk Vanilla 200ml,45,6000,5500,270000,247500,22500,Retail
+TXN-1000,2024-09-05,Jakarta,Jakarta Pusat,Modern Trade,Cheese,Anchor Cheddar Block 500g,59,83000,64000,4897000,3776000,1121000,Retail
+TXN-1001,2024-09-05,Banten,Tangerang,Modern Trade,Yoghurt,Cimory Yoghurt 500g,53,30000,25000,1590000,1325000,265000,Retail
+TXN-1002,2024-09-05,Bali,Ubud,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,37,9000,7500,333000,277500,55500,Retail
+TXN-1003,2024-09-05,Sulawesi,Kendari,Distributor,Milk,Premium Whole Milk 1L,85,26500,23500,2252500,1997500,255000,Wholesale
+TXN-1004,2024-09-06,Kalimantan,Balikpapan,Distributor,Sausage,Vida Beef Sausage 200g,145,18000,13500,2610000,1957500,652500,Wholesale
+TXN-1005,2024-09-06,Banten,Tangerang,Distributor,Milk,Chocolate 1L,73,18000,15500,1314000,1131500,182500,Wholesale
+TXN-1006,2024-09-06,West Java,Cimahi,General Trade,Sausage,So Good Chicken Sausage 375g,24,32500,25500,780000,612000,168000,Retail
+TXN-1007,2024-09-06,Central Java,Solo,Modern Trade,Milk,Cimory Milk Vanilla 200ml,41,4500,4000,184500,164000,20500,Retail
+TXN-1008,2024-09-07,East Java,Jember,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,41,39500,34500,1619500,1414500,205000,Retail
+TXN-1009,2024-09-07,Bali,Kuta,Distributor,Sausage,Vida Beef Sausage 200g,207,16000,12500,3312000,2587500,724500,Institution
+TXN-1010,2024-09-07,Kalimantan,Balikpapan,General Trade,Milk,Cimory Milk Vanilla 200ml,18,5000,4500,90000,81000,9000,Retail
+TXN-1011,2024-09-08,Jakarta,Jakarta Utara,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,14,9500,8000,133000,112000,21000,Retail
+TXN-1012,2024-09-09,Bali,Ubud,General Trade,Yoghurt,Cimory Yoghurt 500g,22,32000,26000,704000,572000,132000,Retail
+TXN-1013,2024-09-09,Sulawesi,Makassar,General Trade,Milk,Cimory Chocolate 200ml,29,6500,5500,188500,159500,29000,Retail
+TXN-1014,2024-09-09,Jakarta,Jakarta Utara,Distributor,Sausage,Farmhouse Sausage 250g,166,23500,18000,3901000,2988000,913000,Wholesale
+TXN-1015,2024-09-10,West Java,Depok,Distributor,Sausage,Farmhouse Sausage 250g,199,22500,18500,4477500,3681500,796000,Institution
+TXN-1016,2024-09-10,Yogyakarta,Sleman,Modern Trade,Yoghurt,Cimory Yoghurt 500g,50,35000,29500,1750000,1475000,275000,HoReCa
+TXN-1017,2024-09-10,Sumatera,Medan,Modern Trade,Milk,Chocolate 1L,57,20500,18000,1168500,1026000,142500,HoReCa
+TXN-1018,2024-09-10,West Java,Bekasi,Distributor,Milk,Premium Whole Milk 1L,141,24500,21000,3454500,2961000,493500,Wholesale
+TXN-1019,2024-09-10,Kalimantan,Pontianak,General Trade,Sausage,Kimbo Beef Sausage 375g,11,36000,27500,396000,302500,93500,Retail
+TXN-1020,2024-09-11,Sumatera,Palembang,Modern Trade,Milk,Cimory Full Cream 1L,14,23500,20500,329000,287000,42000,Retail
+TXN-1021,2024-09-11,Jakarta,Jakarta Pusat,Modern Trade,Sausage,Kimbo Beef Sausage 375g,58,32000,25000,1856000,1450000,406000,Retail
+TXN-1022,2024-09-11,East Java,Malang,Modern Trade,Milk,Chocolate 1L,63,21500,19000,1354500,1197000,157500,Retail
+TXN-1023,2024-09-11,West Java,Bekasi,Distributor,Milk,Cimory Chocolate 200ml,129,6500,5500,838500,709500,129000,HoReCa
+TXN-1024,2024-09-11,West Java,Tasikmalaya,Modern Trade,Milk,Cimory Chocolate 200ml,35,5500,5000,192500,175000,17500,Retail
+TXN-1025,2024-09-12,Jakarta,Jakarta Pusat,Modern Trade,Milk,Cimory Full Cream 1L,62,24500,21000,1519000,1302000,217000,Retail
+TXN-1026,2024-09-12,Central Java,Semarang,General Trade,Cheese,Kraft Cheddar Cheese 165g,26,34500,26500,897000,689000,208000,Wholesale
+TXN-1027,2024-09-13,Banten,Cilegon,General Trade,Nugget,So Good Chicken Nugget 500g,44,55000,45500,2420000,2002000,418000,Wholesale
+TXN-1028,2024-09-13,East Java,Surabaya,Distributor,Nugget,Contadina Crispy Nugget 250g,210,25500,22500,5355000,4725000,630000,Wholesale
+TXN-1029,2024-09-14,Sumatera,Palembang,Modern Trade,Milk,Chocolate 1L,60,19500,16500,1170000,990000,180000,Retail
+TXN-1030,2024-09-14,Jakarta,Jakarta Barat,General Trade,Sausage,Vida Beef Sausage 200g,44,16000,12500,704000,550000,154000,Retail
+TXN-1031,2024-09-14,Banten,Tangerang,Distributor,Sausage,Kimbo Beef Sausage 375g,138,34000,27500,4692000,3795000,897000,Institution
+TXN-1032,2024-09-14,Sumatera,Pekanbaru,General Trade,Nugget,Contadina Crispy Nugget 250g,41,26500,22000,1086500,902000,184500,Wholesale
+TXN-1033,2024-09-15,Bali,Singaraja,General Trade,Sausage,So Good Chicken Sausage 375g,38,40500,30500,1539000,1159000,380000,Wholesale
+TXN-1034,2024-09-15,West Java,Depok,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,211,11500,9500,2426500,2004500,422000,Wholesale
+TXN-1035,2024-09-15,Jakarta,Jakarta Pusat,General Trade,Cheese,Kiri Cream Cheese 80g,44,22000,17000,968000,748000,220000,Wholesale
+TXN-1036,2024-09-15,West Java,Tasikmalaya,Modern Trade,Nugget,Contadina Crispy Nugget 250g,31,21500,18500,666500,573500,93000,Retail
+TXN-1037,2024-09-15,Yogyakarta,Yogyakarta,General Trade,Nugget,Champ Chicken Nugget 250g,38,25500,21500,969000,817000,152000,Retail
+TXN-1038,2024-09-16,Central Java,Magelang,Distributor,Cheese,Kraft Cheddar Cheese 165g,181,32500,25000,5882500,4525000,1357500,Institution
+TXN-1039,2024-09-16,East Java,Blitar,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,101,9000,7500,909000,757500,151500,Wholesale
+TXN-1040,2024-09-16,East Java,Blitar,Distributor,Sausage,Kimbo Beef Sausage 375g,207,28000,22000,5796000,4554000,1242000,HoReCa
+TXN-1041,2024-09-16,Jakarta,Jakarta Pusat,Modern Trade,Cheese,Kiri Cream Cheese 80g,39,21500,16500,838500,643500,195000,Retail
+TXN-1042,2024-09-16,Sumatera,Palembang,General Trade,Cheese,Kiri Cream Cheese 80g,28,22000,16500,616000,462000,154000,Retail
+TXN-1043,2024-09-16,West Java,Bogor,Distributor,Yoghurt,Cimory Yoghurt 500g,74,32500,26500,2405000,1961000,444000,Institution
+TXN-1044,2024-09-16,Sumatera,Medan,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,46,8000,7000,368000,322000,46000,Wholesale
+TXN-1045,2024-09-16,Jakarta,Jakarta Selatan,General Trade,Sausage,So Good Chicken Sausage 375g,20,34500,26000,690000,520000,170000,Wholesale
+TXN-1046,2024-09-16,Central Java,Solo,General Trade,Milk,Premium Whole Milk 1L,26,27000,24000,702000,624000,78000,Retail
+TXN-1047,2024-09-16,Sulawesi,Manado,Distributor,Cheese,Kraft Cheddar Cheese 165g,233,30500,22500,7106500,5242500,1864000,Institution
+TXN-1048,2024-09-17,East Java,Blitar,General Trade,Milk,Cimory Chocolate 200ml,29,6500,5500,188500,159500,29000,Retail
+TXN-1049,2024-09-17,East Java,Blitar,Distributor,Milk,Cimory Chocolate 200ml,170,6500,6000,1105000,1020000,85000,Institution
+TXN-1050,2024-09-17,Jakarta,Jakarta Barat,Modern Trade,Milk,Chocolate 1L,59,18000,15500,1062000,914500,147500,Retail
+TXN-1051,2024-09-17,Bali,Denpasar,General Trade,Nugget,Fiesta Crispy Nugget 400g,24,36500,30000,876000,720000,156000,Wholesale
+TXN-1052,2024-09-18,Kalimantan,Banjarmasin,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,27,13000,11000,351000,297000,54000,Retail
+TXN-1053,2024-09-19,Jakarta,Jakarta Selatan,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,26,8000,6500,208000,169000,39000,Wholesale
+TXN-1054,2024-09-19,Sulawesi,Palu,Distributor,Nugget,Contadina Crispy Nugget 250g,134,24500,21500,3283000,2881000,402000,Institution
+TXN-1055,2024-09-19,East Java,Jember,General Trade,Milk,Chocolate 1L,33,17500,15500,577500,511500,66000,Retail
+TXN-1056,2024-09-19,West Java,Cimahi,Distributor,Yoghurt,Cimory Yoghurt 500g,158,35000,29500,5530000,4661000,869000,Wholesale
+TXN-1057,2024-09-19,Sulawesi,Palu,Modern Trade,Milk,Premium Whole Milk 1L,66,24000,20500,1584000,1353000,231000,Retail
+TXN-1058,2024-09-19,Jakarta,Jakarta Pusat,General Trade,Sausage,Bernardi Beef Sausage 500g,10,57000,44500,570000,445000,125000,Wholesale
+TXN-1059,2024-09-20,Jakarta,Jakarta Pusat,Distributor,Milk,Chocolate 1L,209,20500,18500,4284500,3866500,418000,Institution
+TXN-1060,2024-09-20,West Java,Depok,Distributor,Milk,Premium Whole Milk 1L,77,23000,20500,1771000,1578500,192500,Institution
+TXN-1061,2024-09-20,Sumatera,Medan,Modern Trade,Milk,Cimory Full Cream 1L,24,21000,18000,504000,432000,72000,HoReCa
+TXN-1062,2024-09-20,Banten,Serang,Modern Trade,Nugget,Champ Chicken Nugget 250g,54,24500,20500,1323000,1107000,216000,Retail
+TXN-1063,2024-09-21,Jakarta,Jakarta Utara,General Trade,Nugget,So Good Chicken Nugget 500g,15,46500,39500,697500,592500,105000,Retail
+TXN-1064,2024-09-21,Sumatera,Palembang,Modern Trade,Milk,Chocolate 1L,22,21500,19000,473000,418000,55000,Retail
+TXN-1065,2024-09-21,Banten,Cilegon,Modern Trade,Cheese,Anchor Cheddar Block 500g,37,66500,51500,2460500,1905500,555000,HoReCa
+TXN-1066,2024-09-21,Jakarta,Jakarta Pusat,Distributor,Sausage,So Good Chicken Sausage 375g,85,41500,33500,3527500,2847500,680000,Institution
+TXN-1067,2024-09-21,Central Java,Solo,General Trade,Cheese,Kraft Cheddar Cheese 165g,13,32500,24500,422500,318500,104000,Wholesale
+TXN-1068,2024-09-21,East Java,Jember,General Trade,Nugget,So Good Chicken Nugget 500g,28,45000,39000,1260000,1092000,168000,Wholesale
+TXN-1069,2024-09-21,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,41,9500,8000,389500,328000,61500,Retail
+TXN-1070,2024-09-23,West Java,Depok,Distributor,Milk,Cimory Milk Vanilla 200ml,70,6000,5000,420000,350000,70000,Wholesale
+TXN-1071,2024-09-23,Sumatera,Banda Aceh,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,209,21500,17500,4493500,3657500,836000,Institution
+TXN-1072,2024-09-23,Banten,Tangerang,Modern Trade,Nugget,Contadina Crispy Nugget 250g,59,22000,19000,1298000,1121000,177000,HoReCa
+TXN-1073,2024-09-24,Jakarta,Jakarta Timur,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,176,22000,18500,3872000,3256000,616000,Institution
+TXN-1074,2024-09-24,Banten,Serang,General Trade,Sausage,Farmhouse Sausage 250g,45,20500,16000,922500,720000,202500,Wholesale
+TXN-1075,2024-09-24,Central Java,Magelang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,26,11000,9000,286000,234000,52000,Retail
+TXN-1076,2024-09-24,Sulawesi,Manado,Modern Trade,Nugget,Belfoods Royal Nugget 500g,33,49500,42500,1633500,1402500,231000,Retail
+TXN-1077,2024-09-26,West Java,Tasikmalaya,Modern Trade,Milk,Cimory Milk Vanilla 200ml,31,5000,4500,155000,139500,15500,HoReCa
+TXN-1078,2024-09-26,Sumatera,Medan,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,137,6500,5500,890500,753500,137000,Wholesale
+TXN-1079,2024-09-26,Sulawesi,Makassar,General Trade,Cheese,Anchor Cheddar Block 500g,35,83000,60000,2905000,2100000,805000,Wholesale
+TXN-1080,2024-09-27,Bali,Kuta,Distributor,Sausage,Farmhouse Sausage 250g,224,29000,22000,6496000,4928000,1568000,Institution
+TXN-1081,2024-09-27,West Java,Depok,Distributor,Sausage,So Good Chicken Sausage 375g,89,40500,31500,3604500,2803500,801000,Wholesale
+TXN-1082,2024-09-27,Sumatera,Banda Aceh,General Trade,Milk,Cimory Milk Vanilla 200ml,45,5000,4500,225000,202500,22500,Retail
+TXN-1083,2024-09-27,Yogyakarta,Yogyakarta,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,52,6000,5000,312000,260000,52000,Retail
+TXN-1084,2024-09-28,Kalimantan,Banjarmasin,Distributor,Nugget,Fiesta Crispy Nugget 400g,48,44500,39000,2136000,1872000,264000,Wholesale
+TXN-1085,2024-09-28,East Java,Surabaya,Modern Trade,Nugget,Belfoods Royal Nugget 500g,20,39500,34000,790000,680000,110000,Retail
+TXN-1086,2024-09-28,West Java,Cimahi,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,191,7500,6500,1432500,1241500,191000,Wholesale
+TXN-1087,2024-09-28,Jakarta,Jakarta Utara,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,20,9500,7500,190000,150000,40000,Retail
+TXN-1088,2024-09-28,Sumatera,Palembang,Modern Trade,Sausage,Kimbo Beef Sausage 375g,57,27000,20500,1539000,1168500,370500,Retail
+TXN-1089,2024-09-29,East Java,Malang,General Trade,Sausage,So Good Chicken Sausage 375g,15,41000,33000,615000,495000,120000,Retail
+TXN-1090,2024-09-29,Yogyakarta,Bantul,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,21,10000,8000,210000,168000,42000,Retail
+TXN-1091,2024-09-29,Sumatera,Padang,General Trade,Nugget,Champ Chicken Nugget 250g,11,27500,23500,302500,258500,44000,Retail
+TXN-1092,2024-09-30,West Java,Bekasi,Modern Trade,Milk,Cimory Full Cream 1L,64,23000,20500,1472000,1312000,160000,Retail
+TXN-1093,2024-09-30,Banten,Tangerang,General Trade,Milk,Premium Whole Milk 1L,17,25000,21500,425000,365500,59500,Retail
+TXN-1094,2024-09-30,Jakarta,Jakarta Selatan,Modern Trade,Milk,Premium Whole Milk 1L,54,23500,20500,1269000,1107000,162000,Retail
+TXN-1095,2024-10-01,Jakarta,Jakarta Pusat,General Trade,Cheese,Kraft Cheddar Cheese 165g,29,29500,20500,855500,594500,261000,Retail
+TXN-1096,2024-10-01,Central Java,Solo,General Trade,Milk,Cimory Full Cream 1L,7,20000,18000,140000,126000,14000,Retail
+TXN-1097,2024-10-01,Sumatera,Padang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,19,11500,9500,218500,180500,38000,Retail
+TXN-1098,2024-10-01,Jakarta,Jakarta Pusat,Modern Trade,Milk,Premium Whole Milk 1L,37,23500,20500,869500,758500,111000,Retail
+TXN-1099,2024-10-01,West Java,Bandung,Modern Trade,Sausage,So Good Chicken Sausage 375g,29,34000,27000,986000,783000,203000,Retail
+TXN-1100,2024-10-02,Jakarta,Jakarta Utara,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,47,10000,8500,470000,399500,70500,Institution
+TXN-1101,2024-10-03,Sumatera,Pekanbaru,General Trade,Sausage,Farmhouse Sausage 250g,30,27500,21500,825000,645000,180000,Retail
+TXN-1102,2024-10-03,East Java,Blitar,General Trade,Nugget,So Good Chicken Nugget 500g,11,43500,36500,478500,401500,77000,Retail
+TXN-1103,2024-10-03,Kalimantan,Balikpapan,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,49,8500,7000,416500,343000,73500,Retail
+TXN-1104,2024-10-03,Jakarta,Jakarta Selatan,General Trade,Milk,Cimory Chocolate 200ml,34,5000,4500,170000,153000,17000,Wholesale
+TXN-1105,2024-10-03,Bali,Singaraja,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,57,12000,9500,684000,541500,142500,Wholesale
+TXN-1106,2024-10-03,Kalimantan,Banjarmasin,Modern Trade,Milk,Premium Whole Milk 1L,69,28000,25000,1932000,1725000,207000,Retail
+TXN-1107,2024-10-04,Sulawesi,Manado,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,43,11500,9500,494500,408500,86000,Retail
+TXN-1108,2024-10-05,Bali,Ubud,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,7,11500,9500,80500,66500,14000,Retail
+TXN-1109,2024-10-05,Banten,Tangerang,Distributor,Sausage,Kimbo Beef Sausage 375g,139,31500,24500,4378500,3405500,973000,Wholesale
+TXN-1110,2024-10-05,Central Java,Pekalongan,General Trade,Milk,Chocolate 1L,8,17000,15000,136000,120000,16000,Retail
+TXN-1111,2024-10-06,Kalimantan,Balikpapan,Modern Trade,Sausage,Vida Beef Sausage 200g,61,21000,17000,1281000,1037000,244000,Retail
+TXN-1112,2024-10-06,West Java,Bogor,General Trade,Nugget,So Good Chicken Nugget 500g,40,46000,38000,1840000,1520000,320000,Retail
+TXN-1113,2024-10-07,West Java,Cimahi,Modern Trade,Nugget,So Good Chicken Nugget 500g,34,50000,44000,1700000,1496000,204000,Retail
+TXN-1114,2024-10-07,East Java,Kediri,Distributor,Cheese,Kiri Cream Cheese 80g,185,28000,20000,5180000,3700000,1480000,Wholesale
+TXN-1115,2024-10-07,Bali,Ubud,Distributor,Milk,Cimory Chocolate 200ml,82,6000,5000,492000,410000,82000,Wholesale
+TXN-1116,2024-10-07,East Java,Malang,General Trade,Sausage,So Good Chicken Sausage 375g,15,39000,31500,585000,472500,112500,Wholesale
+TXN-1117,2024-10-07,East Java,Jember,Modern Trade,Milk,Cimory Chocolate 200ml,24,5000,4500,120000,108000,12000,Retail
+TXN-1118,2024-10-08,Bali,Singaraja,Modern Trade,Milk,Chocolate 1L,49,18000,16000,882000,784000,98000,Retail
+TXN-1119,2024-10-08,West Java,Bekasi,General Trade,Cheese,Laughing Cow Creamy 8pcs,12,20000,14500,240000,174000,66000,Wholesale
+TXN-1120,2024-10-08,West Java,Bandung,General Trade,Milk,Cimory Chocolate 200ml,31,6000,5000,186000,155000,31000,Retail
+TXN-1121,2024-10-09,Central Java,Semarang,Modern Trade,Nugget,Champ Chicken Nugget 250g,14,25500,21000,357000,294000,63000,Retail
+TXN-1122,2024-10-09,Jakarta,Jakarta Utara,Distributor,Milk,Cimory Milk Vanilla 200ml,205,4500,4000,922500,820000,102500,Institution
+TXN-1123,2024-10-10,East Java,Jember,Modern Trade,Milk,Cimory Chocolate 200ml,20,6000,5000,120000,100000,20000,HoReCa
+TXN-1124,2024-10-10,West Java,Bogor,Modern Trade,Nugget,Contadina Crispy Nugget 250g,26,22500,20000,585000,520000,65000,Retail
+TXN-1125,2024-10-10,East Java,Kediri,General Trade,Milk,Cimory Chocolate 200ml,40,6500,5500,260000,220000,40000,Wholesale
+TXN-1126,2024-10-10,West Java,Bekasi,Distributor,Milk,Cimory Milk Vanilla 200ml,58,6000,5500,348000,319000,29000,Wholesale
+TXN-1127,2024-10-11,East Java,Surabaya,Distributor,Cheese,Kraft Cheddar Cheese 165g,152,29000,21500,4408000,3268000,1140000,Institution
+TXN-1128,2024-10-11,Central Java,Pekalongan,General Trade,Milk,Cimory Full Cream 1L,26,24500,21500,637000,559000,78000,Retail
+TXN-1129,2024-10-12,Central Java,Semarang,Distributor,Nugget,Belfoods Royal Nugget 500g,71,49500,41000,3514500,2911000,603500,Wholesale
+TXN-1130,2024-10-12,Jakarta,Jakarta Barat,Distributor,Milk,Cimory Chocolate 200ml,71,5500,5000,390500,355000,35500,Wholesale
+TXN-1131,2024-10-12,West Java,Depok,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,29,6500,5000,188500,145000,43500,Retail
+TXN-1132,2024-10-13,West Java,Tasikmalaya,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,133,10000,8000,1330000,1064000,266000,Wholesale
+TXN-1133,2024-10-13,Central Java,Semarang,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,35,11500,9500,402500,332500,70000,Wholesale
+TXN-1134,2024-10-13,Central Java,Semarang,Modern Trade,Nugget,So Good Chicken Nugget 500g,21,46500,39500,976500,829500,147000,Retail
+TXN-1135,2024-10-13,Kalimantan,Pontianak,Distributor,Nugget,Champ Chicken Nugget 250g,70,27500,23500,1925000,1645000,280000,HoReCa
+TXN-1136,2024-10-13,Sulawesi,Palu,Modern Trade,Sausage,Kimbo Beef Sausage 375g,69,27500,22500,1897500,1552500,345000,Retail
+TXN-1137,2024-10-13,East Java,Surabaya,General Trade,Yoghurt,Cimory Yoghurt 500g,29,28500,24000,826500,696000,130500,Retail
+TXN-1138,2024-10-14,Banten,Serang,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,46,8500,7000,391000,322000,69000,HoReCa
+TXN-1139,2024-10-14,West Java,Bekasi,General Trade,Milk,Cimory Milk Vanilla 200ml,24,5000,4500,120000,108000,12000,Wholesale
+TXN-1140,2024-10-14,Jakarta,Jakarta Pusat,Modern Trade,Milk,Cimory Full Cream 1L,57,24500,22000,1396500,1254000,142500,Retail
+TXN-1141,2024-10-16,West Java,Depok,General Trade,Nugget,So Good Chicken Nugget 500g,41,49000,40500,2009000,1660500,348500,Retail
+TXN-1142,2024-10-16,Yogyakarta,Wonosari,Distributor,Milk,Chocolate 1L,216,17500,15500,3780000,3348000,432000,Institution
+TXN-1143,2024-10-17,Jakarta,Jakarta Pusat,Modern Trade,Milk,Cimory Full Cream 1L,62,23500,20500,1457000,1271000,186000,HoReCa
+TXN-1144,2024-10-17,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,21,6000,5000,126000,105000,21000,Retail
+TXN-1145,2024-10-17,Central Java,Semarang,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,30,34000,27000,1020000,810000,210000,Retail
+TXN-1146,2024-10-17,West Java,Cimahi,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,67,37000,32000,2479000,2144000,335000,Retail
+TXN-1147,2024-10-17,West Java,Cimahi,General Trade,Cheese,Laughing Cow Creamy 8pcs,19,22500,18000,427500,342000,85500,Wholesale
+TXN-1148,2024-10-17,West Java,Bogor,Distributor,Nugget,Belfoods Royal Nugget 500g,115,43500,37500,5002500,4312500,690000,Wholesale
+TXN-1149,2024-10-17,West Java,Tasikmalaya,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,60,23000,19500,1380000,1170000,210000,Retail
+TXN-1150,2024-10-18,Banten,South Tangerang,General Trade,Nugget,Fiesta Crispy Nugget 400g,32,35500,31000,1136000,992000,144000,Retail
+TXN-1151,2024-10-18,Banten,Serang,Distributor,Sausage,So Good Chicken Sausage 375g,73,38000,29000,2774000,2117000,657000,HoReCa
+TXN-1152,2024-10-18,Jakarta,Jakarta Timur,General Trade,Nugget,Fiesta Crispy Nugget 400g,20,39000,32500,780000,650000,130000,Retail
+TXN-1153,2024-10-18,Sumatera,Padang,Modern Trade,Sausage,Bernardi Beef Sausage 500g,71,55000,44000,3905000,3124000,781000,Retail
+TXN-1154,2024-10-19,Sulawesi,Palu,Modern Trade,Milk,Chocolate 1L,64,21000,18500,1344000,1184000,160000,Retail
+TXN-1155,2024-10-19,Kalimantan,Samarinda,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,29,11500,9500,333500,275500,58000,Retail
+TXN-1156,2024-10-20,West Java,Bekasi,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,36,25000,20000,900000,720000,180000,Retail
+TXN-1157,2024-10-20,Kalimantan,Banjarmasin,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,118,9500,8000,1121000,944000,177000,Institution
+TXN-1158,2024-10-20,Yogyakarta,Wonosari,General Trade,Sausage,Vida Beef Sausage 200g,32,23500,18500,752000,592000,160000,Retail
+TXN-1159,2024-10-21,Central Java,Semarang,General Trade,Cheese,Kraft Cheddar Cheese 165g,38,33000,25500,1254000,969000,285000,Retail
+TXN-1160,2024-10-21,Sumatera,Pekanbaru,General Trade,Cheese,Kiri Cream Cheese 80g,40,27000,21000,1080000,840000,240000,Wholesale
+TXN-1161,2024-10-21,East Java,Jember,General Trade,Nugget,Fiesta Crispy Nugget 400g,34,40000,35000,1360000,1190000,170000,Wholesale
+TXN-1162,2024-10-21,Kalimantan,Samarinda,Modern Trade,Yoghurt,Cimory Yoghurt 500g,41,31000,25000,1271000,1025000,246000,Retail
+TXN-1163,2024-10-22,Jakarta,Jakarta Utara,General Trade,Cheese,Kraft Cheddar Cheese 165g,15,34500,27000,517500,405000,112500,Retail
+TXN-1164,2024-10-23,Sulawesi,Palu,Modern Trade,Sausage,Kimbo Beef Sausage 375g,25,35000,26500,875000,662500,212500,Retail
+TXN-1165,2024-10-23,West Java,Tasikmalaya,General Trade,Milk,Premium Whole Milk 1L,17,23000,20500,391000,348500,42500,Retail
+TXN-1166,2024-10-24,Sumatera,Padang,Distributor,Cheese,Kraft Cheddar Cheese 165g,194,32500,25000,6305000,4850000,1455000,Wholesale
+TXN-1167,2024-10-25,Kalimantan,Pontianak,Distributor,Milk,Chocolate 1L,131,18000,15500,2358000,2030500,327500,Wholesale
+TXN-1168,2024-10-25,Sumatera,Padang,General Trade,Sausage,Kimbo Beef Sausage 375g,36,31000,25500,1116000,918000,198000,Retail
+TXN-1169,2024-10-25,West Java,Tasikmalaya,General Trade,Milk,Cimory Full Cream 1L,34,23000,20000,782000,680000,102000,Wholesale
+TXN-1170,2024-10-25,Bali,Denpasar,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,20,19000,15500,380000,310000,70000,HoReCa
+TXN-1171,2024-10-26,Jakarta,Jakarta Timur,General Trade,Nugget,Belfoods Royal Nugget 500g,31,49500,41000,1534500,1271000,263500,Retail
+TXN-1172,2024-10-26,Jakarta,Jakarta Pusat,Modern Trade,Nugget,Fiesta Crispy Nugget 400g,23,39500,33500,908500,770500,138000,Retail
+TXN-1173,2024-10-27,East Java,Malang,Distributor,Cheese,Kiri Cream Cheese 80g,47,20000,14500,940000,681500,258500,HoReCa
+TXN-1174,2024-10-28,Jakarta,Jakarta Pusat,General Trade,Cheese,Kraft Cheddar Cheese 165g,20,31000,23500,620000,470000,150000,Retail
+TXN-1175,2024-10-28,Jakarta,Jakarta Utara,Modern Trade,Milk,Cimory Milk Vanilla 200ml,48,5000,4500,240000,216000,24000,Retail
+TXN-1176,2024-10-28,East Java,Jember,General Trade,Sausage,So Good Chicken Sausage 375g,10,41500,31500,415000,315000,100000,Retail
+TXN-1177,2024-10-28,Sumatera,Medan,General Trade,Cheese,Anchor Cheddar Block 500g,35,73000,55000,2555000,1925000,630000,Wholesale
+TXN-1178,2024-10-28,West Java,Depok,General Trade,Sausage,So Good Chicken Sausage 375g,15,38000,29000,570000,435000,135000,Wholesale
+TXN-1179,2024-10-28,Jakarta,Jakarta Pusat,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,66,9500,7500,627000,495000,132000,Retail
+TXN-1180,2024-10-29,Sumatera,Padang,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,64,5500,4500,352000,288000,64000,Retail
+TXN-1181,2024-10-29,Sumatera,Padang,General Trade,Milk,Chocolate 1L,8,21500,19500,172000,156000,16000,Wholesale
+TXN-1182,2024-10-29,Sumatera,Banda Aceh,Distributor,Cheese,Laughing Cow Creamy 8pcs,223,19500,13500,4348500,3010500,1338000,Wholesale
+TXN-1183,2024-10-29,Sulawesi,Manado,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,23,9000,7000,207000,161000,46000,Wholesale
+TXN-1184,2024-10-29,East Java,Malang,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,34,19000,16000,646000,544000,102000,Retail
+TXN-1185,2024-10-29,West Java,Cimahi,Distributor,Sausage,Bernardi Beef Sausage 500g,144,54500,43500,7848000,6264000,1584000,HoReCa
+TXN-1186,2024-10-30,Central Java,Semarang,Modern Trade,Milk,Chocolate 1L,49,21000,18500,1029000,906500,122500,Retail
+TXN-1187,2024-10-30,Sulawesi,Palu,Modern Trade,Sausage,So Good Chicken Sausage 375g,58,42000,32500,2436000,1885000,551000,Retail
+TXN-1188,2024-10-30,Banten,Serang,Modern Trade,Cheese,Anchor Cheddar Block 500g,59,70000,50500,4130000,2979500,1150500,Retail
+TXN-1189,2024-10-30,Banten,Cilegon,Modern Trade,Milk,Premium Whole Milk 1L,64,22000,18500,1408000,1184000,224000,Retail
+TXN-1190,2024-10-30,Kalimantan,Banjarmasin,Modern Trade,Milk,Cimory Chocolate 200ml,42,6500,6000,273000,252000,21000,Retail
+TXN-1191,2024-10-30,Sumatera,Padang,Modern Trade,Sausage,Farmhouse Sausage 250g,50,24000,19000,1200000,950000,250000,Retail
+TXN-1192,2024-10-31,Jakarta,Jakarta Utara,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,41,5500,4500,225500,184500,41000,Wholesale
+TXN-1193,2024-10-31,Banten,Tangerang,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,48,10500,8500,504000,408000,96000,Retail
+TXN-1194,2024-10-31,Jakarta,Jakarta Utara,Distributor,Milk,Cimory Chocolate 200ml,137,4500,4000,616500,548000,68500,Wholesale
+TXN-1195,2024-10-31,Sumatera,Medan,Distributor,Milk,Cimory Milk Vanilla 200ml,169,4500,4000,760500,676000,84500,Wholesale
+TXN-1196,2024-11-01,East Java,Malang,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,199,6500,5500,1293500,1094500,199000,Wholesale
+TXN-1197,2024-11-01,Jakarta,Jakarta Barat,Distributor,Milk,Cimory Full Cream 1L,193,20000,17000,3860000,3281000,579000,HoReCa
+TXN-1198,2024-11-01,West Java,Cimahi,Modern Trade,Sausage,Bernardi Beef Sausage 500g,72,59500,47000,4284000,3384000,900000,Retail
+TXN-1199,2024-11-02,Bali,Singaraja,General Trade,Cheese,Kiri Cream Cheese 80g,23,23500,17500,540500,402500,138000,Retail
+TXN-1200,2024-11-02,West Java,Bekasi,Distributor,Nugget,Champ Chicken Nugget 250g,170,22500,19000,3825000,3230000,595000,HoReCa
+TXN-1201,2024-11-02,Sulawesi,Kendari,General Trade,Milk,Premium Whole Milk 1L,15,27000,23500,405000,352500,52500,Retail
+TXN-1202,2024-11-02,Central Java,Pekalongan,General Trade,Sausage,Vida Beef Sausage 200g,8,17000,13500,136000,108000,28000,Retail
+TXN-1203,2024-11-02,Jakarta,Jakarta Utara,Distributor,Cheese,Kraft Cheddar Cheese 165g,155,30500,22500,4727500,3487500,1240000,Wholesale
+TXN-1204,2024-11-03,East Java,Blitar,Distributor,Sausage,So Good Chicken Sausage 375g,179,38000,29500,6802000,5280500,1521500,Institution
+TXN-1205,2024-11-03,Jakarta,Jakarta Utara,Modern Trade,Milk,Cimory Full Cream 1L,32,22000,19500,704000,624000,80000,Retail
+TXN-1206,2024-11-03,Jakarta,Jakarta Timur,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,56,10500,9000,588000,504000,84000,HoReCa
+TXN-1207,2024-11-03,Sulawesi,Palu,Modern Trade,Sausage,So Good Chicken Sausage 375g,74,35000,26500,2590000,1961000,629000,Retail
+TXN-1208,2024-11-03,Banten,Tangerang,General Trade,Sausage,So Good Chicken Sausage 375g,21,35000,28000,735000,588000,147000,Retail
+TXN-1209,2024-11-04,West Java,Bogor,General Trade,Milk,Chocolate 1L,28,18500,15500,518000,434000,84000,Retail
+TXN-1210,2024-11-04,Kalimantan,Pontianak,Distributor,Milk,Chocolate 1L,77,18000,15500,1386000,1193500,192500,HoReCa
+TXN-1211,2024-11-04,Sumatera,Padang,Modern Trade,Milk,Cimory Full Cream 1L,68,23500,20000,1598000,1360000,238000,Retail
+TXN-1212,2024-11-04,West Java,Tasikmalaya,Distributor,Milk,Premium Whole Milk 1L,239,26500,23500,6333500,5616500,717000,Wholesale
+TXN-1213,2024-11-05,East Java,Blitar,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,166,23000,18500,3818000,3071000,747000,Wholesale
+TXN-1214,2024-11-05,East Java,Malang,Distributor,Nugget,Fiesta Crispy Nugget 400g,139,45500,39000,6324500,5421000,903500,Wholesale
+TXN-1215,2024-11-05,Jakarta,Jakarta Timur,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,28,10000,8000,280000,224000,56000,Retail
+TXN-1216,2024-11-05,Bali,Denpasar,General Trade,Sausage,Bernardi Beef Sausage 500g,43,48500,37500,2085500,1612500,473000,Wholesale
+TXN-1217,2024-11-05,West Java,Depok,Modern Trade,Milk,Premium Whole Milk 1L,27,23500,20000,634500,540000,94500,Retail
+TXN-1218,2024-11-05,Central Java,Magelang,Distributor,Cheese,Laughing Cow Creamy 8pcs,191,19000,13500,3629000,2578500,1050500,Institution
+TXN-1219,2024-11-06,Sumatera,Medan,Distributor,Milk,Cimory Milk Vanilla 200ml,223,4500,4000,1003500,892000,111500,Wholesale
+TXN-1220,2024-11-06,Sumatera,Palembang,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,52,11500,9000,598000,468000,130000,Retail
+TXN-1221,2024-11-06,Jakarta,Jakarta Pusat,General Trade,Milk,Cimory Milk Vanilla 200ml,9,6000,5500,54000,49500,4500,Wholesale
+TXN-1222,2024-11-06,Jakarta,Jakarta Utara,Modern Trade,Cheese,Kiri Cream Cheese 80g,40,23000,18000,920000,720000,200000,Retail
+TXN-1223,2024-11-06,East Java,Jember,Modern Trade,Milk,Cimory Full Cream 1L,42,23000,20000,966000,840000,126000,Retail
+TXN-1224,2024-11-06,Jakarta,Jakarta Timur,Modern Trade,Cheese,Anchor Cheddar Block 500g,18,75500,59500,1359000,1071000,288000,Retail
+TXN-1225,2024-11-06,West Java,Bandung,Modern Trade,Milk,Cimory Chocolate 200ml,21,5000,4500,105000,94500,10500,Retail
+TXN-1226,2024-11-07,Banten,South Tangerang,General Trade,Milk,Cimory Chocolate 200ml,19,6000,5000,114000,95000,19000,Retail
+TXN-1227,2024-11-07,Sumatera,Pekanbaru,General Trade,Sausage,So Good Chicken Sausage 375g,15,33500,27500,502500,412500,90000,Wholesale
+TXN-1228,2024-11-08,Banten,Cilegon,Distributor,Sausage,So Good Chicken Sausage 375g,83,32000,24500,2656000,2033500,622500,Wholesale
+TXN-1229,2024-11-08,Jakarta,Jakarta Pusat,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,45,9000,7000,405000,315000,90000,Retail
+TXN-1230,2024-11-08,Bali,Denpasar,General Trade,Nugget,Belfoods Royal Nugget 500g,18,44500,38000,801000,684000,117000,Retail
+TXN-1231,2024-11-09,Sumatera,Banda Aceh,General Trade,Milk,Cimory Full Cream 1L,39,20500,18000,799500,702000,97500,Wholesale
+TXN-1232,2024-11-09,West Java,Tasikmalaya,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,58,6000,5000,348000,290000,58000,Retail
+TXN-1233,2024-11-10,Jakarta,Jakarta Utara,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,71,11000,9000,781000,639000,142000,HoReCa
+TXN-1234,2024-11-10,Jakarta,Jakarta Utara,General Trade,Sausage,Vida Beef Sausage 200g,43,16000,12000,688000,516000,172000,Wholesale
+TXN-1235,2024-11-10,West Java,Depok,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,28,22000,16500,616000,462000,154000,Retail
+TXN-1236,2024-11-10,Kalimantan,Samarinda,General Trade,Nugget,Champ Chicken Nugget 250g,45,28000,23500,1260000,1057500,202500,Retail
+TXN-1237,2024-11-10,Sulawesi,Manado,Modern Trade,Sausage,Vida Beef Sausage 200g,42,23000,18000,966000,756000,210000,HoReCa
+TXN-1238,2024-11-11,East Java,Surabaya,General Trade,Sausage,Farmhouse Sausage 250g,41,28500,23000,1168500,943000,225500,Retail
+TXN-1239,2024-11-11,Sumatera,Pekanbaru,Modern Trade,Nugget,Contadina Crispy Nugget 250g,45,23000,19500,1035000,877500,157500,Retail
+TXN-1240,2024-11-11,Sulawesi,Manado,Modern Trade,Milk,Chocolate 1L,17,21000,19000,357000,323000,34000,Retail
+TXN-1241,2024-11-12,Banten,Tangerang,General Trade,Milk,Cimory Chocolate 200ml,10,5000,4500,50000,45000,5000,Retail
+TXN-1242,2024-11-12,Sumatera,Banda Aceh,General Trade,Sausage,So Good Chicken Sausage 375g,19,32000,26000,608000,494000,114000,Wholesale
+TXN-1243,2024-11-13,Central Java,Magelang,Distributor,Milk,Chocolate 1L,99,17000,14500,1683000,1435500,247500,Institution
+TXN-1244,2024-11-13,East Java,Jember,Distributor,Milk,Chocolate 1L,112,18500,16500,2072000,1848000,224000,Institution
+TXN-1245,2024-11-14,Yogyakarta,Bantul,Distributor,Milk,Premium Whole Milk 1L,133,26500,23500,3524500,3125500,399000,Wholesale
+TXN-1246,2024-11-14,East Java,Kediri,General Trade,Cheese,Kiri Cream Cheese 80g,44,24500,18500,1078000,814000,264000,Retail
+TXN-1247,2024-11-14,West Java,Depok,General Trade,Cheese,Prochiz Gold Slices 150g,22,29500,22500,649000,495000,154000,Retail
+TXN-1248,2024-11-15,Sulawesi,Palu,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,64,34500,26000,2208000,1664000,544000,Retail
+TXN-1249,2024-11-15,East Java,Malang,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,44,10500,8500,462000,374000,88000,Retail
+TXN-1250,2024-11-16,Sumatera,Palembang,General Trade,Milk,Premium Whole Milk 1L,27,27000,23000,729000,621000,108000,Retail
+TXN-1251,2024-11-16,West Java,Tasikmalaya,Modern Trade,Cheese,Anchor Cheddar Block 500g,59,81500,60500,4808500,3569500,1239000,HoReCa
+TXN-1252,2024-11-16,West Java,Cimahi,General Trade,Sausage,Kimbo Beef Sausage 375g,14,27500,22000,385000,308000,77000,Wholesale
+TXN-1253,2024-11-16,Jakarta,Jakarta Selatan,Distributor,Cheese,Kraft Cheddar Cheese 165g,193,29000,21500,5597000,4149500,1447500,HoReCa
+TXN-1254,2024-11-17,Sumatera,Banda Aceh,General Trade,Milk,Cimory Chocolate 200ml,13,4500,4000,58500,52000,6500,Retail
+TXN-1255,2024-11-18,Central Java,Tegal,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,34,19500,14000,663000,476000,187000,Retail
+TXN-1256,2024-11-18,Central Java,Solo,Distributor,Cheese,Kraft Cheddar Cheese 165g,221,34000,25000,7514000,5525000,1989000,Institution
+TXN-1257,2024-11-18,Jakarta,Jakarta Pusat,Modern Trade,Sausage,Bernardi Beef Sausage 500g,63,55000,44500,3465000,2803500,661500,Retail
+TXN-1258,2024-11-18,Jakarta,Jakarta Utara,Modern Trade,Milk,Cimory Milk Vanilla 200ml,32,5000,4500,160000,144000,16000,Retail
+TXN-1259,2024-11-18,Sumatera,Padang,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,31,8000,6500,248000,201500,46500,Retail
+TXN-1260,2024-11-19,East Java,Blitar,General Trade,Nugget,So Good Chicken Nugget 500g,45,46500,40500,2092500,1822500,270000,Retail
+TXN-1261,2024-11-19,West Java,Bekasi,General Trade,Nugget,So Good Chicken Nugget 500g,37,48500,41500,1794500,1535500,259000,Retail
+TXN-1262,2024-11-19,West Java,Tasikmalaya,Modern Trade,Sausage,So Good Chicken Sausage 375g,70,37000,29000,2590000,2030000,560000,Retail
+TXN-1263,2024-11-20,Sumatera,Pekanbaru,Distributor,Milk,Premium Whole Milk 1L,242,27000,23500,6534000,5687000,847000,Institution
+TXN-1264,2024-11-20,Central Java,Magelang,Distributor,Cheese,Anchor Cheddar Block 500g,241,67500,52000,16267500,12532000,3735500,Wholesale
+TXN-1265,2024-11-20,Banten,South Tangerang,Modern Trade,Milk,Chocolate 1L,58,20500,18000,1189000,1044000,145000,Retail
+TXN-1266,2024-11-21,Yogyakarta,Bantul,Distributor,Nugget,Contadina Crispy Nugget 250g,97,25500,21500,2473500,2085500,388000,HoReCa
+TXN-1267,2024-11-21,Central Java,Tegal,Distributor,Yoghurt,Cimory Mini Yoghurt 60ml,72,5000,4000,360000,288000,72000,Institution
+TXN-1268,2024-11-22,West Java,Bogor,General Trade,Sausage,So Good Chicken Sausage 375g,37,41000,32500,1517000,1202500,314500,Retail
+TXN-1269,2024-11-22,Sulawesi,Manado,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,63,7000,6000,441000,378000,63000,Retail
+TXN-1270,2024-11-23,Jakarta,Jakarta Selatan,Modern Trade,Milk,Cimory Full Cream 1L,17,25000,22500,425000,382500,42500,Retail
+TXN-1271,2024-11-23,West Java,Depok,General Trade,Nugget,So Good Chicken Nugget 500g,48,46500,39000,2232000,1872000,360000,Wholesale
+TXN-1272,2024-11-23,Jakarta,Jakarta Selatan,Distributor,Cheese,Kraft Cheddar Cheese 165g,173,31500,24000,5449500,4152000,1297500,Institution
+TXN-1273,2024-11-23,West Java,Bandung,General Trade,Cheese,Kiri Cream Cheese 80g,13,27000,20000,351000,260000,91000,Retail
+TXN-1274,2024-11-23,West Java,Depok,Modern Trade,Cheese,Anchor Cheddar Block 500g,76,71500,55500,5434000,4218000,1216000,HoReCa
+TXN-1275,2024-11-23,Central Java,Pekalongan,Modern Trade,Nugget,Belfoods Royal Nugget 500g,52,49500,43500,2574000,2262000,312000,HoReCa
+TXN-1276,2024-11-24,Kalimantan,Pontianak,General Trade,Milk,Cimory Chocolate 200ml,27,6000,5500,162000,148500,13500,Wholesale
+TXN-1277,2024-11-24,Central Java,Semarang,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,18,10000,8000,180000,144000,36000,Retail
+TXN-1278,2024-11-24,Sumatera,Pekanbaru,Distributor,Sausage,So Good Chicken Sausage 375g,64,40500,32500,2592000,2080000,512000,HoReCa
+TXN-1279,2024-11-24,Kalimantan,Banjarmasin,Modern Trade,Milk,Cimory Chocolate 200ml,75,5500,4500,412500,337500,75000,HoReCa
+TXN-1280,2024-11-24,Jakarta,Jakarta Selatan,Modern Trade,Milk,Chocolate 1L,57,17000,15000,969000,855000,114000,Retail
+TXN-1281,2024-11-25,East Java,Malang,Modern Trade,Milk,Chocolate 1L,49,21000,18000,1029000,882000,147000,HoReCa
+TXN-1282,2024-11-25,Yogyakarta,Yogyakarta,General Trade,Milk,Cimory Milk Vanilla 200ml,26,5500,5000,143000,130000,13000,Retail
+TXN-1283,2024-11-25,West Java,Depok,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,37,23500,18000,869500,666000,203500,HoReCa
+TXN-1284,2024-11-25,Central Java,Semarang,General Trade,Milk,Cimory Full Cream 1L,41,23500,20000,963500,820000,143500,Retail
+TXN-1285,2024-11-25,Sulawesi,Makassar,Distributor,Milk,Cimory Milk Vanilla 200ml,137,4000,3500,548000,479500,68500,Wholesale
+TXN-1286,2024-11-25,East Java,Blitar,General Trade,Milk,Chocolate 1L,28,18500,16000,518000,448000,70000,Retail
+TXN-1287,2024-11-25,West Java,Bogor,Distributor,Milk,Cimory Milk Vanilla 200ml,229,5500,4500,1259500,1030500,229000,HoReCa
+TXN-1288,2024-11-25,Jakarta,Jakarta Utara,Distributor,Sausage,So Good Chicken Sausage 375g,155,33500,26000,5192500,4030000,1162500,Wholesale
+TXN-1289,2024-11-25,Yogyakarta,Yogyakarta,Modern Trade,Nugget,Contadina Crispy Nugget 250g,33,24500,20500,808500,676500,132000,Retail
+TXN-1290,2024-11-25,West Java,Cimahi,Modern Trade,Sausage,Vida Beef Sausage 200g,68,17500,14000,1190000,952000,238000,Retail
+TXN-1291,2024-11-25,Sulawesi,Palu,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,9,8500,7000,76500,63000,13500,Retail
+TXN-1292,2024-11-26,East Java,Surabaya,Modern Trade,Nugget,Contadina Crispy Nugget 250g,39,22000,19500,858000,760500,97500,Retail
+TXN-1293,2024-11-26,Central Java,Tegal,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,50,5000,4000,250000,200000,50000,Retail
+TXN-1294,2024-11-26,West Java,Cimahi,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,200,12500,10500,2500000,2100000,400000,Wholesale
+TXN-1295,2024-11-26,West Java,Tasikmalaya,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,197,21000,17000,4137000,3349000,788000,Wholesale
+TXN-1296,2024-11-26,West Java,Depok,Distributor,Nugget,Belfoods Royal Nugget 500g,156,40500,33000,6318000,5148000,1170000,Wholesale
+TXN-1297,2024-11-26,Bali,Singaraja,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,23,12000,9500,276000,218500,57500,Retail
+TXN-1298,2024-11-26,Sumatera,Pekanbaru,Modern Trade,Milk,Premium Whole Milk 1L,40,25500,22500,1020000,900000,120000,Retail
+TXN-1299,2024-11-26,East Java,Kediri,Distributor,Sausage,Vida Beef Sausage 200g,163,21000,17000,3423000,2771000,652000,Wholesale
+TXN-1300,2024-11-26,Central Java,Solo,General Trade,Milk,Chocolate 1L,23,17000,15500,391000,356500,34500,Retail
+TXN-1301,2024-11-27,Jakarta,Jakarta Barat,Modern Trade,Nugget,Champ Chicken Nugget 250g,35,22500,19000,787500,665000,122500,Retail
+TXN-1302,2024-11-27,Central Java,Pekalongan,Modern Trade,Yoghurt,Cimory Yoghurt 500g,71,30500,25500,2165500,1810500,355000,Retail
+TXN-1303,2024-11-27,Central Java,Semarang,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,50,20000,15500,1000000,775000,225000,Retail
+TXN-1304,2024-11-27,Sulawesi,Kendari,Distributor,Milk,Cimory Milk Vanilla 200ml,158,5500,4500,869000,711000,158000,Wholesale
+TXN-1305,2024-11-27,Central Java,Semarang,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,36,6500,5500,234000,198000,36000,Retail
+TXN-1306,2024-11-27,Sumatera,Padang,Modern Trade,Yoghurt,Cimory Yoghurt 500g,54,31000,26500,1674000,1431000,243000,Retail
+TXN-1307,2024-11-28,Sulawesi,Kendari,General Trade,Nugget,Champ Chicken Nugget 250g,9,25500,22000,229500,198000,31500,Wholesale
+TXN-1308,2024-11-28,Kalimantan,Banjarmasin,Modern Trade,Milk,Chocolate 1L,63,18500,16000,1165500,1008000,157500,Retail
+TXN-1309,2024-11-28,Bali,Kuta,General Trade,Cheese,Prochiz Gold Slices 150g,40,29500,23000,1180000,920000,260000,Retail
+TXN-1310,2024-11-28,Sulawesi,Manado,General Trade,Nugget,Champ Chicken Nugget 250g,30,25500,21500,765000,645000,120000,Retail
+TXN-1311,2024-11-29,Sumatera,Medan,General Trade,Sausage,So Good Chicken Sausage 375g,16,36000,28500,576000,456000,120000,Retail
+TXN-1312,2024-11-29,Kalimantan,Pontianak,Modern Trade,Sausage,Farmhouse Sausage 250g,63,23500,18500,1480500,1165500,315000,Retail
+TXN-1313,2024-11-29,Central Java,Tegal,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,35,10000,8000,350000,280000,70000,Retail
+TXN-1314,2024-11-29,Jakarta,Jakarta Barat,Modern Trade,Sausage,So Good Chicken Sausage 375g,30,42000,31500,1260000,945000,315000,HoReCa
+TXN-1315,2024-11-29,Yogyakarta,Sleman,General Trade,Sausage,Farmhouse Sausage 250g,25,23500,19000,587500,475000,112500,Retail
+TXN-1316,2024-11-29,West Java,Depok,General Trade,Sausage,Kimbo Beef Sausage 375g,8,36000,27500,288000,220000,68000,Retail
+TXN-1317,2024-11-29,Central Java,Magelang,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,43,5500,4500,236500,193500,43000,Retail
+TXN-1318,2024-11-30,Central Java,Semarang,Modern Trade,Nugget,So Good Chicken Nugget 500g,38,54000,44500,2052000,1691000,361000,Retail
+TXN-1319,2024-12-01,Jakarta,Jakarta Utara,Modern Trade,Nugget,So Good Chicken Nugget 500g,79,53500,45000,4226500,3555000,671500,HoReCa
+TXN-1320,2024-12-01,West Java,Tasikmalaya,Distributor,Nugget,Fiesta Crispy Nugget 400g,287,45000,38000,12915000,10906000,2009000,Wholesale
+TXN-1321,2024-12-02,Bali,Kuta,General Trade,Sausage,Vida Beef Sausage 200g,42,20500,15500,861000,651000,210000,Retail
+TXN-1322,2024-12-02,West Java,Cimahi,General Trade,Cheese,Kraft Cheddar Cheese 165g,42,30500,23000,1281000,966000,315000,Retail
+TXN-1323,2024-12-02,Kalimantan,Banjarmasin,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,71,5000,4000,355000,284000,71000,Retail
+TXN-1324,2024-12-02,Kalimantan,Pontianak,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,98,9500,8000,931000,784000,147000,Retail
+TXN-1325,2024-12-02,Sulawesi,Manado,General Trade,Milk,Cimory Chocolate 200ml,32,6500,5500,208000,176000,32000,Retail
+TXN-1326,2024-12-03,East Java,Jember,General Trade,Nugget,Contadina Crispy Nugget 250g,71,21500,17500,1526500,1242500,284000,Wholesale
+TXN-1327,2024-12-03,Kalimantan,Pontianak,Modern Trade,Milk,Cimory Full Cream 1L,24,24000,20500,576000,492000,84000,HoReCa
+TXN-1328,2024-12-03,Sulawesi,Manado,Modern Trade,Sausage,So Good Chicken Sausage 375g,110,30500,24500,3355000,2695000,660000,Retail
+TXN-1329,2024-12-03,Bali,Kuta,Distributor,Milk,Cimory Chocolate 200ml,317,4500,4000,1426500,1268000,158500,Wholesale
+TXN-1330,2024-12-03,Jakarta,Jakarta Utara,Modern Trade,Milk,Chocolate 1L,113,18500,16000,2090500,1808000,282500,HoReCa
+TXN-1331,2024-12-03,Bali,Kuta,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,50,6500,5500,325000,275000,50000,Retail
+TXN-1332,2024-12-04,Bali,Singaraja,Distributor,Milk,Cimory Full Cream 1L,223,19500,17000,4348500,3791000,557500,Wholesale
+TXN-1333,2024-12-04,Jakarta,Jakarta Pusat,Distributor,Cheese,Kraft Cheddar Cheese 165g,325,29500,22000,9587500,7150000,2437500,Wholesale
+TXN-1334,2024-12-04,Central Java,Tegal,Modern Trade,Sausage,So Good Chicken Sausage 375g,40,39000,31000,1560000,1240000,320000,HoReCa
+TXN-1335,2024-12-04,Sulawesi,Manado,Modern Trade,Milk,Cimory Chocolate 200ml,38,5500,5000,209000,190000,19000,Retail
+TXN-1336,2024-12-04,Central Java,Tegal,General Trade,Milk,Cimory Milk Vanilla 200ml,69,4500,4000,310500,276000,34500,Wholesale
+TXN-1337,2024-12-04,Sumatera,Pekanbaru,General Trade,Yoghurt,Cimory Yoghurt 500g,44,34500,28500,1518000,1254000,264000,Retail
+TXN-1338,2024-12-04,Central Java,Pekalongan,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,22,10000,8500,220000,187000,33000,Wholesale
+TXN-1339,2024-12-04,Yogyakarta,Bantul,General Trade,Sausage,Kimbo Beef Sausage 375g,60,34500,27000,2070000,1620000,450000,Retail
+TXN-1340,2024-12-04,Jakarta,Jakarta Selatan,Modern Trade,Milk,Cimory Chocolate 200ml,60,5000,4500,300000,270000,30000,Retail
+TXN-1341,2024-12-04,East Java,Kediri,General Trade,Sausage,Bernardi Beef Sausage 500g,14,51500,41500,721000,581000,140000,Retail
+TXN-1342,2024-12-04,Central Java,Semarang,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,41,10500,9000,430500,369000,61500,Retail
+TXN-1343,2024-12-04,Kalimantan,Pontianak,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,57,23500,19000,1339500,1083000,256500,Retail
+TXN-1344,2024-12-04,East Java,Kediri,Distributor,Cheese,Laughing Cow Creamy 8pcs,177,21500,16000,3805500,2832000,973500,Wholesale
+TXN-1345,2024-12-05,Central Java,Magelang,General Trade,Sausage,Farmhouse Sausage 250g,34,23000,18500,782000,629000,153000,Retail
+TXN-1346,2024-12-05,Jakarta,Jakarta Selatan,Distributor,Milk,Cimory Chocolate 200ml,102,4500,4000,459000,408000,51000,Wholesale
+TXN-1347,2024-12-05,Jakarta,Jakarta Selatan,Modern Trade,Milk,Cimory Full Cream 1L,24,23000,20000,552000,480000,72000,Retail
+TXN-1348,2024-12-05,Sumatera,Padang,General Trade,Milk,Chocolate 1L,16,20500,18000,328000,288000,40000,Retail
+TXN-1349,2024-12-05,Bali,Ubud,Modern Trade,Sausage,Farmhouse Sausage 250g,30,25500,19500,765000,585000,180000,Retail
+TXN-1350,2024-12-05,East Java,Blitar,Distributor,Sausage,Bernardi Beef Sausage 500g,160,51500,39500,8240000,6320000,1920000,Wholesale
+TXN-1351,2024-12-05,West Java,Tasikmalaya,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,36,9500,8000,342000,288000,54000,Retail
+TXN-1352,2024-12-06,East Java,Blitar,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,69,13000,10500,897000,724500,172500,Wholesale
+TXN-1353,2024-12-06,Bali,Ubud,Modern Trade,Nugget,So Good Chicken Nugget 500g,56,47000,40500,2632000,2268000,364000,Retail
+TXN-1354,2024-12-07,Banten,Cilegon,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,41,17500,13000,717500,533000,184500,HoReCa
+TXN-1355,2024-12-07,Banten,Tangerang,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,75,31500,23000,2362500,1725000,637500,Retail
+TXN-1356,2024-12-07,Bali,Singaraja,General Trade,Sausage,Farmhouse Sausage 250g,53,28500,23500,1510500,1245500,265000,Retail
+TXN-1357,2024-12-07,Sumatera,Pekanbaru,General Trade,Sausage,So Good Chicken Sausage 375g,30,39500,31000,1185000,930000,255000,Wholesale
+TXN-1358,2024-12-07,East Java,Jember,General Trade,Nugget,So Good Chicken Nugget 500g,17,55000,48000,935000,816000,119000,Wholesale
+TXN-1359,2024-12-07,East Java,Surabaya,Modern Trade,Sausage,So Good Chicken Sausage 375g,113,32000,25500,3616000,2881500,734500,Retail
+TXN-1360,2024-12-07,Jakarta,Jakarta Selatan,General Trade,Cheese,Kraft Cheddar Cheese 165g,37,29000,20500,1073000,758500,314500,Retail
+TXN-1361,2024-12-07,West Java,Bogor,General Trade,Nugget,Contadina Crispy Nugget 250g,65,21000,18000,1365000,1170000,195000,Retail
+TXN-1362,2024-12-08,Central Java,Pekalongan,General Trade,Milk,Chocolate 1L,43,20000,17500,860000,752500,107500,Retail
+TXN-1363,2024-12-08,Jakarta,Jakarta Utara,Distributor,Sausage,Vida Beef Sausage 200g,224,23000,18500,5152000,4144000,1008000,Institution
+TXN-1364,2024-12-08,West Java,Depok,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,87,8000,7000,696000,609000,87000,Retail
+TXN-1365,2024-12-09,West Java,Depok,Modern Trade,Milk,Cimory Chocolate 200ml,54,5500,5000,297000,270000,27000,Retail
+TXN-1366,2024-12-09,Central Java,Semarang,Distributor,Milk,Premium Whole Milk 1L,241,27000,23000,6507000,5543000,964000,Wholesale
+TXN-1367,2024-12-09,Banten,South Tangerang,Distributor,Cheese,Prochiz Gold Slices 150g,244,29000,22500,7076000,5490000,1586000,Wholesale
+TXN-1368,2024-12-09,Central Java,Solo,Modern Trade,Milk,Cimory Full Cream 1L,93,24000,21000,2232000,1953000,279000,Retail
+TXN-1369,2024-12-09,Bali,Singaraja,Distributor,Sausage,So Good Chicken Sausage 375g,133,37500,28500,4987500,3790500,1197000,Wholesale
+TXN-1370,2024-12-09,Central Java,Solo,Modern Trade,Sausage,Bernardi Beef Sausage 500g,104,47000,38000,4888000,3952000,936000,Retail
+TXN-1371,2024-12-10,Kalimantan,Banjarmasin,Modern Trade,Sausage,Vida Beef Sausage 200g,50,19500,15500,975000,775000,200000,Retail
+TXN-1372,2024-12-10,Central Java,Tegal,General Trade,Yoghurt,Cimory Yoghurt 500g,43,32500,27000,1397500,1161000,236500,Retail
+TXN-1373,2024-12-11,Kalimantan,Balikpapan,Distributor,Nugget,Contadina Crispy Nugget 250g,316,25500,21500,8058000,6794000,1264000,Institution
+TXN-1374,2024-12-11,Jakarta,Jakarta Utara,General Trade,Cheese,Anchor Cheddar Block 500g,13,73500,56000,955500,728000,227500,Retail
+TXN-1375,2024-12-11,Jakarta,Jakarta Utara,General Trade,Milk,Cimory Full Cream 1L,68,22500,19000,1530000,1292000,238000,Retail
+TXN-1376,2024-12-11,Central Java,Semarang,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,52,5500,4500,286000,234000,52000,HoReCa
+TXN-1377,2024-12-11,Kalimantan,Banjarmasin,General Trade,Milk,Premium Whole Milk 1L,14,23500,20500,329000,287000,42000,Wholesale
+TXN-1378,2024-12-12,Central Java,Semarang,Distributor,Sausage,So Good Chicken Sausage 375g,361,40500,30500,14620500,11010500,3610000,Institution
+TXN-1379,2024-12-12,Jakarta,Jakarta Barat,General Trade,Cheese,Prochiz Gold Slices 150g,34,28500,22500,969000,765000,204000,Retail
+TXN-1380,2024-12-12,Bali,Kuta,Distributor,Milk,Chocolate 1L,88,19000,16500,1672000,1452000,220000,Institution
+TXN-1381,2024-12-12,West Java,Bandung,Distributor,Milk,Cimory Chocolate 200ml,286,6000,5000,1716000,1430000,286000,Wholesale
+TXN-1382,2024-12-12,Yogyakarta,Bantul,Distributor,Milk,Cimory Milk Vanilla 200ml,178,6000,5000,1068000,890000,178000,Wholesale
+TXN-1383,2024-12-12,Yogyakarta,Wonosari,Distributor,Sausage,So Good Chicken Sausage 375g,217,31000,23500,6727000,5099500,1627500,Institution
+TXN-1384,2024-12-13,West Java,Depok,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,81,33000,25000,2673000,2025000,648000,HoReCa
+TXN-1385,2024-12-13,Kalimantan,Pontianak,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,87,10500,8500,913500,739500,174000,Retail
+TXN-1386,2024-12-13,Jakarta,Jakarta Pusat,Distributor,Milk,Cimory Milk Vanilla 200ml,254,4000,3500,1016000,889000,127000,Wholesale
+TXN-1387,2024-12-13,Central Java,Semarang,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,45,5000,4000,225000,180000,45000,HoReCa
+TXN-1388,2024-12-13,Banten,Serang,General Trade,Sausage,Bernardi Beef Sausage 500g,29,49500,39500,1435500,1145500,290000,Retail
+TXN-1389,2024-12-13,Jakarta,Jakarta Barat,Modern Trade,Milk,Cimory Full Cream 1L,49,24500,22000,1200500,1078000,122500,Retail
+TXN-1390,2024-12-14,Central Java,Tegal,General Trade,Yoghurt,Cimory Yoghurt 500g,62,35500,29000,2201000,1798000,403000,Wholesale
+TXN-1391,2024-12-14,Central Java,Magelang,General Trade,Cheese,Anchor Cheddar Block 500g,32,69000,50500,2208000,1616000,592000,Wholesale
+TXN-1392,2024-12-14,Sumatera,Palembang,Modern Trade,Nugget,Champ Chicken Nugget 250g,47,25000,21000,1175000,987000,188000,Retail
+TXN-1393,2024-12-14,Central Java,Solo,General Trade,Milk,Cimory Full Cream 1L,22,19500,17000,429000,374000,55000,Retail
+TXN-1394,2024-12-14,Banten,Cilegon,General Trade,Sausage,Kimbo Beef Sausage 375g,17,36000,28500,612000,484500,127500,Retail
+TXN-1395,2024-12-15,Kalimantan,Balikpapan,General Trade,Yoghurt,Cimory Yoghurt Drink 250ml,67,11500,9500,770500,636500,134000,Retail
+TXN-1396,2024-12-15,Jakarta,Jakarta Selatan,Distributor,Yoghurt,Cimory Yoghurt 500g,273,34000,28000,9282000,7644000,1638000,Institution
+TXN-1397,2024-12-15,Jakarta,Jakarta Selatan,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,50,6000,5000,300000,250000,50000,HoReCa
+TXN-1398,2024-12-15,Sumatera,Banda Aceh,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,77,10000,8000,770000,616000,154000,Retail
+TXN-1399,2024-12-15,Central Java,Pekalongan,Distributor,Nugget,Fiesta Crispy Nugget 400g,354,45500,39500,16107000,13983000,2124000,Institution
+TXN-1400,2024-12-15,West Java,Bogor,Distributor,Milk,Chocolate 1L,113,17500,15000,1977500,1695000,282500,Wholesale
+TXN-1401,2024-12-15,East Java,Jember,Modern Trade,Milk,Chocolate 1L,29,21500,19000,623500,551000,72500,Retail
+TXN-1402,2024-12-15,Central Java,Semarang,General Trade,Milk,Cimory Full Cream 1L,11,22500,19500,247500,214500,33000,Retail
+TXN-1403,2024-12-16,West Java,Cimahi,General Trade,Sausage,So Good Chicken Sausage 375g,62,41000,31500,2542000,1953000,589000,Wholesale
+TXN-1404,2024-12-16,Bali,Denpasar,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,31,24500,20500,759500,635500,124000,Retail
+TXN-1405,2024-12-16,Yogyakarta,Wonosari,General Trade,Cheese,Prochiz Gold Slices 150g,70,27000,20000,1890000,1400000,490000,Retail
+TXN-1406,2024-12-16,Kalimantan,Balikpapan,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,249,10500,8500,2614500,2116500,498000,Institution
+TXN-1407,2024-12-16,Kalimantan,Balikpapan,Modern Trade,Milk,Cimory Milk Vanilla 200ml,53,4500,4000,238500,212000,26500,Retail
+TXN-1408,2024-12-16,Jakarta,Jakarta Utara,Modern Trade,Sausage,So Good Chicken Sausage 375g,111,36000,29000,3996000,3219000,777000,Retail
+TXN-1409,2024-12-16,East Java,Blitar,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,101,18500,15000,1868500,1515000,353500,HoReCa
+TXN-1410,2024-12-17,Sumatera,Medan,Modern Trade,Milk,Cimory Chocolate 200ml,22,5500,5000,121000,110000,11000,Retail
+TXN-1411,2024-12-17,Yogyakarta,Wonosari,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,247,10000,8000,2470000,1976000,494000,Institution
+TXN-1412,2024-12-17,Jakarta,Jakarta Utara,Distributor,Sausage,So Good Chicken Sausage 375g,104,40000,30000,4160000,3120000,1040000,Wholesale
+TXN-1413,2024-12-17,Jakarta,Jakarta Barat,Distributor,Milk,Cimory Full Cream 1L,277,19000,16000,5263000,4432000,831000,Wholesale
+TXN-1414,2024-12-17,Jakarta,Jakarta Timur,General Trade,Yoghurt,Cimory Yoghurt 500g,19,28500,24000,541500,456000,85500,Retail
+TXN-1415,2024-12-17,East Java,Blitar,General Trade,Milk,Chocolate 1L,61,18500,16500,1128500,1006500,122000,Retail
+TXN-1416,2024-12-17,Central Java,Pekalongan,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,18,9000,7500,162000,135000,27000,Wholesale
+TXN-1417,2024-12-18,Jakarta,Jakarta Barat,Modern Trade,Milk,Cimory Full Cream 1L,81,19500,17000,1579500,1377000,202500,Retail
+TXN-1418,2024-12-18,East Java,Jember,General Trade,Milk,Cimory Milk Vanilla 200ml,56,5500,4500,308000,252000,56000,Retail
+TXN-1419,2024-12-18,Jakarta,Jakarta Pusat,Modern Trade,Milk,Cimory Chocolate 200ml,98,5500,5000,539000,490000,49000,Retail
+TXN-1420,2024-12-18,Jakarta,Jakarta Pusat,Modern Trade,Cheese,Anchor Cheddar Block 500g,39,71000,54000,2769000,2106000,663000,Retail
+TXN-1421,2024-12-18,Bali,Denpasar,Distributor,Yoghurt,Cimory Plain Yoghurt 400g,148,19000,16000,2812000,2368000,444000,Wholesale
+TXN-1422,2024-12-18,Jakarta,Jakarta Selatan,General Trade,Milk,Cimory Full Cream 1L,68,22500,20000,1530000,1360000,170000,Retail
+TXN-1423,2024-12-18,Yogyakarta,Sleman,Modern Trade,Sausage,Kimbo Beef Sausage 375g,85,33000,25000,2805000,2125000,680000,Retail
+TXN-1424,2024-12-18,Jakarta,Jakarta Pusat,Distributor,Sausage,So Good Chicken Sausage 375g,301,33500,26500,10083500,7976500,2107000,Institution
+TXN-1425,2024-12-18,West Java,Bekasi,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,88,18500,15500,1628000,1364000,264000,HoReCa
+TXN-1426,2024-12-18,Banten,Cilegon,General Trade,Yoghurt,Cimory Yoghurt 500g,31,33500,28000,1038500,868000,170500,Wholesale
+TXN-1427,2024-12-18,Central Java,Tegal,Modern Trade,Sausage,Kimbo Beef Sausage 375g,24,33500,27000,804000,648000,156000,HoReCa
+TXN-1428,2024-12-18,Sulawesi,Palu,General Trade,Yoghurt,Cimory Yoghurt 500g,34,30000,24000,1020000,816000,204000,Retail
+TXN-1429,2024-12-19,East Java,Jember,Modern Trade,Cheese,Kiri Cream Cheese 80g,62,21500,16500,1333000,1023000,310000,HoReCa
+TXN-1430,2024-12-19,West Java,Bogor,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,19,19500,15500,370500,294500,76000,Retail
+TXN-1431,2024-12-19,Sumatera,Medan,General Trade,Milk,Premium Whole Milk 1L,64,22500,20000,1440000,1280000,160000,Wholesale
+TXN-1432,2024-12-19,Sulawesi,Palu,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,28,9000,7000,252000,196000,56000,Wholesale
+TXN-1433,2024-12-20,Banten,Cilegon,General Trade,Cheese,Kraft Cheddar Cheese 165g,57,29500,22500,1681500,1282500,399000,Retail
+TXN-1434,2024-12-20,Kalimantan,Balikpapan,Distributor,Milk,Premium Whole Milk 1L,169,23500,20500,3971500,3464500,507000,Wholesale
+TXN-1435,2024-12-21,Central Java,Semarang,General Trade,Sausage,Kimbo Beef Sausage 375g,50,36500,29000,1825000,1450000,375000,Retail
+TXN-1436,2024-12-21,West Java,Cimahi,General Trade,Milk,Chocolate 1L,12,20000,17500,240000,210000,30000,Retail
+TXN-1437,2024-12-22,Central Java,Tegal,General Trade,Nugget,Champ Chicken Nugget 250g,59,20000,17000,1180000,1003000,177000,Retail
+TXN-1438,2024-12-22,Jakarta,Jakarta Selatan,Distributor,Milk,Premium Whole Milk 1L,123,24000,20500,2952000,2521500,430500,HoReCa
+TXN-1439,2024-12-22,Kalimantan,Pontianak,Modern Trade,Milk,Cimory Milk Vanilla 200ml,65,4000,3500,260000,227500,32500,Retail
+TXN-1440,2024-12-22,Jakarta,Jakarta Selatan,Distributor,Nugget,So Good Chicken Nugget 500g,247,48500,42500,11979500,10497500,1482000,Wholesale
+TXN-1441,2024-12-22,Kalimantan,Balikpapan,Modern Trade,Sausage,So Good Chicken Sausage 375g,86,31000,24000,2666000,2064000,602000,Retail
+TXN-1442,2024-12-22,Jakarta,Jakarta Barat,Distributor,Milk,Premium Whole Milk 1L,280,24500,21500,6860000,6020000,840000,Wholesale
+TXN-1443,2024-12-22,Bali,Denpasar,General Trade,Sausage,So Good Chicken Sausage 375g,62,30500,23500,1891000,1457000,434000,Wholesale
+TXN-1444,2024-12-22,West Java,Depok,General Trade,Cheese,Kiri Cream Cheese 80g,19,25000,19000,475000,361000,114000,Retail
+TXN-1445,2024-12-22,Central Java,Magelang,Distributor,Milk,Cimory Full Cream 1L,171,20000,17500,3420000,2992500,427500,HoReCa
+TXN-1446,2024-12-23,Sumatera,Palembang,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,88,12000,10000,1056000,880000,176000,Retail
+TXN-1447,2024-12-23,Bali,Singaraja,Modern Trade,Yoghurt,Cimory Mini Yoghurt 60ml,75,7500,6000,562500,450000,112500,Retail
+TXN-1448,2024-12-23,Bali,Kuta,General Trade,Milk,Premium Whole Milk 1L,55,27500,24000,1512500,1320000,192500,Retail
+TXN-1449,2024-12-23,Bali,Singaraja,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,53,20000,16500,1060000,874500,185500,Retail
+TXN-1450,2024-12-23,East Java,Jember,Modern Trade,Milk,Cimory Milk Vanilla 200ml,35,5500,5000,192500,175000,17500,Retail
+TXN-1451,2024-12-23,East Java,Blitar,General Trade,Nugget,Contadina Crispy Nugget 250g,21,22000,18500,462000,388500,73500,Retail
+TXN-1452,2024-12-23,Central Java,Magelang,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,37,11500,9500,425500,351500,74000,Retail
+TXN-1453,2024-12-23,Central Java,Tegal,Modern Trade,Nugget,Champ Chicken Nugget 250g,42,23000,20000,966000,840000,126000,Retail
+TXN-1454,2024-12-24,Bali,Denpasar,General Trade,Yoghurt,Cimory Plain Yoghurt 400g,66,21000,17000,1386000,1122000,264000,Wholesale
+TXN-1455,2024-12-24,Sumatera,Banda Aceh,Distributor,Sausage,Vida Beef Sausage 200g,254,19000,15500,4826000,3937000,889000,HoReCa
+TXN-1456,2024-12-24,Jakarta,Jakarta Utara,General Trade,Cheese,Kiri Cream Cheese 80g,70,26000,18500,1820000,1295000,525000,Retail
+TXN-1457,2024-12-24,Jakarta,Jakarta Selatan,Modern Trade,Sausage,Kimbo Beef Sausage 375g,102,29000,22000,2958000,2244000,714000,Retail
+TXN-1458,2024-12-24,Bali,Kuta,Modern Trade,Cheese,Laughing Cow Creamy 8pcs,39,21000,16500,819000,643500,175500,HoReCa
+TXN-1459,2024-12-24,West Java,Bekasi,General Trade,Milk,Chocolate 1L,46,18000,15500,828000,713000,115000,Retail
+TXN-1460,2024-12-24,Jakarta,Jakarta Pusat,Modern Trade,Cheese,Kiri Cream Cheese 80g,29,21500,17000,623500,493000,130500,Retail
+TXN-1461,2024-12-24,Jakarta,Jakarta Selatan,General Trade,Milk,Chocolate 1L,66,17000,15000,1122000,990000,132000,Wholesale
+TXN-1462,2024-12-24,Jakarta,Jakarta Selatan,General Trade,Cheese,Anchor Cheddar Block 500g,26,80000,56000,2080000,1456000,624000,Retail
+TXN-1463,2024-12-25,East Java,Malang,Modern Trade,Yoghurt,Cimory Plain Yoghurt 400g,46,20000,16500,920000,759000,161000,Retail
+TXN-1464,2024-12-25,East Java,Blitar,General Trade,Cheese,Laughing Cow Creamy 8pcs,22,18000,13000,396000,286000,110000,Retail
+TXN-1465,2024-12-25,Kalimantan,Samarinda,General Trade,Milk,Cimory Milk Vanilla 200ml,17,5500,5000,93500,85000,8500,Wholesale
+TXN-1466,2024-12-25,East Java,Blitar,Distributor,Milk,Cimory Full Cream 1L,161,19500,17500,3139500,2817500,322000,Wholesale
+TXN-1467,2024-12-25,Bali,Ubud,Modern Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,36,10500,8500,378000,306000,72000,Retail
+TXN-1468,2024-12-25,Bali,Kuta,Distributor,Cheese,Prochiz Gold Slices 150g,357,25500,18000,9103500,6426000,2677500,Institution
+TXN-1469,2024-12-26,Sumatera,Pekanbaru,Modern Trade,Milk,Cimory Milk Vanilla 200ml,56,6000,5000,336000,280000,56000,Retail
+TXN-1470,2024-12-27,Bali,Singaraja,General Trade,Yoghurt,Cimory Mini Yoghurt 60ml,58,6000,5000,348000,290000,58000,Retail
+TXN-1471,2024-12-27,Sulawesi,Kendari,General Trade,Milk,Cimory Chocolate 200ml,61,5500,5000,335500,305000,30500,Retail
+TXN-1472,2024-12-27,Yogyakarta,Bantul,Modern Trade,Yoghurt,Cimory Yoghurt Drink 250ml,52,10500,8500,546000,442000,104000,Retail
+TXN-1473,2024-12-27,Central Java,Solo,General Trade,Yoghurt,Cimory Yoghurt Strawberry 100g,21,9000,7500,189000,157500,31500,Wholesale
+TXN-1474,2024-12-27,Kalimantan,Samarinda,Distributor,Nugget,Champ Chicken Nugget 250g,350,27000,23000,9450000,8050000,1400000,Institution
+TXN-1475,2024-12-28,Central Java,Magelang,General Trade,Milk,Cimory Chocolate 200ml,44,4500,4000,198000,176000,22000,Retail
+TXN-1476,2024-12-28,East Java,Jember,Modern Trade,Sausage,So Good Chicken Sausage 375g,60,34000,26000,2040000,1560000,480000,Retail
+TXN-1477,2024-12-28,Central Java,Pekalongan,General Trade,Cheese,Laughing Cow Creamy 8pcs,44,20000,15500,880000,682000,198000,Wholesale
+TXN-1478,2024-12-28,Jakarta,Jakarta Utara,General Trade,Milk,Chocolate 1L,54,21000,18000,1134000,972000,162000,Wholesale
+TXN-1479,2024-12-28,Sulawesi,Kendari,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,208,11500,9500,2392000,1976000,416000,Wholesale
+TXN-1480,2024-12-28,East Java,Kediri,Modern Trade,Sausage,Vida Beef Sausage 200g,60,16000,13000,960000,780000,180000,Retail
+TXN-1481,2024-12-28,Jakarta,Jakarta Pusat,Distributor,Milk,Cimory Chocolate 200ml,236,6500,5500,1534000,1298000,236000,HoReCa
+TXN-1482,2024-12-28,Sulawesi,Kendari,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,285,11500,9500,3277500,2707500,570000,Institution
+TXN-1483,2024-12-28,Sulawesi,Makassar,General Trade,Sausage,Kimbo Beef Sausage 375g,67,35500,29000,2378500,1943000,435500,Retail
+TXN-1484,2024-12-28,Sulawesi,Makassar,Distributor,Yoghurt,Cimory Yoghurt Strawberry 100g,327,9000,7500,2943000,2452500,490500,Institution
+TXN-1485,2024-12-28,Banten,Tangerang,Modern Trade,Cheese,Prochiz Gold Slices 150g,91,27500,20000,2502500,1820000,682500,HoReCa
+TXN-1486,2024-12-28,Kalimantan,Samarinda,General Trade,Milk,Cimory Milk Vanilla 200ml,25,5500,5000,137500,125000,12500,Retail
+TXN-1487,2024-12-28,Central Java,Solo,General Trade,Sausage,So Good Chicken Sausage 375g,23,36500,28500,839500,655500,184000,Wholesale
+TXN-1488,2024-12-29,Kalimantan,Balikpapan,Modern Trade,Milk,Premium Whole Milk 1L,72,24000,21500,1728000,1548000,180000,HoReCa
+TXN-1489,2024-12-29,West Java,Bekasi,General Trade,Nugget,Champ Chicken Nugget 250g,25,23000,20000,575000,500000,75000,Retail
+TXN-1490,2024-12-29,East Java,Jember,Distributor,Milk,Cimory Milk Vanilla 200ml,80,6000,5000,480000,400000,80000,HoReCa
+TXN-1491,2024-12-29,Kalimantan,Banjarmasin,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,287,11000,9000,3157000,2583000,574000,Wholesale
+TXN-1492,2024-12-30,Jakarta,Jakarta Barat,Modern Trade,Sausage,Kimbo Beef Sausage 375g,113,33000,27000,3729000,3051000,678000,Retail
+TXN-1493,2024-12-30,Jakarta,Jakarta Timur,Modern Trade,Sausage,Farmhouse Sausage 250g,78,21000,16500,1638000,1287000,351000,Retail
+TXN-1494,2024-12-31,East Java,Malang,Modern Trade,Milk,Cimory Chocolate 200ml,69,5500,5000,379500,345000,34500,HoReCa
+TXN-1495,2024-12-31,West Java,Depok,Distributor,Yoghurt,Cimory Yoghurt Drink 250ml,346,12500,10500,4325000,3633000,692000,Institution
+TXN-1496,2024-12-31,Jakarta,Jakarta Utara,Modern Trade,Sausage,Vida Beef Sausage 200g,104,21000,16000,2184000,1664000,520000,Retail
+TXN-1497,2024-12-31,Sulawesi,Kendari,Modern Trade,Sausage,So Good Chicken Sausage 375g,70,32000,26000,2240000,1820000,420000,Retail
+TXN-1498,2024-12-31,Jakarta,Jakarta Pusat,Modern Trade,Sausage,Bernardi Beef Sausage 500g,56,58000,45000,3248000,2520000,728000,Retail
+TXN-1499,2024-12-31,Central Java,Solo,Modern Trade,Cheese,Kraft Cheddar Cheese 165g,84,29000,21000,2436000,1764000,672000,Retail
+TXN-1500,2024-12-31,Kalimantan,Balikpapan,Modern Trade,Milk,Cimory Milk Vanilla 200ml,101,5000,4500,505000,454500,50500,Retail
