@@ -63,6 +63,7 @@ These 10 products fall below average margins (18.75%) and generate low absolute 
 * *Margin Dynamics:* Although General Trade represents the smallest volume, it provides the highest average margin rate (**17.77%** vs. Modern Trade’s **17.5%** and Distributors' **17.3%**).
 
 ### Customer Segmentation
+![customer_segementaion_profit](../assets/gross_profit_margin.png)
 * **Wholesale:** Contributes **Rp 170,850,000** profit (Margin: 17.40%).
 * **Retail:** Contributes **Rp 158,473,000** profit (Margin: 17.72%).
 * **Institution:** Contributes **Rp 88,907,000** profit (Margin: 18.19%).
@@ -73,7 +74,7 @@ These 10 products fall below average margins (18.75%) and generate low absolute 
 
 ## 5. Regional Diagnostics
 Jakarta remains the core hub of operations, but secondary regions show promising profitability profiles.
-
+![performance](../assets/scater_plot_performance.png)
 | Region | Total Revenue (Rp) | Revenue Share | Total Profit (Rp) | Average Margin % |
 |---|---|---|---|---|
 | **Jakarta** | 531,247,500 | 20.56% | 99,725,000 | 17.89% |
