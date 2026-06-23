@@ -92,6 +92,7 @@ Jakarta remains the core hub of operations, but secondary regions show promising
 ---
 
 ## 6. Trend & Predictive Revenue Forecasting
+![monthly_revenue](../assets/monthly_revenue_trends.png)
 * **Seasonality:** Peak sales occur in **December (Rp 394,668,000)** due to end-of-year holiday demand.
 * **Forecasted Revenue (Next Quarter):**
   * **Month 1 (Jan):** Rp 279,339,576
