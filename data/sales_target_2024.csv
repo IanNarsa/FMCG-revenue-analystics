@@ -1,0 +1,121 @@
+Month,Region,Target_Revenue,Target_Units
+January,Bali,1000000,40
+January,Banten,7000000,439
+January,Central Java,30500000,918
+January,East Java,28500000,1491
+January,Jakarta,49000000,1578
+January,Kalimantan,22000000,650
+January,Sulawesi,8000000,194
+January,Sumatera,21000000,811
+January,West Java,21500000,906
+January,Yogyakarta,7500000,233
+February,Bali,12000000,306
+February,Banten,9000000,399
+February,Central Java,6000000,580
+February,East Java,24000000,895
+February,Jakarta,53000000,1806
+February,Kalimantan,18000000,686
+February,Sulawesi,8500000,180
+February,Sumatera,10500000,447
+February,West Java,33000000,847
+February,Yogyakarta,7500000,295
+March,Bali,12500000,511
+March,Banten,23000000,780
+March,Central Java,39000000,1255
+March,East Java,28000000,1215
+March,Jakarta,40500000,1233
+March,Kalimantan,4000000,139
+March,Sulawesi,7500000,307
+March,Sumatera,13500000,434
+March,West Java,15500000,681
+March,Yogyakarta,12000000,383
+April,Bali,4500000,277
+April,Banten,11000000,518
+April,Central Java,12000000,683
+April,East Java,15000000,503
+April,Jakarta,39500000,1089
+April,Kalimantan,12500000,638
+April,Sulawesi,10000000,638
+April,Sumatera,13000000,583
+April,West Java,37000000,1821
+April,Yogyakarta,13000000,531
+May,Bali,15500000,697
+May,Banten,19000000,924
+May,Central Java,23000000,1200
+May,East Java,15000000,627
+May,Jakarta,35000000,1129
+May,Kalimantan,25500000,909
+May,Sulawesi,9500000,579
+May,Sumatera,22500000,748
+May,West Java,36000000,1442
+May,Yogyakarta,29500000,780
+June,Bali,16500000,572
+June,Banten,41500000,1668
+June,Central Java,41000000,1442
+June,East Java,56000000,1994
+June,Jakarta,40000000,2113
+June,Kalimantan,39500000,1398
+June,Sulawesi,17000000,941
+June,Sumatera,26000000,835
+June,West Java,56000000,2438
+June,Yogyakarta,7000000,176
+July,Bali,42000000,1384
+July,Banten,18500000,945
+July,Central Java,44000000,2380
+July,East Java,31000000,1238
+July,Jakarta,54000000,1874
+July,Kalimantan,14500000,647
+July,Sulawesi,35500000,1061
+July,Sumatera,41000000,1487
+July,West Java,43500000,2099
+July,Yogyakarta,8000000,392
+August,Bali,5500000,248
+August,Banten,17000000,520
+August,Central Java,32500000,912
+August,East Java,39500000,1431
+August,Jakarta,67000000,2759
+August,Kalimantan,8000000,475
+August,Sulawesi,3000000,206
+August,Sumatera,42000000,1232
+August,West Java,54500000,1419
+August,Yogyakarta,5500000,340
+September,Bali,15000000,644
+September,Banten,19000000,613
+September,Central Java,9500000,347
+September,East Java,29000000,1271
+September,Jakarta,38500000,1536
+September,Kalimantan,6500000,316
+September,Sulawesi,21000000,683
+September,Sumatera,15500000,876
+September,West Java,41500000,2015
+September,Yogyakarta,5500000,315
+October,Bali,2500000,230
+October,Banten,16000000,498
+October,Central Java,10000000,323
+October,East Java,16500000,649
+October,Jakarta,13500000,1031
+October,Kalimantan,12000000,665
+October,Sulawesi,8000000,305
+October,Sumatera,25000000,1024
+October,West Java,31500000,1041
+October,Yogyakarta,5000000,268
+November,Bali,5500000,165
+November,Banten,5500000,216
+November,Central Java,46000000,1495
+November,East Java,36000000,1458
+November,Jakarta,42000000,1618
+November,Kalimantan,6500000,399
+November,Sulawesi,10500000,698
+November,Sumatera,22500000,1081
+November,West Java,60000000,2163
+November,Yogyakarta,8500000,355
+December,Bali,49000000,2465
+December,Banten,22000000,737
+December,Central Java,86500000,2880
+December,East Java,43000000,1870
+December,Jakarta,141500000,5484
+December,Kalimantan,49500000,2868
+December,Sulawesi,23500000,1588
+December,Sumatera,16000000,886
+December,West Java,43000000,2102
+December,Yogyakarta,22000000,1145

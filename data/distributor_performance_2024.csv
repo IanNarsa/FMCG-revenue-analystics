@@ -1,0 +1,241 @@
+Month,Distributor_ID,Distributor_Name,Region,STD_Qty,STT_Qty,Ending_Inventory
+January,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,775,627,1153
+February,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,867,704,1316
+March,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,503,430,1389
+April,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,466,380,1475
+May,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,492,398,1569
+June,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,850,754,1665
+July,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,746,643,1768
+August,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,1247,1010,2005
+September,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,643,527,2121
+October,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,469,363,2227
+November,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,679,553,2353
+December,DST-JKT-001,PT Maju Bersama Distribusi,Jakarta,2002,1700,2655
+January,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,563,481,961
+February,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,679,595,1045
+March,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,409,354,1100
+April,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,333,301,1132
+May,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,430,378,1184
+June,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,670,614,1240
+July,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,614,570,1284
+August,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,908,791,1401
+September,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,568,502,1467
+October,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,415,354,1528
+November,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,606,545,1589
+December,DST-JKT-002,PT Nusa Jaya Trading,Jakarta,1687,1549,1727
+January,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,396,351,673
+February,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,432,397,708
+March,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,280,262,726
+April,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,252,237,741
+May,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,293,268,766
+June,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,437,412,791
+July,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,391,372,810
+August,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,638,592,856
+September,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,381,347,890
+October,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,253,232,911
+November,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,407,371,947
+December,DST-JKT-003,PT Prima Distribusi Jakarta,Jakarta,1259,1171,1035
+January,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,375,321,873
+February,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,342,292,923
+March,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,255,231,947
+April,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,664,573,1038
+May,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,593,526,1105
+June,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,902,838,1169
+July,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,727,683,1213
+August,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,521,454,1280
+September,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,838,762,1356
+October,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,430,375,1411
+November,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,866,762,1515
+December,DST-WJV-001,PT Bandung Sejahtera Distribusi,West Java,719,673,1561
+January,DST-WJV-002,PT Bogor Mitra Trading,West Java,386,304,799
+February,DST-WJV-002,PT Bogor Mitra Trading,West Java,345,281,863
+March,DST-WJV-002,PT Bogor Mitra Trading,West Java,260,210,913
+April,DST-WJV-002,PT Bogor Mitra Trading,West Java,618,529,1002
+May,DST-WJV-002,PT Bogor Mitra Trading,West Java,582,479,1105
+June,DST-WJV-002,PT Bogor Mitra Trading,West Java,787,682,1210
+July,DST-WJV-002,PT Bogor Mitra Trading,West Java,744,666,1288
+August,DST-WJV-002,PT Bogor Mitra Trading,West Java,550,452,1386
+September,DST-WJV-002,PT Bogor Mitra Trading,West Java,713,607,1492
+October,DST-WJV-002,PT Bogor Mitra Trading,West Java,451,362,1581
+November,DST-WJV-002,PT Bogor Mitra Trading,West Java,805,664,1722
+December,DST-WJV-002,PT Bogor Mitra Trading,West Java,588,578,1732
+January,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,221,203,530
+February,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,201,181,550
+March,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,161,146,565
+April,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,442,404,603
+May,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,320,296,627
+June,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,543,521,649
+July,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,462,439,672
+August,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,319,292,699
+September,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,477,448,728
+October,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,266,236,758
+November,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,502,470,790
+December,DST-WJV-003,PT Bekasi Utama Distribusi,West Java,411,388,813
+January,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,740,590,863
+February,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,437,345,955
+March,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,605,492,1068
+April,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,216,185,1099
+May,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,297,246,1150
+June,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,750,724,1176
+July,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,666,460,1382
+August,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,689,565,1506
+September,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,635,516,1625
+October,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,325,256,1694
+November,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,672,543,1823
+December,DST-EJV-001,PT Surabaya Distribusi Utama,East Java,734,661,1896
+January,DST-EJV-002,PT Malang Jaya Trading,East Java,583,510,627
+February,DST-EJV-002,PT Malang Jaya Trading,East Java,345,295,677
+March,DST-EJV-002,PT Malang Jaya Trading,East Java,416,377,716
+April,DST-EJV-002,PT Malang Jaya Trading,East Java,152,137,731
+May,DST-EJV-002,PT Malang Jaya Trading,East Java,234,209,756
+June,DST-EJV-002,PT Malang Jaya Trading,East Java,666,595,827
+July,DST-EJV-002,PT Malang Jaya Trading,East Java,403,376,854
+August,DST-EJV-002,PT Malang Jaya Trading,East Java,472,427,899
+September,DST-EJV-002,PT Malang Jaya Trading,East Java,433,387,945
+October,DST-EJV-002,PT Malang Jaya Trading,East Java,231,194,982
+November,DST-EJV-002,PT Malang Jaya Trading,East Java,543,480,1045
+December,DST-EJV-002,PT Malang Jaya Trading,East Java,582,531,1096
+January,DST-EJV-003,PT Jember Mitra Distribusi,East Java,287,259,345
+February,DST-EJV-003,PT Jember Mitra Distribusi,East Java,176,161,360
+March,DST-EJV-003,PT Jember Mitra Distribusi,East Java,237,216,381
+April,DST-EJV-003,PT Jember Mitra Distribusi,East Java,99,91,389
+May,DST-EJV-003,PT Jember Mitra Distribusi,East Java,126,117,398
+June,DST-EJV-003,PT Jember Mitra Distribusi,East Java,345,325,418
+July,DST-EJV-003,PT Jember Mitra Distribusi,East Java,227,211,434
+August,DST-EJV-003,PT Jember Mitra Distribusi,East Java,263,243,454
+September,DST-EJV-003,PT Jember Mitra Distribusi,East Java,241,226,469
+October,DST-EJV-003,PT Jember Mitra Distribusi,East Java,121,111,479
+November,DST-EJV-003,PT Jember Mitra Distribusi,East Java,287,262,504
+December,DST-EJV-003,PT Jember Mitra Distribusi,East Java,289,273,520
+January,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,567,480,933
+February,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,358,313,978
+March,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,708,613,1073
+April,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,352,314,1111
+May,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,679,594,1196
+June,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,667,625,1238
+July,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,1194,1124,1308
+August,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,449,401,1356
+September,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,188,164,1380
+October,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,198,172,1406
+November,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,770,686,1490
+December,DST-CJV-001,PT Semarang Distribusi Prima,Central Java,1380,1263,1607
+January,DST-CJV-002,PT Solo Maju Distribusi,Central Java,454,406,740
+February,DST-CJV-002,PT Solo Maju Distribusi,Central Java,252,225,767
+March,DST-CJV-002,PT Solo Maju Distribusi,Central Java,552,514,805
+April,DST-CJV-002,PT Solo Maju Distribusi,Central Java,281,259,827
+May,DST-CJV-002,PT Solo Maju Distribusi,Central Java,506,466,867
+June,DST-CJV-002,PT Solo Maju Distribusi,Central Java,608,566,909
+July,DST-CJV-002,PT Solo Maju Distribusi,Central Java,927,877,959
+August,DST-CJV-002,PT Solo Maju Distribusi,Central Java,395,359,995
+September,DST-CJV-002,PT Solo Maju Distribusi,Central Java,137,150,982
+October,DST-CJV-002,PT Solo Maju Distribusi,Central Java,139,127,994
+November,DST-CJV-002,PT Solo Maju Distribusi,Central Java,658,603,1049
+December,DST-CJV-002,PT Solo Maju Distribusi,Central Java,1050,975,1124
+January,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,546,424,741
+February,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,292,225,808
+March,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,236,195,849
+April,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,300,249,900
+May,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,419,355,964
+June,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,467,413,1018
+July,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,736,663,1091
+August,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,673,543,1221
+September,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,537,436,1322
+October,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,604,476,1450
+November,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,613,515,1548
+December,DST-SUM-001,PT Medan Distribusi Nusantara,Sumatera,439,397,1590
+January,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,411,355,562
+February,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,203,176,589
+March,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,195,175,609
+April,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,262,229,642
+May,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,330,292,680
+June,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,370,334,716
+July,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,582,527,771
+August,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,540,466,845
+September,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,378,336,887
+October,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,532,453,966
+November,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,503,443,1026
+December,DST-SUM-002,PT Palembang Jaya Trading,Sumatera,320,301,1045
+January,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,328,287,558
+February,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,348,290,616
+March,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,71,63,624
+April,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,332,286,670
+May,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,439,392,717
+June,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,636,599,754
+July,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,301,272,783
+August,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,234,206,811
+September,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,158,142,827
+October,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,346,302,871
+November,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,191,169,893
+December,DST-KLM-001,PT Banjarmasin Mitra Distribusi,Kalimantan,1135,1039,989
+January,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,324,290,551
+February,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,358,321,588
+March,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,55,59,584
+April,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,304,285,603
+May,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,446,410,639
+June,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,629,592,676
+July,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,290,276,690
+August,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,215,202,703
+September,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,158,149,712
+October,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,318,282,748
+November,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,206,188,766
+December,DST-KLM-002,PT Balikpapan Utama Trading,Kalimantan,1217,1163,820
+January,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,303,237,600
+February,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,276,213,663
+March,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,501,419,745
+April,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,289,249,785
+May,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,605,513,877
+June,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,875,776,976
+July,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,498,451,1023
+August,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,305,257,1071
+September,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,402,343,1130
+October,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,313,255,1188
+November,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,128,108,1208
+December,DST-BTN-001,PT Tangerang Prima Distribusi,Banten,389,348,1249
+January,DST-BTN-002,PT Serang Mitra Trading,Banten,182,155,383
+February,DST-BTN-002,PT Serang Mitra Trading,Banten,180,153,410
+March,DST-BTN-002,PT Serang Mitra Trading,Banten,282,256,436
+April,DST-BTN-002,PT Serang Mitra Trading,Banten,195,175,456
+May,DST-BTN-002,PT Serang Mitra Trading,Banten,366,332,490
+June,DST-BTN-002,PT Serang Mitra Trading,Banten,637,588,539
+July,DST-BTN-002,PT Serang Mitra Trading,Banten,339,308,570
+August,DST-BTN-002,PT Serang Mitra Trading,Banten,213,191,592
+September,DST-BTN-002,PT Serang Mitra Trading,Banten,257,222,627
+October,DST-BTN-002,PT Serang Mitra Trading,Banten,205,178,654
+November,DST-BTN-002,PT Serang Mitra Trading,Banten,82,74,662
+December,DST-BTN-002,PT Serang Mitra Trading,Banten,261,241,682
+January,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,31,38,794
+February,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,337,287,844
+March,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,483,424,903
+April,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,280,245,938
+May,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,677,588,1027
+June,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,515,470,1072
+July,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,1244,1134,1182
+August,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,237,209,1210
+September,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,676,593,1293
+October,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,257,224,1326
+November,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,160,143,1343
+December,DST-BAL-001,PT Bali Nusantara Distribusi,Bali,1968,1840,1471
+January,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,194,174,806
+February,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,182,165,823
+March,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,291,273,841
+April,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,605,553,893
+May,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,535,505,923
+June,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,799,744,978
+July,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,952,893,1037
+August,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,196,183,1050
+September,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,688,648,1090
+October,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,327,301,1116
+November,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,645,600,1161
+December,DST-SUL-001,PT Makassar Distribusi Indonesia,Sulawesi,1369,1272,1258
+January,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,265,225,599
+February,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,299,262,636
+March,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,403,355,684
+April,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,539,467,756
+May,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,790,711,835
+June,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,171,159,847
+July,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,368,336,879
+August,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,337,298,918
+September,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,347,307,958
+October,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,303,259,1002
+November,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,393,339,1056
+December,DST-YGY-001,PT Yogyakarta Maju Distribusi,Yogyakarta,965,894,1127
