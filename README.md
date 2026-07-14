@@ -52,8 +52,6 @@ Navigate through the code files that power these insights:
 * 📁 **[notebook/](notebook/)**
   * [`FMCG_Data_Analytics.ipynb`](/notebook/FMCG_Data_Analytics.ipynb): The core Python analytics engine. Features data cleansing, missing value diagnostics, Pareto (80/20) calculations, distributor performance analysis, target vs. actual benchmarking, product performance matrices, and predictive sales forecasting models.
 
-* 📁 **[sql/](sql/)**
-  * [`queries.sql`](/sql/queries.sql): Essential SQL scripts used to join datasets, aggregate monthly channel margins, and identify top-performing regions.
 
 * 📁 **[docs/](/docs/)**
   * [`business_case_study.md`](/docs/business_case_study.md): A business advisory report outlining executive summaries, regional diagnostics, and portfolio optimization.
