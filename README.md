@@ -51,6 +51,7 @@ Navigate through the code files that power these insights:
 
 * 📁 **[notebook/](notebook/)**
   * [`FMCG_Data_Analytics.ipynb`](/notebook/FMCG_Data_Analytics.ipynb): The core Python analytics engine. Features data cleansing, missing value diagnostics, Pareto (80/20) calculations, distributor performance analysis, target vs. actual benchmarking, product performance matrices, and predictive sales forecasting models.
+  * [`Customer_City_Segmentation.ipynb`](/notebook/Customer_City_Segmentation.ipynb): A dedicated notebook for segmenting customers based on city-level metrics, identifying regional purchasing behaviors, and demographic-driven revenue patterns.
 
 
 * 📁 **[docs/](/docs/)**

@@ -47,7 +47,6 @@ Ketiga dataset diverifikasi memiliki cakupan region yang identik (10 region), ta
 - Uji korelasi lintas dataset (kesehatan distributor vs pencapaian target)
 
 **Tidak termasuk (keterbatasan data):**
-- Target hanya tersedia di level region, sehingga tidak bisa dievaluasi di level kota atau kanal
 - Tidak ada data harga kompetitor atau aktivitas marketing/promosi, sehingga penyebab fluktuasi MoM tidak bisa dipastikan sepenuhnya dari data ini
 - Analisis bersifat deskriptif dan korelasional, bukan kausal — temuan hubungan antar variabel perlu divalidasi lebih lanjut sebelum dijadikan dasar kebijakan besar
 
