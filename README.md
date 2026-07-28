@@ -1,7 +1,9 @@
 # 📊 FMCG Revenue & Profitability Analytics Portfolio
 
 [![Role: BI / Revenue Analyst](https://img.shields.io/badge/Role-BI%20%2F%20Revenue%20Analyst-blue.svg)](#)
+
 [![Tech: SQL & Python](https://img.shields.io/badge/Tech-SQL%20%7C%20Python%20%7C%20Looker%20Studio-orange.svg)](#)
+
 [![Industry: FMCG / Retail](https://img.shields.io/badge/Industry-FMCG%20%2F%20Retail-green.svg)](#)
 
 > **Business Case Objective:** Evaluate 2024 sales performance across 10 regions, 25 SKUs, and 20 distributor partners — integrating three datasets (transactions, regional targets, and distributor stock data) — to determine whether revenue targets were realistic, identify key revenue drivers, detect distributor operational risks, and deliver data-backed strategic recommendations to senior management.
